@@ -242,36 +242,59 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     injected = f"""
 <style>
   body {{ margin: 0; overflow: hidden; }}
-  #graph-ui {{
+  #right-panel {{
     position: fixed;
     top: 16px;
     right: 16px;
-    z-index: 9999;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    pointer-events: none;
-  }}
-  #legend-panel {{
+    width: 220px;
+    max-height: calc(100vh - 32px);
     background: rgba(15,15,26,0.92);
     border: 1px solid rgba(255,255,255,0.12);
     border-radius: 12px;
-    padding: 18px 22px;
-    font-family: 'Segoe UI', Arial, sans-serif;
-    font-size: 14px;
-    color: #e0e0e0;
-    min-width: 200px;
     box-shadow: 0 4px 24px rgba(0,0,0,0.6);
+    z-index: 9999;
+    overflow-y: auto;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    color: #e0e0e0;
+    backdrop-filter: blur(10px);
     pointer-events: all;
   }}
-  #legend-panel h3 {{
-    margin: 0 0 12px 0;
-    font-size: 15px;
-    font-weight: 700;
+  #right-panel::-webkit-scrollbar {{ width: 6px; }}
+  #right-panel::-webkit-scrollbar-thumb {{ background: rgba(255,255,255,0.2); border-radius: 3px; }}
+  
+  .rp-section {{
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }}
+  .rp-section:last-child {{ border-bottom: none; }}
+  .rp-summary {{
+    padding: 12px 16px;
+    font-size: 13px;
+    font-weight: bold;
     color: #a0c4ff;
-    letter-spacing: 0.5px;
+    cursor: pointer;
+    user-select: none;
     display: flex;
     align-items: center;
+    list-style: none;
+    outline: none;
+    transition: background 0.2s;
+  }}
+  .rp-summary::-webkit-details-marker {{ display: none; }}
+  .rp-summary:hover {{ background: rgba(255,255,255,0.05); }}
+  .rp-summary::after {{
+    content: '▼';
+    font-size: 10px;
+    margin-left: auto;
+    transition: transform 0.2s;
+    color: #888;
+  }}
+  details[open] .rp-summary::after {{ transform: rotate(180deg); }}
+  .rp-content {{
+    padding: 0 16px 16px 16px;
+    font-size: 13px;
+  }}
+  .rp-summary-icon {{
+    margin-right: 8px;
   }}
   .info-icon {{
     display: inline-flex;
@@ -288,34 +311,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     cursor: help;
     position: relative;
   }}
-  .info-tooltip {{
-    visibility: hidden;
-    position: absolute;
-    top: -10px;
-    right: 120%;
-    width: 250px;
-    background: rgba(15,15,26,0.98);
-    color: #ccc;
-    border: 1px solid rgba(255,255,255,0.2);
-    border-radius: 8px;
-    padding: 12px;
-    font-size: 12px;
-    font-weight: normal;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.8);
-    opacity: 0;
-    transition: opacity 0.2s;
-    pointer-events: none;
-    z-index: 10000;
-    line-height: 1.5;
-    text-align: left;
-  }}
-  .info-icon:hover .info-tooltip {{
-    visibility: visible;
-    opacity: 1;
-  }}
-  .info-tooltip strong {{
-    color: #a0c4ff;
-  }}
+
   .legend-item {{
     display: flex;
     align-items: center;
@@ -565,6 +561,99 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     border-color: #a0c4ff;
     color: #fff;
   }}
+
+  .analytics-category {{
+    margin-bottom: 20px;
+  }}
+  .analytics-category:last-child {{
+    margin-bottom: 0;
+  }}
+  .analytics-category h4 {{
+    margin: 0 0 10px 0;
+    font-size: 12px;
+    text-transform: uppercase;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 5px;
+  }}
+  .analytics-item {{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 6px 8px;
+    background: rgba(255,255,255,0.03);
+    border-radius: 4px;
+    margin-bottom: 6px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: all 0.2s;
+  }}
+  .analytics-item:hover {{
+    background: rgba(160,196,255,0.15);
+    border-color: rgba(160,196,255,0.3);
+  }}
+  .analytics-item-name {{
+    font-size: 12px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 140px;
+  }}
+  .analytics-item-score {{
+    font-size: 11px;
+    color: #ffd700;
+    font-weight: bold;
+    background: rgba(255,215,0,0.1);
+    padding: 2px 6px;
+    border-radius: 10px;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }}
+
+  .tab-btn {{
+      flex: 1;
+      background: none;
+      border: none;
+      color: #888;
+      padding: 8px 0;
+      cursor: pointer;
+      font-size: 13px;
+      border-bottom: 2px solid transparent;
+      outline: none;
+  }}
+  .tab-btn.active {{
+      color: #a0c4ff;
+      border-bottom-color: #a0c4ff;
+  }}
+  .mh-input {{
+      width: 100%;
+      box-sizing: border-box;
+      padding: 8px 10px;
+      margin-top: 5px;
+      background: rgba(0,0,0,0.3);
+      border: 1px solid #444;
+      color: #fff;
+      border-radius: 4px;
+      font-size: 13px;
+      outline: none;
+  }}
+  .mh-input:focus {{
+      border-color: #a0c4ff;
+  }}
+  .mh-action-btn {{
+      width: 100%;
+      margin-top: 15px;
+      padding: 8px;
+      background: #4A90D9;
+      color: #fff;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      font-weight: bold;
+      transition: background 0.2s;
+  }}
+  .mh-action-btn:hover {{
+      background: #357ABD;
+  }}
 </style>
 
 <div id="search-container">
@@ -583,27 +672,58 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
   <div id="info-content"></div>
 </div>
 
-<div id="graph-ui">
-  <div id="legend-panel">
-    <h3>
-      📊 Entity Types
-      <div class="info-icon">?
-        <div class="info-tooltip">
-          <strong>Paper:</strong> Dokumen paper utama.<br>
-          <strong>Author:</strong> Penulis paper.<br>
-          <strong>Institution:</strong> Afiliasi tempat penulis bernaung.<br>
-          <strong>Method:</strong> Algoritma, model arsitektur, teknik, atau pendekatan spesifik.<br>
-          <strong>Dataset:</strong> Kumpulan data untuk melatih/menguji model.<br>
-          <strong>Metric:</strong> Tolak ukur atau standar perhitungan untuk mengevaluasi.<br>
-          <strong>Finding:</strong> Kesimpulan, hasil utama, atau penemuan.<br>
-          <strong>Limitation:</strong> Kelemahan, batasan, atau kekurangan.
-        </div>
+<div id="right-panel">
+  <details class="rp-section" open>
+    <summary class="rp-summary">
+      <span class="rp-summary-icon">📊</span> Entity Types
+    </summary>
+    <div class="rp-content">
+      <div style="margin-bottom:12px; display:flex; align-items:center;">
+        <span style="font-size:12px; color:#a0c4ff; font-weight:bold;">Legend</span>
+        <div class="info-icon" id="legend-info-icon">?</div>
       </div>
-    </h3>
-    {legend_items}
-    <div id="hint">Hover untuk detail<br>Drag &amp; scroll to navigate</div>
-  </div>
-  <div id="stats-bar">{stats_html}</div>
+      {legend_items}
+      <div id="hint" style="margin-top:15px; text-align:center; color:#888; font-size:11px;">Hover untuk detail<br>Drag &amp; scroll to navigate</div>
+      <div id="stats-bar" style="margin-top:15px; padding-top:10px; border-top:1px solid rgba(255,255,255,0.1); text-align:center;">{stats_html}</div>
+    </div>
+  </details>
+
+  <details class="rp-section" id="details-insights">
+    <summary class="rp-summary">
+      <span class="rp-summary-icon">📈</span> Network Insights
+    </summary>
+    <div class="rp-content" id="analytics-content">
+      <!-- Generated by JS -->
+    </div>
+  </details>
+
+  <details class="rp-section" id="details-multihop">
+    <summary class="rp-summary">
+      <span class="rp-summary-icon">🔗</span> Path Discovery
+    </summary>
+    <div class="rp-content">
+      <label style="font-size:12px; color:#aaa;">Titik Awal (Node A)</label>
+      <input type="text" id="mh-node-a" class="mh-input" list="mh-nodelist" autocomplete="off" placeholder="Pilih Node A...">
+      
+      <label style="font-size:12px; color:#aaa; margin-top:10px; display:block;">Titik Tujuan (Node B)</label>
+      <input type="text" id="mh-node-b" class="mh-input" list="mh-nodelist" autocomplete="off" placeholder="Pilih Node B...">
+      
+      <button id="mh-run-dijkstra" class="mh-action-btn">Temukan Jalur</button>
+      <div id="mh-dijkstra-result" style="margin-top:15px; font-size:13px; color:#ccc;"></div>
+    </div>
+  </details>
+</div>
+<datalist id="mh-nodelist"></datalist>
+
+<div id="global-legend-tooltip" style="display:none; position:fixed; width:230px; background:rgba(15,15,26,0.98); color:#ccc; border:1px solid rgba(255,255,255,0.2); border-radius:8px; padding:12px; font-size:12px; line-height:1.5; z-index:10000; box-shadow:0 4px 15px rgba(0,0,0,0.8); pointer-events:none;">
+    <strong style="color:#a0c4ff;">Paper:</strong> Dokumen paper utama.<br>
+    <strong style="color:#a0c4ff;">Author:</strong> Penulis paper.<br>
+    <strong style="color:#a0c4ff;">Institution:</strong> Afiliasi tempat penulis bernaung.<br>
+    <strong style="color:#a0c4ff;">Method:</strong> Algoritma, model arsitektur, teknik, atau pendekatan spesifik.<br>
+    <strong style="color:#a0c4ff;">Dataset:</strong> Kumpulan data untuk melatih/menguji model.<br>
+    <strong style="color:#a0c4ff;">Metric:</strong> Tolak ukur atau standar perhitungan untuk mengevaluasi.<br>
+    <strong style="color:#a0c4ff;">Finding:</strong> Kesimpulan, hasil utama, atau penemuan.<br>
+    <strong style="color:#a0c4ff;">Limitation:</strong> Kelemahan, batasan, atau kekurangan.
 </div>
 
 <script>
@@ -1026,6 +1146,21 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       document.getElementById('info-panel').classList.remove('open');
   }});
 
+  // Global Legend Tooltip Logic
+  var legendIcon = document.getElementById('legend-info-icon');
+  var globalTooltip = document.getElementById('global-legend-tooltip');
+  if (legendIcon && globalTooltip) {{
+      legendIcon.addEventListener('mouseenter', function() {{
+          var rect = this.getBoundingClientRect();
+          globalTooltip.style.top = Math.max(16, rect.top - 20) + 'px';
+          globalTooltip.style.right = (window.innerWidth - rect.left + 15) + 'px';
+          globalTooltip.style.display = 'block';
+      }});
+      legendIcon.addEventListener('mouseleave', function() {{
+          globalTooltip.style.display = 'none';
+      }});
+  }}
+
   document.addEventListener('click', function(e) {{
       var container = document.getElementById('search-container');
       if (container && !container.contains(e.target)) {{
@@ -1039,6 +1174,236 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
           if (items.length > 0) executeSearchSelection(items[0].getAttribute('data-id'));
       }}
   }});
+
+  // --- Analytics Dashboard ---
+  var analyticsGenerated = false;
+  document.getElementById('details-insights').addEventListener('toggle', function(e) {{
+      if (e.target.open && !analyticsGenerated) {{
+          generateAnalytics();
+          analyticsGenerated = true;
+      }}
+  }});
+  var analyticsContent = document.getElementById('analytics-content');
+
+  function generateAnalytics() {{
+      var allNodes = nodes.get();
+      var allEdges = edges.get();
+
+      var degreeMap = {{}};
+      for (var i = 0; i < allEdges.length; i++) {{
+          var e = allEdges[i];
+          degreeMap[e.from] = (degreeMap[e.from] || 0) + 1;
+          degreeMap[e.to] = (degreeMap[e.to] || 0) + 1;
+      }}
+      
+      var grouped = {{
+          'Method': [],
+          'Dataset': [],
+          'Metric': [],
+          'Author': []
+      }};
+      
+      for (var i = 0; i < allNodes.length; i++) {{
+          var n = allNodes[i];
+          if (grouped[n.entity_type] !== undefined) {{
+              grouped[n.entity_type].push({{
+                  id: n.id,
+                  label: n.label,
+                  degree: degreeMap[n.id] || 0
+              }});
+          }}
+      }}
+      
+      var html = '';
+      var categories = ['Method', 'Dataset', 'Metric', 'Author'];
+      var categoryColors = {{
+          'Method': '#2ECC71',
+          'Dataset': '#F39C12',
+          'Metric': '#00BCD4',
+          'Author': '#E74C3C'
+      }};
+      
+      for (var c = 0; c < categories.length; c++) {{
+          var cat = categories[c];
+          var items = grouped[cat];
+          items.sort(function(a, b) {{ return b.degree - a.degree; }});
+          
+          var topItems = items.slice(0, 5);
+          if (topItems.length > 0) {{
+              html += '<div class="analytics-category">';
+              html += '<h4 style="color:' + categoryColors[cat] + ';">Top ' + cat + '</h4>';
+              for (var j = 0; j < topItems.length; j++) {{
+                  var item = topItems[j];
+                  if (item.degree > 0) {{
+                      html += '<div class="analytics-item" data-id="' + item.id.replace(/"/g, '&quot;') + '">';
+                      html += '<span class="analytics-item-name" title="' + item.id + '">' + item.label + '</span>';
+                      html += '<span class="analytics-item-score">⭐ ' + item.degree + '</span>';
+                      html += '</div>';
+                  }}
+              }}
+              html += '</div>';
+          }}
+      }}
+      
+      analyticsContent.innerHTML = html;
+      
+      var itemEls = analyticsContent.getElementsByClassName('analytics-item');
+      for (var k = 0; k < itemEls.length; k++) {{
+          itemEls[k].addEventListener('click', function() {{
+              var nodeId = this.getAttribute('data-id');
+              document.getElementById('details-insights').removeAttribute('open');
+              executeSearchSelection(nodeId);
+          }});
+      }}
+  }}
+
+  
+  var datalistsPopulated = false;
+  document.getElementById('details-multihop').addEventListener('toggle', function(e) {{
+      if (e.target.open && !datalistsPopulated) {{
+          populateDatalists();
+          datalistsPopulated = true;
+      }}
+  }});
+  
+  function populateDatalists() {{
+      var mhNodeList = document.getElementById('mh-nodelist');
+      if (!mhNodeList) return;
+      if (mhNodeList.children.length > 0) return;
+      var allNodes = nodes.get();
+      var nodeOpts = '';
+      for (var i = 0; i < allNodes.length; i++) {{
+          var n = allNodes[i];
+          nodeOpts += '<option value="' + n.id.replace(/"/g, '&quot;') + '">';
+      }}
+      mhNodeList.innerHTML = nodeOpts;
+  }}
+  
+
+  
+  // Dijkstra Shortest Path
+  document.getElementById('mh-run-dijkstra').addEventListener('click', function() {{
+      var startId = document.getElementById('mh-node-a').value;
+      var endId = document.getElementById('mh-node-b').value;
+      var resDiv = document.getElementById('mh-dijkstra-result');
+      
+      if (!startId || !endId) {{
+          resDiv.innerHTML = '<span style="color:#E74C3C;">Pilih kedua node terlebih dahulu.</span>';
+          return;
+      }}
+      if (!nodes.get(startId) || !nodes.get(endId)) {{
+          resDiv.innerHTML = '<span style="color:#E74C3C;">Node tidak valid. Pastikan dari dropdown.</span>';
+          return;
+      }}
+      
+      var allEdges = edges.get();
+      var adj = {{}};
+      for (var i = 0; i < allEdges.length; i++) {{
+          var e = allEdges[i];
+          if (!adj[e.from]) adj[e.from] = [];
+          if (!adj[e.to]) adj[e.to] = [];
+          adj[e.from].push(e.to);
+          adj[e.to].push(e.from);
+      }}
+      
+      var queue = [startId];
+      var visited = new Set([startId]);
+      var parent = {{}};
+      var found = false;
+      
+      while (queue.length > 0) {{
+          var curr = queue.shift();
+          if (curr === endId) {{
+              found = true;
+              break;
+          }}
+          var neighbors = adj[curr] || [];
+          for (var i = 0; i < neighbors.length; i++) {{
+              var n = neighbors[i];
+              if (!visited.has(n)) {{
+                  visited.add(n);
+                  parent[n] = curr;
+                  queue.push(n);
+              }}
+          }}
+      }}
+      
+      if (!found) {{
+          resDiv.innerHTML = '<span style="color:#F39C12;">Tidak ada jalur yang menghubungkan kedua node ini.</span>';
+          return;
+      }}
+      
+      var path = [];
+      var trace = endId;
+      while (trace) {{
+          path.push(trace);
+          trace = parent[trace];
+      }}
+      path.reverse();
+      
+      resDiv.innerHTML = '<span style="color:#2ECC71;">Jalur ditemukan! (' + (path.length - 1) + ' lompatan)</span>';
+      highlightPathInGraph(path);
+  }});
+  
+
+  
+  function highlightPathInGraph(pathIds, highlightOnlyNodes = false) {{
+      var pathSet = new Set(pathIds);
+      var allNodes = nodes.get();
+      var allEdges = edges.get();
+      
+      var nodeUpdates = [];
+      for (var i = 0; i < allNodes.length; i++) {{
+          var n = allNodes[i];
+          if (!n.original_bg) n.original_bg = n.color.background;
+          if (!n.original_border) n.original_border = n.color.border;
+          
+          if (pathSet.has(n.id)) {{
+              nodeUpdates.push({{
+                  id: n.id,
+                  color: {{ background: n.original_bg, border: '#ffffff' }},
+                  font: {{ color: '#ffffff' }},
+                  shadow: {{enabled: true, color: '#ffffff', size: 20, x: 0, y: 0}}
+              }});
+          }} else {{
+              nodeUpdates.push({{
+                  id: n.id,
+                  color: {{ background: hexToRgba(n.original_bg, 0.1), border: hexToRgba(n.original_border, 0.1) }},
+                  font: {{ color: 'rgba(255,255,255,0.1)' }},
+                  shadow: false
+              }});
+          }}
+      }}
+      nodes.update(nodeUpdates);
+      
+      var edgeUpdates = [];
+      for (var i = 0; i < allEdges.length; i++) {{
+          var e = allEdges[i];
+          if (highlightOnlyNodes) {{
+              if (pathSet.has(e.from) || pathSet.has(e.to)) {{
+                  edgeUpdates.push({{id: e.id, color: {{ opacity: 0.8 }}, width: 2}});
+              }} else {{
+                  edgeUpdates.push({{id: e.id, color: {{ opacity: 0.05 }}, width: 1}});
+              }}
+          }} else {{
+              var isPathEdge = false;
+              for (var j = 0; j < pathIds.length - 1; j++) {{
+                  if ((e.from === pathIds[j] && e.to === pathIds[j+1]) || (e.to === pathIds[j] && e.from === pathIds[j+1])) {{
+                      isPathEdge = true;
+                      break;
+                  }}
+              }}
+              if (isPathEdge) {{
+                  edgeUpdates.push({{id: e.id, color: {{ opacity: 1.0, color: '#ffffff' }}, width: 4}});
+              }} else {{
+                  edgeUpdates.push({{id: e.id, color: {{ opacity: 0.05 }}, width: 1}});
+              }}
+          }}
+      }}
+      edges.update(edgeUpdates);
+      
+      network.fit({{nodes: pathIds, animation: {{duration: 800}}}});
+  }}
 
 </script>
 """
