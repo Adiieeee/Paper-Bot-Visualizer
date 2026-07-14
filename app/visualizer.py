@@ -228,7 +228,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
         if count == 0:
             continue
         legend_items += f"""
-        <div class="legend-item" onclick="highlightType('{entity_type}')" title="Klik untuk highlight semua node {entity_type}">
+        <div id="legend-btn-{entity_type}" class="legend-item" onclick="highlightType('{entity_type}')" title="Klik untuk highlight semua node {entity_type}">
             <div class="legend-dot" style="background:{color}"></div>
             <span>{entity_type} <span class="count">({count})</span></span>
         </div>"""
@@ -332,6 +332,12 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
   .legend-item:active {{
     transform: scale(0.97);
   }}
+  .legend-item.active-filter {{
+    background: rgba(160,196,255,0.2);
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.6);
+    border-left: 3px solid #a0c4ff;
+    border-radius: 4px;
+  }}
   .legend-dot {{
     width: 14px;
     height: 14px;
@@ -386,7 +392,94 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
   }}
   /* Hilangkan tombol Pyvis default yang mengganggu */
   #config {{ display: none !important; }}
+  
+  /* --- Search UI --- */
+  #search-container {{
+    position: absolute;
+    top: 20px !important;
+    left: 20px !important;
+    width: 320px;
+    z-index: 9999;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    pointer-events: auto;
+  }}
+  #search-input {{
+    width: 100%;
+    padding: 12px 35px 12px 16px;
+    border-radius: 8px;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: rgba(15,15,26,0.85);
+    color: #e0e0e0;
+    font-size: 14px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.5);
+    outline: none;
+    transition: all 0.2s;
+    backdrop-filter: blur(5px);
+    box-sizing: border-box;
+  }}
+  #search-input:focus {{
+    border-color: #a0c4ff;
+    box-shadow: 0 4px 20px rgba(160,196,255,0.2);
+    background: rgba(20,20,32,0.95);
+  }}
+  #clear-search {{
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 18px;
+    cursor: pointer;
+    padding: 0;
+    line-height: 1;
+  }}
+  #clear-search:hover {{ color: #fff; }}
+  #search-dropdown {{
+    display: none;
+    position: absolute;
+    top: calc(100% + 8px);
+    left: 0;
+    right: 0;
+    background: rgba(20,20,32,0.95);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 8px;
+    max-height: 350px;
+    overflow-y: auto;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.7);
+    backdrop-filter: blur(10px);
+  }}
+  .search-item {{
+    padding: 10px 16px;
+    cursor: pointer;
+    font-size: 13px;
+    color: #ccc;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transition: background 0.1s;
+  }}
+  .search-item:last-child {{ border-bottom: none; }}
+  .search-item:hover {{
+    background: rgba(160,196,255,0.15);
+    color: #fff;
+  }}
+  .search-item-type {{
+    font-size: 10px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.1);
+    color: #a0c4ff;
+  }}
 </style>
+
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="🔍 Search Node" autocomplete="off">
+  <button id="clear-search" style="display: none;">&times;</button>
+  <div id="search-dropdown"></div>
+</div>
 
 <div id="graph-ui">
   <div id="legend-panel">
@@ -413,6 +506,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
 
 <script>
   var currentHighlightedType = null;
+  var currentSearchNodeId = null;
   
   function hexToRgba(hex, alpha) {{
       if (!hex || typeof hex !== 'string') return 'rgba(128,128,128,' + alpha + ')';
@@ -424,6 +518,13 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
 
   function resetHighlight() {{
       if (typeof nodes === 'undefined' || typeof edges === 'undefined') return;
+      
+      // Hapus status aktif dari semua tombol legend
+      var legends = document.getElementsByClassName('legend-item');
+      for (var k = 0; k < legends.length; k++) {{
+          legends[k].classList.remove('active-filter');
+      }}
+      
       var allNodesData = nodes.get();
       var updates = [];
       for (var i = 0; i < allNodesData.length; i++) {{
@@ -450,11 +551,26 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
   function highlightType(type) {{
     if (typeof network === 'undefined' || typeof nodes === 'undefined' || typeof edges === 'undefined') return;
     
+    // Clear search jika aktif
+    if (currentSearchNodeId !== null) {{
+        document.getElementById('search-input').value = '';
+        document.getElementById('clear-search').style.display = 'none';
+        currentSearchNodeId = null;
+    }}
+    
     if (currentHighlightedType === type) {{
         currentHighlightedType = null;
         resetHighlight();
     }} else {{
         currentHighlightedType = type;
+        
+        // Update visual tombol legend
+        var legends = document.getElementsByClassName('legend-item');
+        for (var k = 0; k < legends.length; k++) {{
+            legends[k].classList.remove('active-filter');
+        }}
+        var activeBtn = document.getElementById('legend-btn-' + type);
+        if (activeBtn) activeBtn.classList.add('active-filter');
         
         var allNodesData = nodes.get();
         var allEdgesData = edges.get();
@@ -537,13 +653,201 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
   setTimeout(function() {{
       if (typeof network !== 'undefined') {{
           network.on("click", function(params) {{
-              if (params.nodes.length === 0 && currentHighlightedType !== null) {{
-                  currentHighlightedType = null;
-                  resetHighlight();
+              if (params.nodes.length === 0) {{
+                  if (currentHighlightedType !== null || currentSearchNodeId !== null) {{
+                      currentHighlightedType = null;
+                      currentSearchNodeId = null;
+                      document.getElementById('search-input').value = '';
+                      document.getElementById('clear-search').style.display = 'none';
+                      resetHighlight();
+                  }}
+              }} else if (params.nodes.length > 0) {{
+                  // Sinkronisasi click native dengan UI pencarian
+                  var clickedId = params.nodes[0];
+                  var n = nodes.get(clickedId);
+                  if (n) {{
+                      document.getElementById('search-input').value = n.label;
+                      document.getElementById('clear-search').style.display = 'block';
+                      currentSearchNodeId = clickedId;
+                      currentHighlightedType = null;
+                  }}
+              }}
+          }});
+          network.on("doubleClick", function(params) {{
+              if (params.nodes.length > 0) {{
+                  executeSearchSelection(params.nodes[0]);
               }}
           }});
       }}
   }}, 1000);
+  
+  // --- SEARCH JAVASCRIPT ---
+  var searchInput = document.getElementById('search-input');
+  var searchDropdown = document.getElementById('search-dropdown');
+  var clearSearchBtn = document.getElementById('clear-search');
+
+  function renderSearchDropdown(query) {{
+      if (!query) {{
+          searchDropdown.style.display = 'none';
+          return;
+      }}
+      
+      var allNodesData = nodes.get();
+      var matches = [];
+      var q = query.toLowerCase();
+      
+      for (var i = 0; i < allNodesData.length; i++) {{
+          var n = allNodesData[i];
+          if (n.label && n.label.toLowerCase().includes(q)) {{
+              matches.push(n);
+          }}
+      }}
+      
+      if (matches.length === 0) {{
+          searchDropdown.innerHTML = '<div style="padding: 10px; color: #888; font-size: 12px; text-align: center;">Tidak ditemukan.</div>';
+          searchDropdown.style.display = 'block';
+          return;
+      }}
+      
+      // Sort: Exact match > Starts with > Alphabetical
+      matches.sort(function(a, b) {{
+          var aLbl = a.label.toLowerCase();
+          var bLbl = b.label.toLowerCase();
+          if (aLbl === q && bLbl !== q) return -1;
+          if (bLbl === q && aLbl !== q) return 1;
+          if (aLbl.startsWith(q) && !bLbl.startsWith(q)) return -1;
+          if (bLbl.startsWith(q) && !aLbl.startsWith(q)) return 1;
+          return aLbl.localeCompare(bLbl);
+      }});
+      
+      matches = matches.slice(0, 50); // Limit 50 results
+      
+      var html = '';
+      for (var i = 0; i < matches.length; i++) {{
+          html += '<div class="search-item" data-id="' + matches[i].id + '">' + 
+                  '<span>' + matches[i].label + '</span>' + 
+                  '<span class="search-item-type">' + matches[i].entity_type + '</span>' + 
+                  '</div>';
+      }}
+      
+      searchDropdown.innerHTML = html;
+      searchDropdown.style.display = 'block';
+      
+      var items = searchDropdown.getElementsByClassName('search-item');
+      for (var i = 0; i < items.length; i++) {{
+          items[i].addEventListener('click', function(e) {{
+              var nodeId = this.getAttribute('data-id');
+              executeSearchSelection(nodeId);
+          }});
+      }}
+  }}
+
+  function executeSearchSelection(nodeId) {{
+      searchDropdown.style.display = 'none';
+      var n = nodes.get(nodeId);
+      if (!n) return;
+      
+      searchInput.value = n.label;
+      clearSearchBtn.style.display = 'block';
+      currentSearchNodeId = nodeId;
+      
+      if (currentHighlightedType !== null) {{
+          currentHighlightedType = null;
+      }}
+      
+      var allNodesData = nodes.get();
+      var allEdgesData = edges.get();
+      var connectedNodeIds = new Set();
+      
+      for (var j = 0; j < allEdgesData.length; j++) {{
+          var e = allEdgesData[j];
+          if (e.from == nodeId) connectedNodeIds.add(e.to);
+          if (e.to == nodeId) connectedNodeIds.add(e.from);
+      }}
+      
+      var updates = [];
+      for (var i = 0; i < allNodesData.length; i++) {{
+          var node = allNodesData[i];
+          if (!node.original_bg) node.original_bg = node.color.background;
+          if (!node.original_border) node.original_border = node.color.border;
+          
+          if (node.id == nodeId) {{
+              updates.push({{
+                  id: node.id, 
+                  color: {{ background: node.original_bg, border: '#ffffff' }},
+                  font: {{ color: "#ffffff" }},
+                  shadow: {{enabled: true, color: node.original_bg, size: 30, x: 0, y: 0}}
+              }});
+          }} else if (connectedNodeIds.has(node.id)) {{
+              updates.push({{
+                  id: node.id, 
+                  color: {{ background: node.original_bg, border: node.original_border }},
+                  font: {{ color: "#e0e0e0" }},
+                  shadow: false
+              }});
+          }} else {{
+              updates.push({{
+                  id: node.id, 
+                  color: {{ 
+                      background: hexToRgba(node.original_bg, 0.15), 
+                      border: hexToRgba(node.original_border, 0.15) 
+                  }},
+                  font: {{ color: "rgba(224,224,224,0.15)" }},
+                  shadow: false
+              }});
+          }}
+      }}
+      nodes.update(updates);
+      
+      var edgeUpdates = [];
+      for (var j = 0; j < allEdgesData.length; j++) {{
+          var e = allEdgesData[j];
+          if (e.from == nodeId || e.to == nodeId) {{
+              edgeUpdates.push({{id: e.id, color: {{ opacity: 1.0 }}, hidden: false}});
+          }} else {{
+              edgeUpdates.push({{id: e.id, color: {{ opacity: 0.02 }}, hidden: false}});
+          }}
+      }}
+      edges.update(edgeUpdates);
+      
+      network.selectNodes([nodeId], false);
+      network.focus(nodeId, {{
+          scale: 0.3,
+          animation: {{ duration: 1000, easingFunction: "easeInOutQuad" }}
+      }});
+  }}
+
+  searchInput.addEventListener('input', function(e) {{
+      if (this.value) clearSearchBtn.style.display = 'block';
+      else clearSearchBtn.style.display = 'none';
+      renderSearchDropdown(this.value);
+  }});
+  
+  clearSearchBtn.addEventListener('click', function(e) {{
+      searchInput.value = '';
+      this.style.display = 'none';
+      searchDropdown.style.display = 'none';
+      currentSearchNodeId = null;
+      resetHighlight();
+      
+      // Kembalikan zoom ke awal jika dibatalkan
+      network.fit({{ animation: {{ duration: 800, easingFunction: "easeInOutQuad" }} }});
+  }});
+
+  document.addEventListener('click', function(e) {{
+      var container = document.getElementById('search-container');
+      if (container && !container.contains(e.target)) {{
+          searchDropdown.style.display = 'none';
+      }}
+  }});
+  
+  searchInput.addEventListener('keypress', function(e) {{
+      if (e.key === 'Enter') {{
+          var items = searchDropdown.getElementsByClassName('search-item');
+          if (items.length > 0) executeSearchSelection(items[0].getAttribute('data-id'));
+      }}
+  }});
+
 </script>
 """
 
