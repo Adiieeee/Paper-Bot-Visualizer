@@ -102,7 +102,7 @@ def visualize(graph: nx.Graph, output_path: str = "output/graph.html") -> None:
             size=size,
             title=tooltip,
             shape="dot",
-            font={"size": 11, "color": "#e0e0e0", "strokeWidth": 2, "strokeColor": "#000"},
+            font={"size": 1, "color": "#e0e0e0", "strokeWidth": 3, "strokeColor": "#000"},
             entity_type=node_type
         )
 
@@ -168,7 +168,13 @@ def visualize(graph: nx.Graph, output_path: str = "output/graph.html") -> None:
       },
       "nodes": {
         "borderWidth": 1.5,
-        "shadow": {"enabled": true, "color": "rgba(0,0,0,0.6)", "size": 8, "x": 2, "y": 2}
+        "shadow": {"enabled": true, "color": "rgba(0,0,0,0.6)", "size": 8, "x": 2, "y": 2},
+        "font": {
+            "size": 30,
+            "color": "#e0e0e0",
+            "strokeWidth": 4,
+            "strokeColor": "#0f0f1a"
+        }
       },
       "edges": {
         "shadow": false,
@@ -259,10 +265,55 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
   }}
   #legend-panel h3 {{
     margin: 0 0 12px 0;
-    font-size: 14px;
+    font-size: 15px;
     font-weight: 700;
     color: #a0c4ff;
     letter-spacing: 0.5px;
+    display: flex;
+    align-items: center;
+  }}
+  .info-icon {{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 16px;
+    height: 16px;
+    background: rgba(255,255,255,0.1);
+    color: #a0c4ff;
+    border-radius: 50%;
+    font-size: 11px;
+    font-weight: bold;
+    margin-left: 8px;
+    cursor: help;
+    position: relative;
+  }}
+  .info-tooltip {{
+    visibility: hidden;
+    position: absolute;
+    top: -10px;
+    right: 120%;
+    width: 250px;
+    background: rgba(15,15,26,0.98);
+    color: #ccc;
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 12px;
+    font-weight: normal;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.8);
+    opacity: 0;
+    transition: opacity 0.2s;
+    pointer-events: none;
+    z-index: 10000;
+    line-height: 1.5;
+    text-align: left;
+  }}
+  .info-icon:hover .info-tooltip {{
+    visibility: visible;
+    opacity: 1;
+  }}
+  .info-tooltip strong {{
+    color: #a0c4ff;
   }}
   .legend-item {{
     display: flex;
@@ -339,7 +390,21 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
 
 <div id="graph-ui">
   <div id="legend-panel">
-    <h3>📊 Entity Types</h3>
+    <h3>
+      📊 Entity Types
+      <div class="info-icon">?
+        <div class="info-tooltip">
+          <strong>Paper:</strong> Dokumen paper utama.<br>
+          <strong>Author:</strong> Penulis paper.<br>
+          <strong>Institution:</strong> Afiliasi tempat penulis bernaung.<br>
+          <strong>Method:</strong> Algoritma, model arsitektur, teknik, atau pendekatan spesifik.<br>
+          <strong>Dataset:</strong> Kumpulan data untuk melatih/menguji model.<br>
+          <strong>Metric:</strong> Tolak ukur atau standar perhitungan untuk mengevaluasi.<br>
+          <strong>Finding:</strong> Kesimpulan, hasil utama, atau penemuan.<br>
+          <strong>Limitation:</strong> Kelemahan, batasan, atau kekurangan.
+        </div>
+      </div>
+    </h3>
     {legend_items}
     <div id="hint">Hover untuk detail<br>Drag &amp; scroll to navigate</div>
   </div>

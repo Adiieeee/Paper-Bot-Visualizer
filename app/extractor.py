@@ -74,7 +74,8 @@ STRICT RULES:
 4. For Finding: extract only MAJOR findings as concise statements (max 15 words). Skip minor observations.
 5. For Limitation: only extract limitations EXPLICITLY stated by the authors.
 6. Do NOT extract anything from a references or bibliography section.
-7. Output MUST be valid JSON only. No markdown, no explanation, no code blocks.
+7. For Author: ONLY extract the actual authors of the current paper. Do NOT extract authors from in-text citations (e.g., skip "Smith et al. (2020)").
+8. Output MUST be valid JSON only. No markdown, no explanation, no code blocks.
 
 ENTITY TYPES (use exactly): Paper | Author | Institution | Method | Dataset | Metric | Finding | Limitation
 
