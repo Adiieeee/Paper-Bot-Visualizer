@@ -1,0 +1,8 @@
+pymupdf
+langchain
+langchain-text-splitters
+langchain-google-genai
+google-generativeai
+networkx
+pyvis
+python-dotenv

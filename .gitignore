@@ -1,0 +1,28 @@
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Output files (kecuali .gitkeep)
+output/extractions/*.json
+output/*.html
+output/*.graphml
+output/*.txt
+
+# Papers (tidak di-commit)
+papers/*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
