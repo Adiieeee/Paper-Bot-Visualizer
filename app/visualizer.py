@@ -126,6 +126,7 @@ def visualize(graph: nx.Graph, output_path: str = "output/graph.html") -> None:
             color={"color": edge_color, "highlight": "#ffffff", "hover": "#ffffff"},
             width=3.5,
             smooth={"type": "continuous"},
+            rel_type=rel_type
         )
 
     # ── Physics & interaksi ────────────────────────────────────
@@ -473,12 +474,113 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     background: rgba(255,255,255,0.1);
     color: #a0c4ff;
   }}
+  
+  /* --- Info Panel --- */
+  #info-panel {{
+    position: absolute;
+    left: -400px;
+    top: 80px;
+    width: 320px;
+    background: rgba(15,15,26,0.95);
+    border: 1px solid rgba(255,255,255,0.15);
+    border-radius: 8px;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.7);
+    backdrop-filter: blur(10px);
+    z-index: 9998;
+    transition: left 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #e0e0e0;
+    pointer-events: auto;
+    display: flex;
+    flex-direction: column;
+    max-height: calc(100vh - 100px);
+  }}
+  #info-panel.open {{
+    left: 20px;
+  }}
+  #close-info {{
+    position: absolute;
+    top: 10px;
+    right: 12px;
+    background: none;
+    border: none;
+    color: #888;
+    font-size: 24px;
+    cursor: pointer;
+    line-height: 1;
+  }}
+  #close-info:hover {{ color: #fff; }}
+  #info-header {{
+    padding: 20px 20px 10px 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+  }}
+  #info-badge {{
+    display: inline-block;
+    font-size: 10px;
+    padding: 3px 8px;
+    border-radius: 4px;
+    background: rgba(255,255,255,0.1);
+    margin-bottom: 8px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    color: #fff;
+  }}
+  #info-title {{
+    margin: 0;
+    font-size: 18px;
+    color: #fff;
+    line-height: 1.3;
+  }}
+  #info-content {{
+    padding: 15px 20px 20px 20px;
+    overflow-y: auto;
+    font-size: 12px;
+  }}
+  .info-group {{ margin-bottom: 16px; }}
+  .info-group:last-child {{ margin-bottom: 0; }}
+  .info-group-title {{
+    color: #a0c4ff;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 8px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+    padding-bottom: 6px;
+    font-weight: bold;
+  }}
+  .info-tag {{
+    display: inline-block;
+    padding: 4px 8px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 4px;
+    margin: 3px 3px 0 0;
+    cursor: pointer;
+    transition: all 0.1s;
+    color: #ccc;
+  }}
+  .info-tag:hover {{
+    background: rgba(160,196,255,0.2);
+    border-color: #a0c4ff;
+    color: #fff;
+  }}
 </style>
 
 <div id="search-container">
   <input type="text" id="search-input" placeholder="🔍 Search Node" autocomplete="off">
   <button id="clear-search" style="display: none;">&times;</button>
   <div id="search-dropdown"></div>
+</div>
+
+<div id="info-panel">
+  <button id="close-info" title="Tutup">&times;</button>
+  <div id="info-header">
+      <span id="info-badge"></span>
+      <h3 id="info-title"></h3>
+      <div id="info-connections" style="font-size: 11px; color: #888; margin-top: 6px;"></div>
+  </div>
+  <div id="info-content"></div>
 </div>
 
 <div id="graph-ui">
@@ -524,6 +626,10 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       for (var k = 0; k < legends.length; k++) {{
           legends[k].classList.remove('active-filter');
       }}
+      
+      // Tutup panel info
+      var infoPanel = document.getElementById('info-panel');
+      if (infoPanel) infoPanel.classList.remove('open');
       
       var allNodesData = nodes.get();
       var updates = [];
@@ -698,7 +804,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       
       for (var i = 0; i < allNodesData.length; i++) {{
           var n = allNodesData[i];
-          if (n.label && n.label.toLowerCase().includes(q)) {{
+          if (n.id && n.id.toLowerCase().includes(q)) {{
               matches.push(n);
           }}
       }}
@@ -711,8 +817,8 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       
       // Sort: Exact match > Starts with > Alphabetical
       matches.sort(function(a, b) {{
-          var aLbl = a.label.toLowerCase();
-          var bLbl = b.label.toLowerCase();
+          var aLbl = a.id.toLowerCase();
+          var bLbl = b.id.toLowerCase();
           if (aLbl === q && bLbl !== q) return -1;
           if (bLbl === q && aLbl !== q) return 1;
           if (aLbl.startsWith(q) && !bLbl.startsWith(q)) return -1;
@@ -724,8 +830,8 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       
       var html = '';
       for (var i = 0; i < matches.length; i++) {{
-          html += '<div class="search-item" data-id="' + matches[i].id + '">' + 
-                  '<span>' + matches[i].label + '</span>' + 
+          html += '<div class="search-item" data-id="' + matches[i].id.replace(/"/g, '&quot;') + '">' + 
+                  '<span>' + matches[i].id + '</span>' + 
                   '<span class="search-item-type">' + matches[i].entity_type + '</span>' + 
                   '</div>';
       }}
@@ -747,7 +853,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       var n = nodes.get(nodeId);
       if (!n) return;
       
-      searchInput.value = n.label;
+      searchInput.value = n.id;
       clearSearchBtn.style.display = 'block';
       currentSearchNodeId = nodeId;
       
@@ -757,12 +863,12 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       
       var allNodesData = nodes.get();
       var allEdgesData = edges.get();
-      var connectedNodeIds = new Set();
+      var connectedNodeMap = new Map();
       
       for (var j = 0; j < allEdgesData.length; j++) {{
           var e = allEdgesData[j];
-          if (e.from == nodeId) connectedNodeIds.add(e.to);
-          if (e.to == nodeId) connectedNodeIds.add(e.from);
+          if (e.from == nodeId) connectedNodeMap.set(e.to, e.rel_type || '');
+          if (e.to == nodeId) connectedNodeMap.set(e.from, e.rel_type || '');
       }}
       
       var updates = [];
@@ -778,7 +884,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
                   font: {{ color: "#ffffff" }},
                   shadow: {{enabled: true, color: node.original_bg, size: 30, x: 0, y: 0}}
               }});
-          }} else if (connectedNodeIds.has(node.id)) {{
+          }} else if (connectedNodeMap.has(node.id)) {{
               updates.push({{
                   id: node.id, 
                   color: {{ background: node.original_bg, border: node.original_border }},
@@ -812,9 +918,90 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       
       network.selectNodes([nodeId], false);
       network.focus(nodeId, {{
-          scale: 0.3,
+          scale: 0.6,
           animation: {{ duration: 1000, easingFunction: "easeInOutQuad" }}
       }});
+      
+      // --- POPULATE INFO PANEL ---
+      var infoPanel = document.getElementById('info-panel');
+      var infoTitle = document.getElementById('info-title');
+      var infoBadge = document.getElementById('info-badge');
+      var infoContent = document.getElementById('info-content');
+      var infoConnections = document.getElementById('info-connections');
+      
+      if (infoPanel && infoTitle && infoBadge && infoContent) {{
+          infoTitle.innerText = n.id;
+          infoBadge.innerText = n.entity_type || 'Unknown';
+          
+          if (infoConnections) {{
+              infoConnections.innerText = "Total Koneksi: " + connectedNodeMap.size + " relasi";
+          }}
+          
+          var bgColor = n.original_bg || '#666';
+          infoBadge.style.background = bgColor;
+          
+          var connectionsByType = {{}};
+          var crossPapers = [];
+          
+          connectedNodeMap.forEach(function(relLabel, cid) {{
+              var cn = nodes.get(cid);
+              if (cn) {{
+                  if (n.entity_type !== 'Paper' && cn.entity_type === 'Paper') {{
+                      crossPapers.push({{ node: cn, rel: relLabel }});
+                  }} else {{
+                      var t = cn.entity_type || 'Other';
+                      if (!connectionsByType[t]) connectionsByType[t] = [];
+                      connectionsByType[t].push({{ node: cn, rel: relLabel }});
+                  }}
+              }}
+          }});
+          
+          var htmlContent = '';
+          
+          if (n.source_paper && n.entity_type !== 'Paper') {{
+              htmlContent += '<div class="info-group">';
+              htmlContent += '<div class="info-group-title">Source Paper</div>';
+              htmlContent += '<span class="info-tag" style="cursor:default;">' + n.source_paper + '</span>';
+              htmlContent += '</div>';
+          }}
+          
+          if (crossPapers.length > 0) {{
+              htmlContent += '<div class="info-group">';
+              htmlContent += '<div class="info-group-title">';
+              htmlContent += '<div style="display:inline-block; width:10px; height:10px; border-radius:50%; background:#4A90D9; margin-right:6px; box-shadow: 0 0 3px rgba(0,0,0,0.5); vertical-align:middle;"></div>';
+              htmlContent += '<span style="vertical-align:middle;">Ditemukan di Paper (' + crossPapers.length + ')</span></div>';
+              crossPapers.forEach(function(item) {{
+                  var labelDisplay = item.node.label;
+                  htmlContent += '<span class="info-tag conn-tag" data-id="' + item.node.id.replace(/"/g, '&quot;') + '">' + labelDisplay + '</span>';
+              }});
+              htmlContent += '</div>';
+          }}
+          
+          for (var t in connectionsByType) {{
+              var groupColor = connectionsByType[t][0].node.original_bg || connectionsByType[t][0].node.color.background || '#666';
+              htmlContent += '<div class="info-group">';
+              htmlContent += '<div class="info-group-title">';
+              htmlContent += '<div style="display:inline-block; width:10px; height:10px; border-radius:50%; background:' + groupColor + '; margin-right:6px; box-shadow: 0 0 3px rgba(0,0,0,0.5); vertical-align:middle;"></div>';
+              htmlContent += '<span style="vertical-align:middle;">Terkoneksi dengan ' + t + ' (' + connectionsByType[t].length + ')</span></div>';
+              connectionsByType[t].forEach(function(item) {{
+                  var labelDisplay = item.node.label;
+                  htmlContent += '<span class="info-tag conn-tag" data-id="' + item.node.id.replace(/"/g, '&quot;') + '">' + labelDisplay + '</span>';
+              }});
+              htmlContent += '</div>';
+          }}
+          
+          infoContent.innerHTML = htmlContent;
+          
+          // Bind event listener untuk navigasi antar node
+          var connTags = infoPanel.getElementsByClassName('conn-tag');
+          for (var k = 0; k < connTags.length; k++) {{
+              connTags[k].addEventListener('click', function(e) {{
+                  executeSearchSelection(this.getAttribute('data-id'));
+              }});
+          }}
+          
+          infoPanel.classList.add('open');
+      }}
   }}
 
   searchInput.addEventListener('input', function(e) {{
@@ -829,9 +1016,14 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       searchDropdown.style.display = 'none';
       currentSearchNodeId = null;
       resetHighlight();
+      document.getElementById('info-panel').classList.remove('open');
       
       // Kembalikan zoom ke awal jika dibatalkan
       network.fit({{ animation: {{ duration: 800, easingFunction: "easeInOutQuad" }} }});
+  }});
+
+  document.getElementById('close-info').addEventListener('click', function() {{
+      document.getElementById('info-panel').classList.remove('open');
   }});
 
   document.addEventListener('click', function(e) {{

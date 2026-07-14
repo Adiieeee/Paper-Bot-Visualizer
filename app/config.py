@@ -50,7 +50,7 @@ NODE_COLORS = {
     "Institution": "#34495E",
     "Method":      "#2ECC71",
     "Dataset":     "#F39C12",
-    "Metric":      "#E67E22",
+    "Metric":      "#00BCD4",
     "Finding":     "#9B59B6",
     "Limitation":  "#95A5A6",
 }
