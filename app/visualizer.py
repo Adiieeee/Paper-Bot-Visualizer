@@ -456,27 +456,52 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     }} else {{
         currentHighlightedType = type;
         
-        var nodesToSelect = [];
         var allNodesData = nodes.get();
-        var updates = [];
+        var allEdgesData = edges.get();
+        var nodesToSelect = [];
         var selectedNodeIds = new Set();
+        var connectedNodeIds = new Set();
         
-        // Update Nodes
+        // 1. Kumpulkan semua node utama yang sesuai tipe
+        for (var i = 0; i < allNodesData.length; i++) {{
+            if (allNodesData[i].entity_type === type) {{
+                nodesToSelect.push(allNodesData[i].id);
+                selectedNodeIds.add(allNodesData[i].id);
+            }}
+        }}
+        
+        // 2. Kumpulkan semua node yang terhubung langsung (1st-degree)
+        for (var j = 0; j < allEdgesData.length; j++) {{
+            var e = allEdgesData[j];
+            if (selectedNodeIds.has(e.from)) connectedNodeIds.add(e.to);
+            if (selectedNodeIds.has(e.to)) connectedNodeIds.add(e.from);
+        }}
+        
+        // 3. Terapkan efek visual
+        var updates = [];
         for (var i = 0; i < allNodesData.length; i++) {{
             var n = allNodesData[i];
             if (!n.original_bg) n.original_bg = n.color.background;
             if (!n.original_border) n.original_border = n.color.border;
             
-            if (n.entity_type === type) {{
-                nodesToSelect.push(n.id);
-                selectedNodeIds.add(n.id);
+            if (selectedNodeIds.has(n.id)) {{
+                // Node Utama: Glow terang benderang
                 updates.push({{
                     id: n.id, 
                     color: {{ background: n.original_bg, border: '#ffffff' }},
                     font: {{ color: "#ffffff" }},
                     shadow: {{enabled: true, color: n.original_bg, size: 30, x: 0, y: 0}}
                 }});
+            }} else if (connectedNodeIds.has(n.id)) {{
+                // Node Terhubung: Tetap jelas terlihat, tapi tidak glow
+                updates.push({{
+                    id: n.id, 
+                    color: {{ background: n.original_bg, border: n.original_border }},
+                    font: {{ color: "#e0e0e0" }},
+                    shadow: false
+                }});
             }} else {{
+                // Node Tidak Terhubung: Sangat redup
                 updates.push({{
                     id: n.id, 
                     color: {{ 
@@ -490,16 +515,15 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
         }}
         nodes.update(updates);
         
-        // Update Edges
-        var allEdgesData = edges.get();
+        // 4. Update Edges
         var edgeUpdates = [];
         for (var j = 0; j < allEdgesData.length; j++) {{
             var e = allEdgesData[j];
             if (selectedNodeIds.has(e.from) || selectedNodeIds.has(e.to)) {{
-                // Edge terhubung ke node terpilih -> Jelas
+                // Edge terhubung -> Jelas
                 edgeUpdates.push({{id: e.id, color: {{ opacity: 1.0 }}, hidden: false}});
             }} else {{
-                // Edge tidak terhubung -> Sangat redup
+                // Edge tidak terhubung -> Redup
                 edgeUpdates.push({{id: e.id, color: {{ opacity: 0.02 }}, hidden: false}});
             }}
         }}
