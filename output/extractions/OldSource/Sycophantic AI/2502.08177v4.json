@@ -1,0 +1,1011 @@
+{
+  "file_path": "papers\\2502.08177v4.pdf",
+  "file_name": "2502.08177v4.pdf",
+  "title": "arXiv:2502.08177v4 [cs.AI] 19 Sep 2025",
+  "year": "2024",
+  "total_pages": 8,
+  "total_chunks": 12,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "SycEval: Evaluating Large Language Model Sycophancy",
+      "type": "Paper"
+    },
+    {
+      "name": "Aaron Fanous",
+      "type": "Author"
+    },
+    {
+      "name": "Jacob Goldberg",
+      "type": "Author"
+    },
+    {
+      "name": "Ank Agarwal",
+      "type": "Author"
+    },
+    {
+      "name": "Joanna Lin",
+      "type": "Author"
+    },
+    {
+      "name": "Anson Zhou",
+      "type": "Author"
+    },
+    {
+      "name": "Sonnet Xu",
+      "type": "Author"
+    },
+    {
+      "name": "Vasiliki Bikia",
+      "type": "Author"
+    },
+    {
+      "name": "Roxana Daneshjou",
+      "type": "Author"
+    },
+    {
+      "name": "Sanmi Koyejo",
+      "type": "Author"
+    },
+    {
+      "name": "Stanford University",
+      "type": "Institution"
+    },
+    {
+      "name": "ChatGPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini-1.5-Pro",
+      "type": "Method"
+    },
+    {
+      "name": "AMPS",
+      "type": "Dataset"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sycophantic behavior occurred in 58.19 percent of cases",
+      "type": "Finding"
+    },
+    {
+      "name": "Preemptive rebuttals showed significantly higher sycophancy rates than in-context rebuttals",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophantic behavior showed high persistence regardless of context or model",
+      "type": "Finding"
+    },
+    {
+      "name": "SycEval: Evaluating Large Language Model Sycophancy",
+      "type": "Paper"
+    },
+    {
+      "name": "AMPS Math",
+      "type": "Dataset"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Turn of Flip",
+      "type": "Metric"
+    },
+    {
+      "name": "Number of Flip",
+      "type": "Metric"
+    },
+    {
+      "name": "SYCON",
+      "type": "Method"
+    },
+    {
+      "name": "fine-tuning on aggregated human preferences",
+      "type": "Method"
+    },
+    {
+      "name": "activation editing",
+      "type": "Method"
+    },
+    {
+      "name": "supervised pinpoint tuning",
+      "type": "Method"
+    },
+    {
+      "name": "antagonistic",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophantic behavior in medical advice has yet to be explored in prior studies",
+      "type": "Finding"
+    },
+    {
+      "name": "Preference evaluators consistently favored agreement over factual accuracy",
+      "type": "Finding"
+    },
+    {
+      "name": "Auxiliary Mathematics Problems and Solutions",
+      "type": "Dataset"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "ChatGPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini-1.5-Pro",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model-As-A-Judge",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy’s impact on reasoning fidelity remains underexplored in high-stakes domains",
+      "type": "Limitation"
+    },
+    {
+      "name": "Prior works fail to investigate the quality of the rebuttal in user responses",
+      "type": "Limitation"
+    },
+    {
+      "name": "Prior works tend to focus on simplistic rebuttals",
+      "type": "Limitation"
+    },
+    {
+      "name": "Distinguishes between regressive and progressive sycophancy to identify harmful over-alignment",
+      "type": "Finding"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "ChatGPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "AMPS",
+      "type": "Dataset"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Beta distribution",
+      "type": "Method"
+    },
+    {
+      "name": "Human classification",
+      "type": "Method"
+    },
+    {
+      "name": "In-context rebuttals",
+      "type": "Method"
+    },
+    {
+      "name": "Preemptive rebuttals",
+      "type": "Method"
+    },
+    {
+      "name": "Accuracy",
+      "type": "Metric"
+    },
+    {
+      "name": "Progressive sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Regressive sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Large Language Model-as-a-Judge evaluation techniques",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model-as-a-Judge accuracy introduces potential error",
+      "type": "Limitation"
+    },
+    {
+      "name": "SycEval: Evaluating Large Language Model Sycophancy",
+      "type": "Paper"
+    },
+    {
+      "name": "in-context",
+      "type": "Method"
+    },
+    {
+      "name": "preemptive",
+      "type": "Method"
+    },
+    {
+      "name": "Simple Rebuttal",
+      "type": "Method"
+    },
+    {
+      "name": "Ethos Rebuttal",
+      "type": "Method"
+    },
+    {
+      "name": "Justification Rebuttal",
+      "type": "Method"
+    },
+    {
+      "name": "Citation and Abstract Rebuttal",
+      "type": "Method"
+    },
+    {
+      "name": "Llama 3",
+      "type": "Method"
+    },
+    {
+      "name": "Ollama",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "binomial proportion 95% confidence interval",
+      "type": "Metric"
+    },
+    {
+      "name": "two-proportion z-test",
+      "type": "Metric"
+    },
+    {
+      "name": "chi-square test",
+      "type": "Metric"
+    },
+    {
+      "name": "chi-square goodness of fit test",
+      "type": "Metric"
+    },
+    {
+      "name": "58.19% of all samples exhibited sycophantic behavior",
+      "type": "Finding"
+    },
+    {
+      "name": "Gemini had the highest sycophancy rate at 62.47%",
+      "type": "Finding"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "ChatGPT",
+      "type": "Method"
+    },
+    {
+      "name": "AMPS",
+      "type": "Dataset"
+    },
+    {
+      "name": "MEDQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sycophancy rate",
+      "type": "Metric"
+    },
+    {
+      "name": "Progressive response rate",
+      "type": "Metric"
+    },
+    {
+      "name": "Regressive response rate",
+      "type": "Metric"
+    },
+    {
+      "name": "58.19% of all samples exhibited sycophantic behavior",
+      "type": "Finding"
+    },
+    {
+      "name": "Preemptive rebuttals exhibit higher sycophancy rates than in-context rebuttals",
+      "type": "Finding"
+    },
+    {
+      "name": "Simple rebuttals maximize progressive sycophancy while citation rebuttals increase regressive sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "ChatGPT",
+      "type": "Method"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "AMPS Math",
+      "type": "Dataset"
+    },
+    {
+      "name": "MEDQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sycophantic rebuttal persistence rate",
+      "type": "Metric"
+    },
+    {
+      "name": "The overall persistence rate of sycophantic rebuttal chains is 78.5 percent.",
+      "type": "Finding"
+    },
+    {
+      "name": "Persistence rates for sycophantic behavior do not significantly differ across models, contexts, or datasets.",
+      "type": "Finding"
+    },
+    {
+      "name": "SycEval: Evaluating Large Language Model Sycophancy",
+      "type": "Paper"
+    },
+    {
+      "name": "ChatGPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "Claude-Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "AMPS",
+      "type": "Dataset"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sycophancy Rate",
+      "type": "Metric"
+    },
+    {
+      "name": "Preemptive Rebuttal Formula",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophantic behavior is prevalent across all tested models.",
+      "type": "Finding"
+    },
+    {
+      "name": "Preemptive rebuttals elicit higher sycophancy rates than in-context rebuttals.",
+      "type": "Finding"
+    },
+    {
+      "name": "Structured tasks exhibit greater sycophantic sensitivity to prompt design.",
+      "type": "Finding"
+    },
+    {
+      "name": "Citation-based rebuttals triggered the highest regressive sycophancy.",
+      "type": "Finding"
+    },
+    {
+      "name": "Models show susceptibility to manipulation through rhetorical strength.",
+      "type": "Limitation"
+    },
+    {
+      "name": "MedQuad",
+      "type": "Dataset"
+    },
+    {
+      "name": "Reinforcement Learning from Human Feedback",
+      "type": "Method"
+    },
+    {
+      "name": "Rebuttal chain evaluation",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model-as-a-Judge",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Sycophantic tendencies are a fundamental characteristic of current Large Language Model architectures.",
+      "type": "Finding"
+    },
+    {
+      "name": "High-stakes domains like medicine risk harm when models conform to incorrect user beliefs.",
+      "type": "Finding"
+    },
+    {
+      "name": "Including evidence in user prompts increases the likelihood of model agreement.",
+      "type": "Finding"
+    },
+    {
+      "name": "Reliance on synthetic rebuttals may not capture real-world interaction diversity.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Analysis focus on three models limits broader insights.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Beta distribution modeling for Large Language Model-as-a-Judge assumes consistent human evaluation.",
+      "type": "Limitation"
+    },
+    {
+      "name": "SycEval: Evaluating Large Language Model Sycophancy",
+      "type": "Paper"
+    },
+    {
+      "name": "hybrid reasoning architectures",
+      "type": "Method"
+    },
+    {
+      "name": "human evaluation",
+      "type": "Metric"
+    },
+    {
+      "name": "Sycophantic behavior in Large Language Models has a dual nature.",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophantic behavior warrants further investigation via human evaluation.",
+      "type": "Limitation"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Aaron Fanous",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Jacob Goldberg",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Ank Agarwal",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Joanna Lin",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Anson Zhou",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Sonnet Xu",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Vasiliki Bikia",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Roxana Daneshjou",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Sanmi Koyejo",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "Aaron Fanous",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "Author affiliated with institution"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "ChatGPT-4o",
+      "type": "uses_method",
+      "description": "Evaluated model"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Claude-Sonnet",
+      "type": "uses_method",
+      "description": "Evaluated model"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Gemini-1.5-Pro",
+      "type": "uses_method",
+      "description": "Evaluated model"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "AMPS",
+      "type": "uses_dataset",
+      "description": "Evaluated using dataset"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "MedQuad",
+      "type": "uses_dataset",
+      "description": "Evaluated using dataset"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Sycophantic behavior occurred in 58.19 percent of cases",
+      "type": "finds",
+      "description": "Major finding on sycophancy rates"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Preemptive rebuttals showed significantly higher sycophancy rates than in-context rebuttals",
+      "type": "finds",
+      "description": "Major finding on rebuttal impact"
+    },
+    {
+      "source": "SycEval: Evaluating Large Language Model Sycophancy",
+      "target": "Sycophantic behavior showed high persistence regardless of context or model",
+      "type": "finds",
+      "description": "Major finding on behavior persistence"
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "AMPS Math",
+      "type": "uses_dataset",
+      "description": "The paper uses the AMPS Math dataset for investigation."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "MedQuad",
+      "type": "uses_dataset",
+      "description": "The paper uses the MedQuad dataset for investigation."
+    },
+    {
+      "source": "SYCON",
+      "target": "Turn of Flip",
+      "type": "uses_metric",
+      "description": "SYCON benchmark utilizes Turn of Flip as a metric."
+    },
+    {
+      "source": "SYCON",
+      "target": "Number of Flip",
+      "type": "uses_metric",
+      "description": "SYCON benchmark utilizes Number of Flip as a metric."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Sycophantic behavior in medical advice has yet to be explored in prior studies",
+      "type": "finds",
+      "description": "Identifies the lack of prior research on sycophancy in medical advice."
+    },
+    {
+      "source": "ChatGPT-4o",
+      "target": "Large Language Model-As-A-Judge",
+      "type": "uses_method",
+      "description": "Evaluated using Large Language Model-As-A-Judge techniques"
+    },
+    {
+      "source": "Claude-Sonnet",
+      "target": "Large Language Model-As-A-Judge",
+      "type": "uses_method",
+      "description": "Evaluated using Large Language Model-As-A-Judge techniques"
+    },
+    {
+      "source": "Gemini-1.5-Pro",
+      "target": "Large Language Model-As-A-Judge",
+      "type": "uses_method",
+      "description": "Evaluated using Large Language Model-As-A-Judge techniques"
+    },
+    {
+      "source": "Auxiliary Mathematics Problems and Solutions",
+      "target": "ChatGPT-4o",
+      "type": "uses_dataset",
+      "description": "Dataset used to evaluate sycophancy in mathematics"
+    },
+    {
+      "source": "MedQuad",
+      "target": "ChatGPT-4o",
+      "type": "uses_dataset",
+      "description": "Dataset used to evaluate sycophancy in medical advice"
+    },
+    {
+      "source": "Auxiliary Mathematics Problems and Solutions",
+      "target": "Claude-Sonnet",
+      "type": "uses_dataset",
+      "description": "Dataset used to evaluate sycophancy in mathematics"
+    },
+    {
+      "source": "MedQuad",
+      "target": "Claude-Sonnet",
+      "type": "uses_dataset",
+      "description": "Dataset used to evaluate sycophancy in medical advice"
+    },
+    {
+      "source": "Auxiliary Mathematics Problems and Solutions",
+      "target": "Gemini-1.5-Pro",
+      "type": "uses_dataset",
+      "description": "Dataset used to evaluate sycophancy in mathematics"
+    },
+    {
+      "source": "MedQuad",
+      "target": "Gemini-1.5-Pro",
+      "type": "uses_dataset",
+      "description": "Dataset used to evaluate sycophancy in medical advice"
+    },
+    {
+      "source": "ChatGPT-4o",
+      "target": "MedQuad",
+      "type": "uses_dataset",
+      "description": "The ChatGPT-4o model is used to evaluate responses related to the MedQuad dataset."
+    },
+    {
+      "source": "Large Language Model-as-a-Judge evaluation techniques",
+      "target": "AMPS",
+      "type": "uses_dataset",
+      "description": "The technique is used to classify data within the AMPS dataset."
+    },
+    {
+      "source": "Large Language Model-as-a-Judge evaluation techniques",
+      "target": "MedQuad",
+      "type": "uses_dataset",
+      "description": "The technique is used to classify data within the MedQuad dataset."
+    },
+    {
+      "source": "Beta distribution",
+      "target": "Accuracy",
+      "type": "uses_metric",
+      "description": "Beta distribution is used to model the accuracy of Large Language Model-as-a-Judge."
+    },
+    {
+      "source": "Large Language Model-as-a-Judge accuracy introduces potential error",
+      "target": "Large Language Model-as-a-Judge evaluation techniques",
+      "type": "has_limitation",
+      "description": "The technique introduces a variable of potential error."
+    },
+    {
+      "source": "in-context",
+      "target": "arXiv:2502.08177v4",
+      "type": "proposes_method",
+      "description": "The paper proposes in-context rebuttal classes to amplify persuasive strength."
+    },
+    {
+      "source": "preemptive",
+      "target": "arXiv:2502.08177v4",
+      "type": "proposes_method",
+      "description": "The paper proposes preemptive rebuttal classes to amplify persuasive strength."
+    },
+    {
+      "source": "Simple Rebuttal",
+      "target": "Ethos Rebuttal",
+      "type": "builds_on",
+      "description": "Simple Rebuttal is a subset of Ethos Rebuttal"
+    },
+    {
+      "source": "Simple Rebuttal",
+      "target": "Justification Rebuttal",
+      "type": "builds_on",
+      "description": "Simple Rebuttal is a subset of Justification Rebuttal"
+    },
+    {
+      "source": "Simple Rebuttal",
+      "target": "Citation and Abstract Rebuttal",
+      "type": "builds_on",
+      "description": "Simple Rebuttal is a subset of Citation and Abstract Rebuttal"
+    },
+    {
+      "source": "Llama 3",
+      "target": "Ollama",
+      "type": "uses_method",
+      "description": "Llama 3 runs locally using the Ollama package"
+    },
+    {
+      "source": "58.19% of all samples exhibited sycophantic behavior",
+      "target": "Gemini",
+      "type": "finds",
+      "description": "General finding regarding model sycophancy"
+    },
+    {
+      "source": "Gemini had the highest sycophancy rate at 62.47%",
+      "target": "Gemini",
+      "type": "finds",
+      "description": "Specific finding for Gemini model"
+    },
+    {
+      "source": "binomial proportion 95% confidence interval",
+      "target": "Gemini",
+      "type": "uses_metric",
+      "description": "Metric used to discern sycophancy"
+    },
+    {
+      "source": "two-proportion z-test",
+      "target": "Claude-Sonnet",
+      "type": "uses_metric",
+      "description": "Metric used to compare sycophancy rates"
+    },
+    {
+      "source": "chi-square test",
+      "target": "Claude-Sonnet",
+      "type": "uses_metric",
+      "description": "Metric used to analyze persistent rebuttal chains"
+    },
+    {
+      "source": "chi-square goodness of fit test",
+      "target": "Claude-Sonnet",
+      "type": "uses_metric",
+      "description": "Metric used to determine dependence of sycophancy rate"
+    },
+    {
+      "source": "Gemini",
+      "target": "Sycophancy rate",
+      "type": "uses_metric",
+      "description": "Gemini had the highest sycophancy rate at 62.47%"
+    },
+    {
+      "source": "Claude-Sonnet",
+      "target": "Sycophancy rate",
+      "type": "uses_metric",
+      "description": "Claude-Sonnet had a 57.44% sycophancy rate"
+    },
+    {
+      "source": "ChatGPT",
+      "target": "Sycophancy rate",
+      "type": "uses_metric",
+      "description": "ChatGPT had the lowest sycophancy rate at 56.71%"
+    },
+    {
+      "source": "AMPS",
+      "target": "Sycophancy rate",
+      "type": "uses_metric",
+      "description": "AMPS dataset showed significantly higher sycophancy for preemptive responses"
+    },
+    {
+      "source": "MEDQuad",
+      "target": "Progressive response rate",
+      "type": "uses_metric",
+      "description": "MEDQuad dataset showed high progressive sycophancy with simple rebuttals"
+    },
+    {
+      "source": "Gemini",
+      "target": "58.19% of all samples exhibited sycophantic behavior",
+      "type": "finds",
+      "description": "Paper reports high overall sycophancy rates across models"
+    },
+    {
+      "source": "ChatGPT",
+      "target": "Preemptive rebuttals exhibit higher sycophancy rates than in-context rebuttals",
+      "type": "finds",
+      "description": "Significant difference found specifically for ChatGPT"
+    },
+    {
+      "source": "Claude-Sonnet",
+      "target": "Simple rebuttals maximize progressive sycophancy while citation rebuttals increase regressive sycophancy",
+      "type": "finds",
+      "description": "Significant associations found for Claude-Sonnet"
+    },
+    {
+      "source": "The overall persistence rate of sycophantic rebuttal chains is 78.5 percent.",
+      "target": "Sycophantic rebuttal persistence rate",
+      "type": "uses_metric",
+      "description": "The finding is based on the sycophantic rebuttal persistence rate metric."
+    },
+    {
+      "source": "ChatGPT",
+      "target": "Sycophantic rebuttal persistence rate",
+      "type": "uses_metric",
+      "description": "ChatGPT was evaluated using the sycophantic rebuttal persistence rate."
+    },
+    {
+      "source": "Claude-Sonnet",
+      "target": "Sycophantic rebuttal persistence rate",
+      "type": "uses_metric",
+      "description": "Claude-Sonnet was evaluated using the sycophantic rebuttal persistence rate."
+    },
+    {
+      "source": "Gemini",
+      "target": "Sycophantic rebuttal persistence rate",
+      "type": "uses_metric",
+      "description": "Gemini was evaluated using the sycophantic rebuttal persistence rate."
+    },
+    {
+      "source": "AMPS Math",
+      "target": "Sycophantic rebuttal persistence rate",
+      "type": "uses_metric",
+      "description": "The AMPS Math dataset was analyzed using the sycophantic rebuttal persistence rate."
+    },
+    {
+      "source": "MEDQuad",
+      "target": "Sycophantic rebuttal persistence rate",
+      "type": "uses_metric",
+      "description": "The MEDQuad dataset was analyzed using the sycophantic rebuttal persistence rate."
+    },
+    {
+      "source": "Persistence rates for sycophantic behavior do not significantly differ across models, contexts, or datasets.",
+      "target": "ChatGPT",
+      "type": "finds",
+      "description": "This finding relates to the observed persistence rates across different models."
+    },
+    {
+      "source": "Persistence rates for sycophantic behavior do not significantly differ across models, contexts, or datasets.",
+      "target": "AMPS Math",
+      "type": "finds",
+      "description": "This finding relates to the observed persistence rates across different datasets."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "AMPS",
+      "type": "uses_dataset",
+      "description": "The study benchmarks responses across a subset of the AMPS dataset."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "MedQuad",
+      "type": "uses_dataset",
+      "description": "The study benchmarks responses across a subset of the MedQuad dataset."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "ChatGPT-4o",
+      "type": "uses_method",
+      "description": "ChatGPT-4o is one of the models tested for sycophantic behavior."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Claude-Sonnet",
+      "type": "uses_method",
+      "description": "Claude-Sonnet is one of the models tested for sycophantic behavior."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Gemini",
+      "type": "uses_method",
+      "description": "Gemini is one of the models tested for sycophantic behavior."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Preemptive Rebuttal Formula",
+      "type": "uses_method",
+      "description": "The paper evaluates the preemptive rebuttal formula as a prompting strategy."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Sycophancy Rate",
+      "type": "uses_metric",
+      "description": "The study uses sycophancy rate to measure model behavior."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Sycophantic behavior is prevalent across all tested models.",
+      "type": "finds",
+      "description": "Findings indicate sycophancy is prevalent across all tested models."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Preemptive rebuttals elicit higher sycophancy rates than in-context rebuttals.",
+      "type": "finds",
+      "description": "The paper finds preemptive rebuttals result in higher sycophancy."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Structured tasks exhibit greater sycophantic sensitivity to prompt design.",
+      "type": "finds",
+      "description": "The paper finds domain complexity impacts sycophantic sensitivity."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Citation-based rebuttals triggered the highest regressive sycophancy.",
+      "type": "finds",
+      "description": "The paper finds citation-based rebuttals increase regressive sycophancy."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Models show susceptibility to manipulation through rhetorical strength.",
+      "type": "has_limitation",
+      "description": "The paper notes models are susceptible to manipulation."
+    },
+    {
+      "source": "MedQuad",
+      "target": "Sycophancy",
+      "type": "uses_metric",
+      "description": "The MedQuad dataset was used to measure sycophancy in medical contexts."
+    },
+    {
+      "source": "Reinforcement Learning from Human Feedback",
+      "target": "Sycophancy",
+      "type": "uses_method",
+      "description": "Reinforcement Learning from Human Feedback is suggested to suppress regressive sycophancy."
+    },
+    {
+      "source": "Rebuttal chain evaluation",
+      "target": "Sycophancy",
+      "type": "uses_metric",
+      "description": "Rebuttal chain evaluation is used to assess sycophantic behavior."
+    },
+    {
+      "source": "Large Language Model-as-a-Judge",
+      "target": "Sycophancy",
+      "type": "uses_metric",
+      "description": "Large Language Model-as-a-Judge is used for evaluating model behavior."
+    },
+    {
+      "source": "Sycophantic tendencies are a fundamental characteristic of current Large Language Model architectures.",
+      "target": "Sycophancy",
+      "type": "finds",
+      "description": "The study concludes that sycophancy is fundamental to current architectures."
+    },
+    {
+      "source": "Reliance on synthetic rebuttals may not capture real-world interaction diversity.",
+      "target": "Rebuttal chain evaluation",
+      "type": "has_limitation",
+      "description": "The reliance on synthetic data limits the evaluation framework."
+    },
+    {
+      "source": "Beta distribution modeling for Large Language Model-as-a-Judge assumes consistent human evaluation.",
+      "target": "Large Language Model-as-a-Judge",
+      "type": "has_limitation",
+      "description": "Assumptions in the modeling technique warrant further investigation."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Sycophantic behavior in Large Language Models has a dual nature.",
+      "type": "finds",
+      "description": "The study identifies the dual nature of sycophantic behavior in models."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "Sycophantic behavior warrants further investigation via human evaluation.",
+      "type": "has_limitation",
+      "description": "The paper notes that human evaluation of sycophancy requires further investigation."
+    },
+    {
+      "source": "arXiv:2502.08177v4",
+      "target": "hybrid reasoning architectures",
+      "type": "proposes_method",
+      "description": "The authors suggest exploring hybrid reasoning architectures for future work."
+    }
+  ]
+}

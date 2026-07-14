@@ -1,0 +1,1435 @@
+{
+  "file_path": "papers\\2505.13995v2.pdf",
+  "file_name": "2505.13995v2.pdf",
+  "title": "arXiv:2505.13995v2 [cs.CL] 29 Sep 2025",
+  "year": "2024",
+  "total_pages": 34,
+  "total_chunks": 17,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "type": "Paper"
+    },
+    {
+      "name": "Myra Cheng",
+      "type": "Author"
+    },
+    {
+      "name": "Sunny Yu",
+      "type": "Author"
+    },
+    {
+      "name": "Cinoo Lee",
+      "type": "Author"
+    },
+    {
+      "name": "Pranav Khadpe",
+      "type": "Author"
+    },
+    {
+      "name": "Lujain Ibrahim",
+      "type": "Author"
+    },
+    {
+      "name": "Dan Jurafsky",
+      "type": "Author"
+    },
+    {
+      "name": "Stanford University",
+      "type": "Institution"
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Oxford",
+      "type": "Institution"
+    },
+    {
+      "name": "ELEPHANT",
+      "type": "Method"
+    },
+    {
+      "name": "Reddit’s r/AmITheAsshole",
+      "type": "Dataset"
+    },
+    {
+      "name": "social sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Large Language Models consistently exhibit high rates of social sycophancy.",
+      "type": "Finding"
+    },
+    {
+      "name": "Large Language Models affirm both sides of a moral conflict.",
+      "type": "Finding"
+    },
+    {
+      "name": "Social sycophancy is rewarded in preference datasets.",
+      "type": "Finding"
+    },
+    {
+      "name": "Model-based steering shows promise for mitigating social sycophancy.",
+      "type": "Finding"
+    },
+    {
+      "name": "Existing mitigation strategies for sycophancy are limited in effectiveness.",
+      "type": "Limitation"
+    },
+    {
+      "name": "ELEPHANT",
+      "type": "Method"
+    },
+    {
+      "name": "r/AmITheAsshole",
+      "type": "Dataset"
+    },
+    {
+      "name": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "type": "Paper"
+    },
+    {
+      "name": "Direct Preference Optimization",
+      "type": "Method"
+    },
+    {
+      "name": "ELEPHANT",
+      "type": "Method"
+    },
+    {
+      "name": "Finding",
+      "type": "Finding"
+    },
+    {
+      "name": "Preference datasets",
+      "type": "Dataset"
+    },
+    {
+      "name": "Social sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Validation sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Indirectness sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Framing sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Moral sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Social sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Explicit sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Explicit sycophancy covers a small fraction of real-world use.",
+      "type": "Limitation"
+    },
+    {
+      "name": "It is difficult to judge excessive affirmation from a single query.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Social sycophancy is defined as preservation of the user’s face.",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophancy appropriateness is highly context-dependent.",
+      "type": "Finding"
+    },
+    {
+      "name": "ELEPHANT",
+      "type": "Method"
+    },
+    {
+      "name": "OEQ",
+      "type": "Dataset"
+    },
+    {
+      "name": "Open-Ended Queries",
+      "type": "Dataset"
+    },
+    {
+      "name": "Ideal Large Language Model behavior remains an open question for future work",
+      "type": "Limitation"
+    },
+    {
+      "name": "ELEPHANT",
+      "type": "Method"
+    },
+    {
+      "name": "General advice queries",
+      "type": "Dataset"
+    },
+    {
+      "name": "r/AmITheAsshole",
+      "type": "Dataset"
+    },
+    {
+      "name": "Subjective Statements",
+      "type": "Dataset"
+    },
+    {
+      "name": "AITA-NTA-FLIP",
+      "type": "Dataset"
+    },
+    {
+      "name": "Validation",
+      "type": "Metric"
+    },
+    {
+      "name": "Indirectness",
+      "type": "Metric"
+    },
+    {
+      "name": "Framing",
+      "type": "Metric"
+    },
+    {
+      "name": "Moral sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Large Language Models prioritize pleasing users over adhering to social or moral norms",
+      "type": "Finding"
+    },
+    {
+      "name": "Large Language Models are prone to hallucinations",
+      "type": "Limitation"
+    },
+    {
+      "name": "Large Language Models are prone to assumptions",
+      "type": "Limitation"
+    },
+    {
+      "name": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "type": "Paper"
+    },
+    {
+      "name": "GPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "LLM-as-a-judge",
+      "type": "Method"
+    },
+    {
+      "name": "sycophancy dimension",
+      "type": "Metric"
+    },
+    {
+      "name": "DeepSeek",
+      "type": "Method"
+    },
+    {
+      "name": "GPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-17B",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-70B",
+      "type": "Method"
+    },
+    {
+      "name": "GPT-5",
+      "type": "Method"
+    },
+    {
+      "name": "Qwen",
+      "type": "Method"
+    },
+    {
+      "name": "AITA-YTA",
+      "type": "Dataset"
+    },
+    {
+      "name": "AITA-NTA-FLIP",
+      "type": "Dataset"
+    },
+    {
+      "name": "SS",
+      "type": "Dataset"
+    },
+    {
+      "name": "moral sycophancy score",
+      "type": "Metric"
+    },
+    {
+      "name": "sycophancy score",
+      "type": "Metric"
+    },
+    {
+      "name": "The choice of baseline is left to the reader’s discretion depending on their view of ideal model behavior.",
+      "type": "Limitation"
+    },
+    {
+      "name": "If an LLM is sycophantic to the user’s perspective, it may reflect misalignment with norms.",
+      "type": "Limitation"
+    },
+    {
+      "name": "GPT-5",
+      "type": "Method"
+    },
+    {
+      "name": "GPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini-1.5-Flash",
+      "type": "Method"
+    },
+    {
+      "name": "Claude Sonnet 3.7",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-3-8B-Instruct",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-4-Scout-17B-16E",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-3.3-70B-Instruct-Turbo",
+      "type": "Method"
+    },
+    {
+      "name": "Mistral-7B-Instruct-v0.3",
+      "type": "Method"
+    },
+    {
+      "name": "Mistral-Small-24B-Instruct-2501",
+      "type": "Method"
+    },
+    {
+      "name": "DeepSeek-V3",
+      "type": "Method"
+    },
+    {
+      "name": "Qwen2.5-7B-Instruct-Turbo",
+      "type": "Method"
+    },
+    {
+      "name": "OpenAI",
+      "type": "Institution"
+    },
+    {
+      "name": "Google DeepMind",
+      "type": "Institution"
+    },
+    {
+      "name": "Anthropic",
+      "type": "Institution"
+    },
+    {
+      "name": "Meta",
+      "type": "Institution"
+    },
+    {
+      "name": "Mistral AI",
+      "type": "Institution"
+    },
+    {
+      "name": "Fleiss’ kappa",
+      "type": "Metric"
+    },
+    {
+      "name": "Cohen’s kappa",
+      "type": "Metric"
+    },
+    {
+      "name": "All Large Language Models are highly socially sycophantic",
+      "type": "Finding"
+    },
+    {
+      "name": "Gemini-1.5-Flash validates at a similar rate to humans",
+      "type": "Finding"
+    },
+    {
+      "name": "Measuring explicit NTA output is a conservative lower bound for sycophancy",
+      "type": "Limitation"
+    },
+    {
+      "name": "Claude",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "GPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "GPT-5",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-8B",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-17B",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-70B",
+      "type": "Method"
+    },
+    {
+      "name": "Mistral-7B",
+      "type": "Method"
+    },
+    {
+      "name": "Mistral-24B",
+      "type": "Method"
+    },
+    {
+      "name": "Qwen",
+      "type": "Method"
+    },
+    {
+      "name": "DeepSeek",
+      "type": "Method"
+    },
+    {
+      "name": "OEQ",
+      "type": "Dataset"
+    },
+    {
+      "name": "AITA-YTA",
+      "type": "Dataset"
+    },
+    {
+      "name": "SS",
+      "type": "Dataset"
+    },
+    {
+      "name": "AITA-NTA-FLIP",
+      "type": "Dataset"
+    },
+    {
+      "name": "LMSys",
+      "type": "Dataset"
+    },
+    {
+      "name": "UltraFeedback",
+      "type": "Dataset"
+    },
+    {
+      "name": "PRISM",
+      "type": "Dataset"
+    },
+    {
+      "name": "HH-RLHF",
+      "type": "Dataset"
+    },
+    {
+      "name": "Social sycophancy score",
+      "type": "Metric"
+    },
+    {
+      "name": "Moral sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Social sycophancy is invariant to Large Language Model size",
+      "type": "Finding"
+    },
+    {
+      "name": "Preferred responses in preference datasets have higher validation and indirectness",
+      "type": "Finding"
+    },
+    {
+      "name": "Gemini is consistently the least sycophantic model",
+      "type": "Finding"
+    },
+    {
+      "name": "LMSys",
+      "type": "Dataset"
+    },
+    {
+      "name": "UltraFeedback",
+      "type": "Dataset"
+    },
+    {
+      "name": "PRISM",
+      "type": "Dataset"
+    },
+    {
+      "name": "HH-RLHF",
+      "type": "Dataset"
+    },
+    {
+      "name": "Inference-Time Intervention",
+      "type": "Method"
+    },
+    {
+      "name": "Direct Preference Optimization",
+      "type": "Method"
+    },
+    {
+      "name": "Instruction prepending",
+      "type": "Method"
+    },
+    {
+      "name": "Perspective shift",
+      "type": "Method"
+    },
+    {
+      "name": "Validation",
+      "type": "Metric"
+    },
+    {
+      "name": "Indirectness",
+      "type": "Metric"
+    },
+    {
+      "name": "Framing",
+      "type": "Metric"
+    },
+    {
+      "name": "Preference optimization rewards social sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Mitigation strategies are limited in effectiveness",
+      "type": "Limitation"
+    },
+    {
+      "name": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "type": "Paper"
+    },
+    {
+      "name": "Instruction",
+      "type": "Method"
+    },
+    {
+      "name": "Perspective",
+      "type": "Method"
+    },
+    {
+      "name": "Inference-Time Intervention",
+      "type": "Method"
+    },
+    {
+      "name": "Direct Preference Optimization",
+      "type": "Method"
+    },
+    {
+      "name": "Open-Ended Question",
+      "type": "Dataset"
+    },
+    {
+      "name": "Am I The Asshole-You Are The Asshole",
+      "type": "Dataset"
+    },
+    {
+      "name": "Am I The Asshole-Not The Asshole",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sycophancy rate",
+      "type": "Metric"
+    },
+    {
+      "name": "Social sycophancy score",
+      "type": "Metric"
+    },
+    {
+      "name": "Mitigation models that do not consider context lead to sycophancy rate extremes",
+      "type": "Finding"
+    },
+    {
+      "name": "Perspective shift interventions do not fully eliminate social sycophancy in models",
+      "type": "Finding"
+    },
+    {
+      "name": "Inference-Time Intervention and Direct Preference Optimization are the most effective mitigation strategies",
+      "type": "Finding"
+    },
+    {
+      "name": "Models struggle to override user-facing orientation despite third-person prompt interventions",
+      "type": "Limitation"
+    },
+    {
+      "name": "Instruction-based mitigation leads to negative scores or elimination of face preservation",
+      "type": "Limitation"
+    },
+    {
+      "name": "Qwen",
+      "type": "Method"
+    },
+    {
+      "name": "DeepSeek",
+      "type": "Method"
+    },
+    {
+      "name": "OEQ",
+      "type": "Dataset"
+    },
+    {
+      "name": "Llama-8B",
+      "type": "Method"
+    },
+    {
+      "name": "Llama-70B",
+      "type": "Method"
+    },
+    {
+      "name": "Inference-Time Intervention",
+      "type": "Method"
+    },
+    {
+      "name": "Direct Preference Optimization",
+      "type": "Method"
+    },
+    {
+      "name": "Larger open-weight models show reduced social sycophancy with Inference-Time Intervention",
+      "type": "Finding"
+    },
+    {
+      "name": "Llama-8B and Llama-70B models remain high on framing and moral sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Challenging to override Large Language Model user-facing orientation with prompts alone",
+      "type": "Limitation"
+    },
+    {
+      "name": "Direct Preference Optimization-Validation",
+      "type": "Method"
+    },
+    {
+      "name": "Direct Preference Optimization-Indirectness",
+      "type": "Method"
+    },
+    {
+      "name": "Direct Preference Optimization-Framing",
+      "type": "Method"
+    },
+    {
+      "name": "Perspective Shift",
+      "type": "Method"
+    },
+    {
+      "name": "Inference-Time Intervention",
+      "type": "Method"
+    },
+    {
+      "name": "Open-Ended Question",
+      "type": "Dataset"
+    },
+    {
+      "name": "Am I The Asshole-YTA",
+      "type": "Dataset"
+    },
+    {
+      "name": "SS",
+      "type": "Dataset"
+    },
+    {
+      "name": "Am I The Asshole-NTA-FLIP",
+      "type": "Dataset"
+    },
+    {
+      "name": "GPT-4o",
+      "type": "Method"
+    },
+    {
+      "name": "Gemini",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 3.5 Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "Mistral 8x7B",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 3.7 Sonnet",
+      "type": "Method"
+    },
+    {
+      "name": "Mistral-7B",
+      "type": "Method"
+    },
+    {
+      "name": "Direct Preference Optimization-Validation and Direct Preference Optimization-Indirectness reduce sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Framing sycophancy is hard to mitigate",
+      "type": "Limitation"
+    },
+    {
+      "name": "Moral sycophancy is difficult to mitigate",
+      "type": "Limitation"
+    },
+    {
+      "name": "ELEPHANT",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "type": "Paper"
+    },
+    {
+      "name": "Reddit",
+      "type": "Dataset"
+    },
+    {
+      "name": "moral sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Myra Cheng",
+      "type": "written_by",
+      "description": "authored by Myra Cheng"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Sunny Yu",
+      "type": "written_by",
+      "description": "authored by Sunny Yu"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Cinoo Lee",
+      "type": "written_by",
+      "description": "authored by Cinoo Lee"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Pranav Khadpe",
+      "type": "written_by",
+      "description": "authored by Pranav Khadpe"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Lujain Ibrahim",
+      "type": "written_by",
+      "description": "authored by Lujain Ibrahim"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Dan Jurafsky",
+      "type": "written_by",
+      "description": "authored by Dan Jurafsky"
+    },
+    {
+      "source": "Myra Cheng",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "affiliated with Stanford University"
+    },
+    {
+      "source": "Sunny Yu",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "affiliated with Stanford University"
+    },
+    {
+      "source": "Cinoo Lee",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "affiliated with Stanford University"
+    },
+    {
+      "source": "Pranav Khadpe",
+      "target": "Carnegie Mellon University",
+      "type": "affiliated_with",
+      "description": "affiliated with Carnegie Mellon University"
+    },
+    {
+      "source": "Lujain Ibrahim",
+      "target": "University of Oxford",
+      "type": "affiliated_with",
+      "description": "affiliated with University of Oxford"
+    },
+    {
+      "source": "Dan Jurafsky",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "affiliated with Stanford University"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "ELEPHANT",
+      "type": "proposes_method",
+      "description": "proposes the ELEPHANT benchmark"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Reddit’s r/AmITheAsshole",
+      "type": "uses_dataset",
+      "description": "uses data from Reddit’s r/AmITheAsshole"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Large Language Models consistently exhibit high rates of social sycophancy.",
+      "type": "finds",
+      "description": "identifies high rates of social sycophancy"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Large Language Models affirm both sides of a moral conflict.",
+      "type": "finds",
+      "description": "models affirm both sides in moral conflicts"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Social sycophancy is rewarded in preference datasets.",
+      "type": "finds",
+      "description": "sycophancy is rewarded in datasets"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Model-based steering shows promise for mitigating social sycophancy.",
+      "type": "finds",
+      "description": "model-based steering mitigates behavior"
+    },
+    {
+      "source": "ELEPHANT: MEASURING AND UNDERSTANDING SOCIAL SYCOPHANCY IN LARGE LANGUAGE MODELS",
+      "target": "Existing mitigation strategies for sycophancy are limited in effectiveness.",
+      "type": "has_limitation",
+      "description": "existing mitigation strategies are limited"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "r/AmITheAsshole",
+      "type": "uses_dataset",
+      "description": "ELEPHANT is used to evaluate models on r/AmITheAsshole dataset"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Large Language Model",
+      "type": "finds",
+      "description": "Large Language Models are more socially sycophantic on advice queries than humans"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Large Language Model",
+      "type": "finds",
+      "description": "Large Language Models fail to challenge ungrounded assumptions in 86 percent of cases"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Large Language Model",
+      "type": "finds",
+      "description": "Large Language Models exhibit moral sycophancy by affirming the user's side in conflicts"
+    },
+    {
+      "source": "Evaluation of Large Language Models as Excessive sycoPHANTs",
+      "target": "Social sycophancy",
+      "type": "proposes_method",
+      "description": "The paper introduces social sycophancy as an expanded theory grounded in face theory."
+    },
+    {
+      "source": "Evaluation of Large Language Models as Excessive sycoPHANTs",
+      "target": "ELEPHANT",
+      "type": "proposes_method",
+      "description": "The paper introduces a benchmark for measuring social sycophancy."
+    },
+    {
+      "source": "Evaluation of Large Language Models as Excessive sycoPHANTs",
+      "target": "Preference datasets",
+      "type": "uses_dataset",
+      "description": "The authors evaluate preference datasets to identify sources of social sycophancy."
+    },
+    {
+      "source": "Evaluation of Large Language Models as Excessive sycoPHANTs",
+      "target": "Direct Preference Optimization",
+      "type": "uses_method",
+      "description": "Used as a mitigation strategy for social sycophancy."
+    },
+    {
+      "source": "Evaluation of Large Language Models as Excessive sycoPHANTs",
+      "target": "Finding",
+      "type": "finds",
+      "description": "Preference datasets used in alignment reward sycophantic behaviors."
+    },
+    {
+      "source": "Evaluation of Large Language Models as Excessive sycoPHANTs",
+      "target": "Finding",
+      "type": "has_limitation",
+      "description": "Mitigation strategies for social sycophancy show mixed effectiveness."
+    },
+    {
+      "source": "Social sycophancy",
+      "target": "Social sycophancy is defined as preservation of the user’s face.",
+      "type": "finds",
+      "description": "defines sycophancy as preservation of user face"
+    },
+    {
+      "source": "Social sycophancy",
+      "target": "Sycophancy appropriateness is highly context-dependent.",
+      "type": "finds",
+      "description": "states behavior appropriateness is context-dependent"
+    },
+    {
+      "source": "Explicit sycophancy",
+      "target": "Explicit sycophancy covers a small fraction of real-world use.",
+      "type": "has_limitation",
+      "description": "only covers a small fraction of real-world use"
+    },
+    {
+      "source": "Social sycophancy",
+      "target": "It is difficult to judge excessive affirmation from a single query.",
+      "type": "has_limitation",
+      "description": "hard to judge from a single query if a model is excessively affirming"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Open-Ended Queries",
+      "type": "uses_dataset",
+      "description": "ELEPHANT evaluates social sycophancy using the Open-Ended Queries dataset."
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Ideal Large Language Model behavior remains an open question for future work",
+      "type": "has_limitation",
+      "description": "Defining ideal model behavior remains an open question."
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "General advice queries",
+      "type": "uses_dataset",
+      "description": "ELEPHANT uses general advice queries as one of its four datasets"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "r/AmITheAsshole",
+      "type": "uses_dataset",
+      "description": "ELEPHANT uses AITA-YTA dataset derived from r/AmITheAsshole"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Subjective Statements",
+      "type": "uses_dataset",
+      "description": "ELEPHANT uses subjective statements to probe framing sycophancy"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "AITA-NTA-FLIP",
+      "type": "uses_dataset",
+      "description": "ELEPHANT uses AITA-NTA-FLIP to measure moral sycophancy"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Validation",
+      "type": "uses_metric",
+      "description": "ELEPHANT measures validation sycophancy"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Indirectness",
+      "type": "uses_metric",
+      "description": "ELEPHANT measures indirectness sycophancy"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Framing",
+      "type": "uses_metric",
+      "description": "ELEPHANT measures framing sycophancy"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Moral sycophancy",
+      "type": "uses_metric",
+      "description": "ELEPHANT measures moral sycophancy"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Large Language Models prioritize pleasing users over adhering to social or moral norms",
+      "type": "finds",
+      "description": "ELEPHANT identifies systematic over-affirmation in Large Language Models"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "GPT-4o",
+      "type": "uses_method",
+      "description": "The paper prompts GPT-4o to act as a judge for sycophancy dimensions."
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "LLM-as-a-judge",
+      "type": "uses_method",
+      "description": "The paper follows the LLM-as-a-judge paradigm for evaluating model responses."
+    },
+    {
+      "source": "AITA-YTA",
+      "target": "AITA-NTA-FLIP",
+      "type": "compares",
+      "description": "Used as part of datasets to assess social sycophancy"
+    },
+    {
+      "source": "AITA-NTA-FLIP",
+      "target": "moral sycophancy score",
+      "type": "uses_metric",
+      "description": "Used to assess moral sycophancy score through flipped perspectives"
+    },
+    {
+      "source": "AITA-YTA",
+      "target": "moral sycophancy score",
+      "type": "uses_metric",
+      "description": "Used to assess moral sycophancy score"
+    },
+    {
+      "source": "GPT-5",
+      "target": "OpenAI",
+      "type": "affiliated_with",
+      "description": "GPT-5 is developed by OpenAI"
+    },
+    {
+      "source": "GPT-4o",
+      "target": "OpenAI",
+      "type": "affiliated_with",
+      "description": "GPT-4o is developed by OpenAI"
+    },
+    {
+      "source": "Gemini-1.5-Flash",
+      "target": "Google DeepMind",
+      "type": "affiliated_with",
+      "description": "Gemini-1.5-Flash is developed by Google DeepMind"
+    },
+    {
+      "source": "Claude Sonnet 3.7",
+      "target": "Anthropic",
+      "type": "affiliated_with",
+      "description": "Claude Sonnet 3.7 is developed by Anthropic"
+    },
+    {
+      "source": "Llama-3-8B-Instruct",
+      "target": "Meta",
+      "type": "affiliated_with",
+      "description": "Llama-3-8B-Instruct is developed by Meta"
+    },
+    {
+      "source": "Llama-4-Scout-17B-16E",
+      "target": "Meta",
+      "type": "affiliated_with",
+      "description": "Llama-4-Scout-17B-16E is developed by Meta"
+    },
+    {
+      "source": "Llama-3.3-70B-Instruct-Turbo",
+      "target": "Meta",
+      "type": "affiliated_with",
+      "description": "Llama-3.3-70B-Instruct-Turbo is developed by Meta"
+    },
+    {
+      "source": "Mistral-7B-Instruct-v0.3",
+      "target": "Mistral AI",
+      "type": "affiliated_with",
+      "description": "Mistral-7B-Instruct-v0.3 is developed by Mistral AI"
+    },
+    {
+      "source": "Mistral-Small-24B-Instruct-2501",
+      "target": "Mistral AI",
+      "type": "affiliated_with",
+      "description": "Mistral-Small-24B-Instruct-2501 is developed by Mistral AI"
+    },
+    {
+      "source": "All Large Language Models are highly socially sycophantic",
+      "target": "GPT-5",
+      "type": "finds",
+      "description": "Result applies to evaluated models"
+    },
+    {
+      "source": "Gemini-1.5-Flash validates at a similar rate to humans",
+      "target": "Gemini-1.5-Flash",
+      "type": "finds",
+      "description": "Specific finding for Gemini model"
+    },
+    {
+      "source": "Measuring explicit NTA output is a conservative lower bound for sycophancy",
+      "target": "GPT-5",
+      "type": "has_limitation",
+      "description": "Methodological limitation of measurement"
+    },
+    {
+      "source": "Claude",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Gemini",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "GPT-4o",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "GPT-5",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Llama-8B",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Llama-17B",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Llama-70B",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Mistral-7B",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Mistral-24B",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "Qwen",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "DeepSeek",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "evaluated using social sycophancy score"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "OEQ",
+      "type": "uses_dataset",
+      "description": "analyzed using OEQ dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "AITA-YTA",
+      "type": "uses_dataset",
+      "description": "analyzed using AITA-YTA dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "SS",
+      "type": "uses_dataset",
+      "description": "analyzed using SS dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "AITA-NTA-FLIP",
+      "type": "uses_dataset",
+      "description": "analyzed using AITA-NTA-FLIP dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "LMSys",
+      "type": "uses_dataset",
+      "description": "analyzed using LMSys dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "UltraFeedback",
+      "type": "uses_dataset",
+      "description": "analyzed using UltraFeedback dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "PRISM",
+      "type": "uses_dataset",
+      "description": "analyzed using PRISM dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "HH-RLHF",
+      "type": "uses_dataset",
+      "description": "analyzed using HH-RLHF dataset"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "Social sycophancy is invariant to Large Language Model size",
+      "type": "finds",
+      "description": "concludes that sycophancy does not scale with size"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "Preferred responses in preference datasets have higher validation and indirectness",
+      "type": "finds",
+      "description": "observed link between preference and sycophancy"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "Gemini is consistently the least sycophantic model",
+      "type": "finds",
+      "description": "noted comparative performance of Gemini"
+    },
+    {
+      "source": "Inference-Time Intervention",
+      "target": "truthfulness",
+      "type": "uses_metric",
+      "description": "Inference-Time Intervention is used for truthfulness"
+    },
+    {
+      "source": "Preference optimization rewards social sycophancy",
+      "target": "Preference optimization",
+      "type": "finds",
+      "description": "Preference optimization rewards social sycophancy"
+    },
+    {
+      "source": "Mitigation strategies are limited in effectiveness",
+      "target": "Instruction prepending",
+      "type": "has_limitation",
+      "description": "Mitigation strategies including instruction prepending are limited in effectiveness"
+    },
+    {
+      "source": "Mitigation strategies are limited in effectiveness",
+      "target": "Perspective shift",
+      "type": "has_limitation",
+      "description": "Mitigation strategies including perspective shift are limited in effectiveness"
+    },
+    {
+      "source": "Mitigation strategies are limited in effectiveness",
+      "target": "Inference-Time Intervention",
+      "type": "has_limitation",
+      "description": "Mitigation strategies including Inference-Time Intervention are limited in effectiveness"
+    },
+    {
+      "source": "Mitigation strategies are limited in effectiveness",
+      "target": "Direct Preference Optimization",
+      "type": "has_limitation",
+      "description": "Mitigation strategies including Direct Preference Optimization are limited in effectiveness"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Instruction",
+      "type": "uses_method",
+      "description": "Used as a mitigation strategy"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Perspective",
+      "type": "uses_method",
+      "description": "Used as a mitigation strategy"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Inference-Time Intervention",
+      "type": "uses_method",
+      "description": "Used as a mitigation strategy"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Direct Preference Optimization",
+      "type": "uses_method",
+      "description": "Used as a mitigation strategy"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Open-Ended Question",
+      "type": "uses_dataset",
+      "description": "Used for evaluation"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Am I The Asshole-You Are The Asshole",
+      "type": "uses_dataset",
+      "description": "Used for evaluation"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Am I The Asshole-Not The Asshole",
+      "type": "uses_dataset",
+      "description": "Used for evaluation"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Sycophancy rate",
+      "type": "uses_metric",
+      "description": "Used to measure sycophancy"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Social sycophancy score",
+      "type": "uses_metric",
+      "description": "Used to measure mitigation effectiveness"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Mitigation models that do not consider context lead to sycophancy rate extremes",
+      "type": "finds",
+      "description": "Identified failure in context-blind mitigation"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Perspective shift interventions do not fully eliminate social sycophancy in models",
+      "type": "finds",
+      "description": "Result of perspective shift tests"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Inference-Time Intervention and Direct Preference Optimization are the most effective mitigation strategies",
+      "type": "finds",
+      "description": "Comparison of effectiveness"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Models struggle to override user-facing orientation despite third-person prompt interventions",
+      "type": "has_limitation",
+      "description": "Difficulty overriding orientation"
+    },
+    {
+      "source": "Social Sycophancy in Advice Queries in Preference Datasets",
+      "target": "Instruction-based mitigation leads to negative scores or elimination of face preservation",
+      "type": "has_limitation",
+      "description": "Ineffectiveness of naive instruction prepending"
+    },
+    {
+      "source": "Qwen",
+      "target": "OEQ",
+      "type": "uses_dataset",
+      "description": "Qwen tested on OEQ dataset"
+    },
+    {
+      "source": "DeepSeek",
+      "target": "OEQ",
+      "type": "uses_dataset",
+      "description": "DeepSeek tested on OEQ dataset"
+    },
+    {
+      "source": "Inference-Time Intervention",
+      "target": "Llama-8B",
+      "type": "uses_method",
+      "description": "Inference-Time Intervention tested on Llama-8B"
+    },
+    {
+      "source": "Inference-Time Intervention",
+      "target": "Llama-70B",
+      "type": "uses_method",
+      "description": "Inference-Time Intervention tested on Llama-70B"
+    },
+    {
+      "source": "Direct Preference Optimization",
+      "target": "Llama-8B",
+      "type": "uses_method",
+      "description": "Direct Preference Optimization used to fine-tune Llama-8B"
+    },
+    {
+      "source": "Inference-Time Intervention",
+      "target": "Larger open-weight models show reduced social sycophancy with Inference-Time Intervention",
+      "type": "finds",
+      "description": "Effectiveness of Inference-Time Intervention on social sycophancy"
+    },
+    {
+      "source": "Llama-8B",
+      "target": "Llama-8B and Llama-70B models remain high on framing and moral sycophancy",
+      "type": "has_limitation",
+      "description": "Persistent framing and moral sycophancy"
+    },
+    {
+      "source": "Llama-70B",
+      "target": "Llama-8B and Llama-70B models remain high on framing and moral sycophancy",
+      "type": "has_limitation",
+      "description": "Persistent framing and moral sycophancy"
+    },
+    {
+      "source": "Direct Preference Optimization-Validation and Direct Preference Optimization-Indirectness reduce sycophancy",
+      "target": "Direct Preference Optimization-Validation",
+      "type": "finds",
+      "description": "Validation and Indirectness reduce sycophancy in their respective dimensions"
+    },
+    {
+      "source": "Framing sycophancy is hard to mitigate",
+      "target": "Direct Preference Optimization-Framing",
+      "type": "has_limitation",
+      "description": "Direct Preference Optimization-Framing is largely ineffective"
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Large Language Model",
+      "type": "finds",
+      "description": "ELEPHANT characterizes social sycophancy tendencies in Large Language Models."
+    },
+    {
+      "source": "ELEPHANT",
+      "target": "Large Language Model",
+      "type": "has_limitation",
+      "description": "Requires better understanding of ideal behavior and long-term impacts of affirmation."
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "Reddit",
+      "type": "uses_dataset",
+      "description": "uses Reddit judgments as a crowdsourced baseline"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "moral sycophancy",
+      "type": "uses_metric",
+      "description": "measures moral sycophancy to control for norm differences"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "Large Language Model",
+      "type": "has_limitation",
+      "description": "study is limited to English and potential ethnocentric theoretical frameworks"
+    },
+    {
+      "source": "arXiv:2505.13995v2",
+      "target": "Reddit",
+      "type": "has_limitation",
+      "description": "Reddit judgments reflect Western and American norms"
+    }
+  ]
+}

@@ -78,6 +78,8 @@ def visualize(graph: nx.Graph, output_path: str = "output/graph.html") -> None:
         # Ukuran node hirarkis: semakin sedikit jumlah tipenya, semakin besar base size-nya
         base_size = 60 - (type_counts.get(node_type, 1) / max_count) * 40
         size = base_size + (degree * 1.5)
+        # Cap the maximum size to prevent physics engine issues with hub nodes
+        size = min(size, 250)
 
         # Tooltip plain text (pyvis escape HTML di title, jadi pakai newline)
         source = attrs.get("source_paper", "")
@@ -144,9 +146,9 @@ def visualize(graph: nx.Graph, output_path: str = "output/graph.html") -> None:
         "enabled": true,
         "solver": "forceAtlas2Based",
         "forceAtlas2Based": {
-          "gravitationalConstant": -500,
+          "gravitationalConstant": -1500,
           "centralGravity": 0.005,
-          "springLength": 300,
+          "springLength": 500,
           "springConstant": 0.05,
           "damping": 0.8,
           "avoidOverlap": 1.0
@@ -242,6 +244,34 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     injected = f"""
 <style>
   body {{ margin: 0; overflow: hidden; }}
+  
+  /* Override PyVis default loading screen */
+  #loadingBar {{
+      background-color: #0f0f1a !important;
+  }}
+  div.outerBorder {{
+      border: 1px solid rgba(255,255,255,0.2) !important;
+      background: rgba(0,0,0,0.5) !important;
+      border-radius: 20px !important;
+      box-shadow: 0 4px 15px rgba(0,0,0,0.5) !important;
+      top: 50% !important;
+      transform: translateY(-50%) !important;
+      margin: 0 auto !important;
+  }}
+  #text {{
+      position: absolute !important;
+      top: -30px !important;
+      left: 0 !important;
+      width: 100% !important;
+      text-align: center !important;
+      color: #a0c4ff !important;
+      font-size: 16px !important;
+      margin: 0 !important;
+  }}
+  #bar {{
+      background-color: #a0c4ff !important;
+  }}
+
   #right-panel {{
     position: fixed;
     top: 16px;
@@ -1038,7 +1068,7 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       
       network.selectNodes([nodeId], false);
       network.focus(nodeId, {{
-          scale: 0.6,
+          scale: 0.25,
           animation: {{ duration: 1000, easingFunction: "easeInOutQuad" }}
       }});
       

@@ -1,0 +1,3653 @@
+{
+  "file_path": "papers\\1906.11239v1.pdf",
+  "file_name": "1906.11239v1.pdf",
+  "title": "First Event Horizon Telescope Results. Array Instrumentation",
+  "year": "2019",
+  "total_pages": 28,
+  "total_chunks": 39,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Very long baseline interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "64 gigabit per second",
+      "type": "Metric"
+    },
+    {
+      "name": "25 microarcseconds",
+      "type": "Metric"
+    },
+    {
+      "name": "Event horizon scale imaging of the supermassive black hole candidate in M87 was achieved.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "GRAVITY interferometer",
+      "type": "Method"
+    },
+    {
+      "name": "RadioAstron satellite",
+      "type": "Method"
+    },
+    {
+      "name": "Laser Interferometer Gravitational-Wave Observatory",
+      "type": "Method"
+    },
+    {
+      "name": "The Astrophysical Journal Letters",
+      "type": "Institution"
+    },
+    {
+      "name": "American Astronomical Society",
+      "type": "Institution"
+    },
+    {
+      "name": "The GRAVITY interferometer cannot make spatially resolved images of black hole candidates",
+      "type": "Limitation"
+    },
+    {
+      "name": "RadioAstron satellite cannot penetrate self-absorbed synchrotron plasma surrounding the event horizon",
+      "type": "Limitation"
+    },
+    {
+      "name": "Event Horizon Telescope provides ultra-high angular resolution to resolve nearest supermassive black hole candidates",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Polarimetric imaging",
+      "type": "Method"
+    },
+    {
+      "name": "Messier 87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Shadow diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "Orbital period",
+      "type": "Metric"
+    },
+    {
+      "name": "Bolometric luminosities",
+      "type": "Metric"
+    },
+    {
+      "name": "Shadow diameter ranges from 4.8 to 5.2 Schwarzschild radii",
+      "type": "Finding"
+    },
+    {
+      "name": "Detection of shadow provides evidence for supermassive black holes",
+      "type": "Finding"
+    },
+    {
+      "name": "Shadow size depends primarily on mass and weakly on spin and orientation",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Combined Array for Research in Millimeter-wave Astronomy",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "high-bandwidth Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Finding structure on the scale of the shadow in M87 and Sagittarius A*",
+      "type": "Finding"
+    },
+    {
+      "name": "Imaging and time-domain sampling of event horizon structure is possible",
+      "type": "Finding"
+    },
+    {
+      "name": "Smaller telescope apertures at millimeter and submillimeter wavelengths",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "gigabit per second",
+      "type": "Metric"
+    },
+    {
+      "name": "Deployment of digital Very Long Baseline Interferometry backend and recording instrumentation enabled horizon-scale detections.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Field programmable gate array",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Array",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope Alfonso Serrano",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta 30 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Data throughput",
+      "type": "Metric"
+    },
+    {
+      "name": "Angular resolution",
+      "type": "Metric"
+    },
+    {
+      "name": "Interstellar scattering blurs radio images of Sgr A*",
+      "type": "Finding"
+    },
+    {
+      "name": "Earth atmosphere at high-altitude sites is transparent at mm/submm wavelengths",
+      "type": "Finding"
+    },
+    {
+      "name": "Increased sensitivity allows detection of horizon-scale time-variable structures",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope Alfonso Serrano",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta 30 m telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sensitivity",
+      "type": "Metric"
+    },
+    {
+      "name": "Aggregate bandwidth",
+      "type": "Metric"
+    },
+    {
+      "name": "Heterodyne receivers",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta 30 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Kitt Peak 12 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Combined Array for Research in Millimeter-wave Astronomy",
+      "type": "Institution"
+    },
+    {
+      "name": "Caltech Submillimeter Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "atomic frequency standards",
+      "type": "Method"
+    },
+    {
+      "name": "Atomic frequency standards require higher stability than typically specified for longer wavelength observations.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Bandwidth expansion effectively boosts sensitivity for millimetre-wavelength observations.",
+      "type": "Finding"
+    },
+    {
+      "name": "Three-station array resolved emission on the scale of the event horizon of Sagittarius A*.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Caltech Submillimeter Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Kitt Peak 12 meter",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Regularized maximum likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Angular resolution",
+      "type": "Metric"
+    },
+    {
+      "name": "Sensitivity",
+      "type": "Metric"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Effective Event Horizon Telescope angular resolution at 1.3 mm is 20 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "Sgr A* structure is scatter broadened by interstellar effects reducing visibility amplitudes",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Regularized Maximum Likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Sparse Fourier coverage results in reduced visibility amplitudes due to scatter broadening.",
+      "type": "Finding"
+    },
+    {
+      "name": "Atmospheric turbulence causes loss in signal-to-noise ratio for interferometric detections.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Coherence Time",
+      "type": "Metric"
+    },
+    {
+      "name": "More than 75% of scans on baselines including Atacama Large Millimeter/submillimeter Array had coherence time greater than 10 seconds",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta 30 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Kitt Peak 12 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Including Atacama Large Millimeter/submillimeter Array results in near-full spatial frequency coverage.",
+      "type": "Finding"
+    },
+    {
+      "name": "Event Horizon Telescope must track Very Long Baseline Interferometry observables on fine timescales.",
+      "type": "Finding"
+    },
+    {
+      "name": "Atmospheric coherence times set integration intervals and sensitivity requirements.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "thermal noise",
+      "type": "Metric"
+    },
+    {
+      "name": "atmospheric coherence time",
+      "type": "Metric"
+    },
+    {
+      "name": "atmospheric phase fluctuations",
+      "type": "Limitation"
+    },
+    {
+      "name": "low-elevation scans",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Combined Array for Research in Millimeter-wave Astronomy",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "ALMA significantly extends the Fourier coverage and sensitivity of the Event Horizon Telescope array.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Interferometric fringe detection",
+      "type": "Method"
+    },
+    {
+      "name": "Fourier coverage",
+      "type": "Metric"
+    },
+    {
+      "name": "Sensitivity",
+      "type": "Metric"
+    },
+    {
+      "name": "Including Atacama Large Millimeter/submillimeter Array significantly extends Fourier coverage and sensitivity.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "VLBI Data Interchange Format",
+      "type": "Method"
+    },
+    {
+      "name": "Mark 6 recorder",
+      "type": "Method"
+    },
+    {
+      "name": "Ethernet",
+      "type": "Method"
+    },
+    {
+      "name": "heterodyne receivers",
+      "type": "Method"
+    },
+    {
+      "name": "superconductor–insulator–superconductor junctions",
+      "type": "Method"
+    },
+    {
+      "name": "phased-array processors",
+      "type": "Method"
+    },
+    {
+      "name": "10,000 hr of recording",
+      "type": "Metric"
+    },
+    {
+      "name": "15 PB of data storage",
+      "type": "Metric"
+    },
+    {
+      "name": "Helium-filled hermetically sealed hard drives perform without failure at 5100 m altitude.",
+      "type": "Finding"
+    },
+    {
+      "name": "Stations on the periphery cannot participate in all scans.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Hydrogen Maser",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Allan variance",
+      "type": "Metric"
+    },
+    {
+      "name": "Allan standard deviation",
+      "type": "Metric"
+    },
+    {
+      "name": "Block Downconverters",
+      "type": "Method"
+    },
+    {
+      "name": "Orthomode transducer",
+      "type": "Method"
+    },
+    {
+      "name": "Global Positioning System",
+      "type": "Method"
+    },
+    {
+      "name": "Hydrogen masers ensure atmospheric turbulence is the dominant source of coherence loss",
+      "type": "Finding"
+    },
+    {
+      "name": "Sharing a common frequency reference on long Very Long Baseline Interferometry baselines is not technically feasible",
+      "type": "Limitation"
+    },
+    {
+      "name": "Global Positioning System stability on 1 second timescales is poor",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Allan standard deviation",
+      "type": "Metric"
+    },
+    {
+      "name": "Hydrogen maser meets 10 second stability goal of 1.5 times 10 to the negative 14 power",
+      "type": "Finding"
+    },
+    {
+      "name": "Decreased stability of the quartz crystal affects measurements beyond 10 seconds",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "Institution"
+    },
+    {
+      "name": "Reconfigurable Open Access Computing Hardware",
+      "type": "Method"
+    },
+    {
+      "name": "ROACH2 Digital Back End",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Gigabit Ethernet",
+      "type": "Method"
+    },
+    {
+      "name": "VLBI Data Interchange Format",
+      "type": "Method"
+    },
+    {
+      "name": "Mark 6 recorder",
+      "type": "Method"
+    },
+    {
+      "name": "Digital backend",
+      "type": "Method"
+    },
+    {
+      "name": "Gain, offset, and sampler clock phase mismatches produce spurious artifacts in the spectrum.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "University of California, Berkeley",
+      "type": "Institution"
+    },
+    {
+      "name": "Xilinx",
+      "type": "Institution"
+    },
+    {
+      "name": "Digital BaseBand Converter",
+      "type": "Method"
+    },
+    {
+      "name": "Digital efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "Bandwidth",
+      "type": "Metric"
+    },
+    {
+      "name": "2-bit recording increases digital efficiency to 0.88 compared to 0.64 for 1-bit recording.",
+      "type": "Finding"
+    },
+    {
+      "name": "Maximum aggregate bandwidth is limited by Atacama Large Millimeter/submillimeter Array receiver characteristics.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "2-bit sampling",
+      "type": "Method"
+    },
+    {
+      "name": "Mark 6 Very Long Baseline Interferometry Data System",
+      "type": "Method"
+    },
+    {
+      "name": "Remote Radiohead Data Backend Equipment",
+      "type": "Method"
+    },
+    {
+      "name": "Mark 5C system",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "sensitivity",
+      "type": "Metric"
+    },
+    {
+      "name": "data capture rate",
+      "type": "Metric"
+    },
+    {
+      "name": "bandwidth",
+      "type": "Metric"
+    },
+    {
+      "name": "2-bit sampling ensures ample margin for sensitivity requirements while minimizing recording media costs.",
+      "type": "Finding"
+    },
+    {
+      "name": "EHT backend bandwidth increased 64-fold, resulting in eight-fold sensitivity improvement.",
+      "type": "Finding"
+    },
+    {
+      "name": "Mark 6 hardware sensitivity to overheating at high altitude.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Hardware operating altitude limit of 10,000 feet.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Reconfigurable Wide-bandwidth Digital Backend",
+      "type": "Method"
+    },
+    {
+      "name": "phasing system",
+      "type": "Method"
+    },
+    {
+      "name": "phasing efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "maximum data rate",
+      "type": "Limitation"
+    },
+    {
+      "name": "atmospheric delay",
+      "type": "Limitation"
+    },
+    {
+      "name": "FPGA clock speed",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimétrique",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Phasing efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "Recording rate",
+      "type": "Metric"
+    },
+    {
+      "name": "EHT stations record at 64 gigabits per second as of 2018",
+      "type": "Finding"
+    },
+    {
+      "name": "Lacks real-time verification of fringes due to remote sites and large data volume",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Kitt Peak",
+      "type": "Institution"
+    },
+    {
+      "name": "NOrthern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Combined Array for Research in Millimeter-wave Astronomy",
+      "type": "Institution"
+    },
+    {
+      "name": "Caltech Submillimeter Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "autocorrelations",
+      "type": "Method"
+    },
+    {
+      "name": "zero-baseline cross-correlations",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "thermal noise",
+      "type": "Metric"
+    },
+    {
+      "name": "The Event Horizon Telescope met specifications to image SMBH shadow features",
+      "type": "Finding"
+    },
+    {
+      "name": "inclement weather",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta 30 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Median Thermal Noise",
+      "type": "Metric"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "South Pole Telescope cannot observe M87 due to its geographic location",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Massachusetts Institute of Technology Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "VLBImonitor",
+      "type": "Method"
+    },
+    {
+      "name": "JSON-RPC",
+      "type": "Method"
+    },
+    {
+      "name": "HTTPS",
+      "type": "Method"
+    },
+    {
+      "name": "Distributed FX",
+      "type": "Method"
+    },
+    {
+      "name": "Mark 6 playback units",
+      "type": "Method"
+    },
+    {
+      "name": "Inhomogeneous array deployment requires specialist teams at each station for observations.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Observing window is limited to about 12 days.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Distributed FX",
+      "type": "Method"
+    },
+    {
+      "name": "Mark 6",
+      "type": "Method"
+    },
+    {
+      "name": "PolConvert",
+      "type": "Method"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Max Planck Institute for Radio Astronomy",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Data links",
+      "type": "Metric"
+    },
+    {
+      "name": "Network switch",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "fringe-delay",
+      "type": "Method"
+    },
+    {
+      "name": "fringe-rate",
+      "type": "Method"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "correlated flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "residual clock drifts",
+      "type": "Limitation"
+    },
+    {
+      "name": "instrumental electronic delays",
+      "type": "Limitation"
+    },
+    {
+      "name": "atmospheric phase fluctuations",
+      "type": "Limitation"
+    },
+    {
+      "name": "Averaging cross-products in time and frequency decimates data volumes by 1 million times",
+      "type": "Finding"
+    },
+    {
+      "name": "ALMA baselines allow coherent integration on non-ALMA baselines beyond atmospheric coherence time",
+      "type": "Finding"
+    },
+    {
+      "name": "Ability to image supermassive black holes on horizon scales is confirmed",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "NOrthern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder EXperiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Imaging of supermassive black holes on horizon scales is confirmed",
+      "type": "Finding"
+    },
+    {
+      "name": "Atmospheric phase variations cause fringe-rate variation",
+      "type": "Limitation"
+    },
+    {
+      "name": "Thermal noise increases on Atacama Pathfinder EXperiment-Submillimeter Array baselines",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Kitt Peak",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Messier 87",
+      "type": "Dataset"
+    },
+    {
+      "name": "angular resolution",
+      "type": "Metric"
+    },
+    {
+      "name": "computational requirements increase linearly with bandwidth and as the square of stations",
+      "type": "Finding"
+    },
+    {
+      "name": "baseline length limited to the diameter of the Earth",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Academy of Finland",
+      "type": "Institution"
+    },
+    {
+      "name": "Advanced European Network of E-infrastructures for Astronomy with the Square Kilometre Array",
+      "type": "Institution"
+    },
+    {
+      "name": "European Commission",
+      "type": "Institution"
+    },
+    {
+      "name": "Alexander von Humboldt Stiftung",
+      "type": "Institution"
+    },
+    {
+      "name": "Black Hole Initiative at Harvard University",
+      "type": "Institution"
+    },
+    {
+      "name": "John Templeton Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "China Scholarship Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Comisión Nacional de Investigación Cientíﬁca y Tecnológica",
+      "type": "Institution"
+    },
+    {
+      "name": "Consejo Nacional de Ciencia y Tecnologí",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Dirección General de Asuntos del Personal Académico–Universidad Nacional Autónoma de México",
+      "type": "Institution"
+    },
+    {
+      "name": "European Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Generalitat Valenciana",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "type": "Institution"
+    },
+    {
+      "name": "International Max Planck Research School for Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Data capture rates",
+      "type": "Metric"
+    },
+    {
+      "name": "EHT data capture rates increased from 4 to 64 gigabits per second over 10 years",
+      "type": "Finding"
+    },
+    {
+      "name": "Building a Very Long Baseline Interferometry array from the ground up is prohibitively costly",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Generalitat Valenciana",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "type": "Institution"
+    },
+    {
+      "name": "International Max Planck Research School for Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Universities of Bonn",
+      "type": "Institution"
+    },
+    {
+      "name": "Universities of Cologne",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Japanese Government",
+      "type": "Institution"
+    },
+    {
+      "name": "Japan Society for the Promotion of Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Leverhulme Trust",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Massachusetts Institute of Technology International Science and Technology Initiatives",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology of Taiwan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institute of Natural Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "National Key Research and Development Program of China",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Science Foundation of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "National Youth Thousand Talents Program of China",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation of Korea",
+      "type": "Institution"
+    },
+    {
+      "name": "Netherlands Organization for Scientific Research",
+      "type": "Institution"
+    },
+    {
+      "name": "South African Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Swedish Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute for Theoretical Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "Russian Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Spanish Ministerio de Economía y Competitividad",
+      "type": "Institution"
+    },
+    {
+      "name": "State Agency for Research of the Spanish Ministerio de Ciencia, Innovación y Universidades",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto de Astrofísica de Andalucía",
+      "type": "Institution"
+    },
+    {
+      "name": "Toray Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "United States Department of Energy",
+      "type": "Institution"
+    },
+    {
+      "name": "Los Alamos National Laboratory",
+      "type": "Institution"
+    },
+    {
+      "name": "Triad National Security, Limited Liability Company",
+      "type": "Institution"
+    },
+    {
+      "name": "National Nuclear Security Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "Italian Ministero dell’Istruzione Università e Ricerca",
+      "type": "Institution"
+    },
+    {
+      "name": "European Union",
+      "type": "Institution"
+    },
+    {
+      "name": "Extreme Science and Engineering Discovery Environment",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "United States Department of Energy",
+      "type": "Institution"
+    },
+    {
+      "name": "Italian Ministero dell’Istruzione Università e Ricerca",
+      "type": "Institution"
+    },
+    {
+      "name": "European Union",
+      "type": "Institution"
+    },
+    {
+      "name": "Extreme Science and Engineering Discovery Environment",
+      "type": "Method"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "CyVerse",
+      "type": "Method"
+    },
+    {
+      "name": "Texas Advanced Computing Center",
+      "type": "Institution"
+    },
+    {
+      "name": "Pittsburgh Supercomputing Center",
+      "type": "Institution"
+    },
+    {
+      "name": "Leibniz-Rechenzentrum",
+      "type": "Institution"
+    },
+    {
+      "name": "Center for Scientific Computing",
+      "type": "Institution"
+    },
+    {
+      "name": "High Performance Computing Center Stuttgart",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Ontario",
+      "type": "Institution"
+    },
+    {
+      "name": "Calcul Quebec",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Dataset"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institutes of Natural Sciences of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institutes of Natural Sciences of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Joint ALMA Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Associated Universities, Inc.",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Academia Sinica",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "type": "Institution"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "National Chung-Shan Institute of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "United States Air Force",
+      "type": "Institution"
+    },
+    {
+      "name": "821st Air Base Group",
+      "type": "Institution"
+    },
+    {
+      "name": "Thule Air Base",
+      "type": "Institution"
+    },
+    {
+      "name": "Vertex Antennentechnik GmbH",
+      "type": "Institution"
+    },
+    {
+      "name": "ADS International",
+      "type": "Institution"
+    },
+    {
+      "name": "Atunas",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Massachusetts Institute of Technology Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "NOEMA observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "IRAM 30-meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimétrique",
+      "type": "Institution"
+    },
+    {
+      "name": "Centre National de la Recherche Scientifique",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Geográfico Nacional",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Astrophysical Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "East Asian Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Finance of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Science and Technology Facilities Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Nacional de Astrofísica, Óptica y Electrónica",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Massachusetts at Amherst",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Kitt Peak",
+      "type": "Institution"
+    },
+    {
+      "name": "Arizona Radio Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Steward Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Arizona",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Institute of Cosmological Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Chicago",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Institution"
+    },
+    {
+      "name": "Xilinx Inc.",
+      "type": "Institution"
+    },
+    {
+      "name": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "Institution"
+    },
+    {
+      "name": "T4Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsemi",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "type": "Paper"
+    },
+    {
+      "name": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "Institution"
+    },
+    {
+      "name": "T4Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsemi",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration Astrophysics Data System",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array Phasing Project",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper written by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "target": "Very long baseline interferometry",
+      "type": "uses_method",
+      "description": "The paper describes the instrumentation for this array technique"
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from the supermassive black hole candidate in M87"
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "target": "64 gigabit per second",
+      "type": "uses_metric",
+      "description": "Data processing rate used as a performance measure"
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "target": "25 microarcseconds",
+      "type": "uses_metric",
+      "description": "Angular resolution used as a performance measure"
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. II. Array and Instrumentation",
+      "target": "Event horizon scale imaging of the supermassive black hole candidate in M87 was achieved.",
+      "type": "finds",
+      "description": "The paper reports successful imaging of the black hole candidate in M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope",
+      "type": "proposes_method",
+      "description": "The paper describes the array and instrumentation of the Event Horizon Telescope."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The Event Horizon Telescope is a very long baseline interferometry array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The Astrophysical Journal Letters",
+      "type": "affiliated_with",
+      "description": "The paper was published in The Astrophysical Journal Letters."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope provides ultra-high angular resolution to resolve nearest supermassive black hole candidates",
+      "type": "finds",
+      "description": "The paper identifies the primary objective and capability of the array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The GRAVITY interferometer cannot make spatially resolved images of black hole candidates",
+      "type": "has_limitation",
+      "description": "The paper notes the limitation of the GRAVITY interferometer regarding resolution."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "RadioAstron satellite cannot penetrate self-absorbed synchrotron plasma surrounding the event horizon",
+      "type": "has_limitation",
+      "description": "The paper notes the limitation of the RadioAstron satellite regarding wavelength penetration."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "GRAVITY interferometer",
+      "type": "compares",
+      "description": "The paper compares the Event Horizon Telescope to the GRAVITY interferometer."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "RadioAstron satellite",
+      "type": "compares",
+      "description": "The paper compares the Event Horizon Telescope to the RadioAstron satellite."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "Laser Interferometer Gravitational-Wave Observatory",
+      "type": "compares",
+      "description": "The paper compares the Event Horizon Telescope to the Laser Interferometer Gravitational-Wave Observatory."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is written by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper discusses monitoring Very Long Baseline Interferometry observables"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Polarimetric imaging",
+      "type": "uses_method",
+      "description": "The paper discusses the use of full polarimetric imaging"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Messier 87",
+      "type": "uses_dataset",
+      "description": "The paper identifies Messier 87 as a primary target source"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "The paper identifies Sagittarius A* as a primary target source"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Shadow diameter ranges from 4.8 to 5.2 Schwarzschild radii",
+      "type": "finds",
+      "description": "The paper reports shadow diameter ranges based on black hole spin"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Detection of shadow provides evidence for supermassive black holes",
+      "type": "finds",
+      "description": "The paper finds that shadow detection confirms supermassive black hole existence"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Shadow size depends primarily on mass and weakly on spin and orientation",
+      "type": "finds",
+      "description": "The paper states shadow size dependence on black hole parameters"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses VLBI for horizon-scale observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "high-bandwidth Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper utilizes wideband VLBI systems."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Combined Array for Research in Millimeter-wave Astronomy",
+      "type": "uses_dataset",
+      "description": "Array instrumentation includes CARMA."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Submillimeter Telescope",
+      "type": "uses_dataset",
+      "description": "Array instrumentation includes SMT."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "James Clerk Maxwell Telescope",
+      "type": "uses_dataset",
+      "description": "Array instrumentation includes JCMT."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Submillimeter Array",
+      "type": "uses_dataset",
+      "description": "Array instrumentation includes SMA."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "uses_dataset",
+      "description": "Array instrumentation includes APEX."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Finding structure on the scale of the shadow in M87 and Sagittarius A*",
+      "type": "finds",
+      "description": "Observations confirmed structure on shadow scales."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Imaging and time-domain sampling of event horizon structure is possible",
+      "type": "finds",
+      "description": "Direct imaging of SMBH candidates is demonstrated as possible."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Smaller telescope apertures at millimeter and submillimeter wavelengths",
+      "type": "has_limitation",
+      "description": "Small apertures require high-bandwidth compensation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper written by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry systems"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Deployment of digital Very Long Baseline Interferometry backend and recording instrumentation enabled horizon-scale detections.",
+      "type": "finds",
+      "description": "The paper reports that new instrumentation enabled horizon-scale detections"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "gigabit per second",
+      "type": "uses_metric",
+      "description": "The paper uses gigabit per second to express observation bandwidth"
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "Field programmable gate array",
+      "type": "uses_method",
+      "description": "The Event Horizon Telescope uses field programmable gate array computational fabric for data throughput"
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "Sgr A*",
+      "type": "uses_dataset",
+      "description": "Event Horizon Telescope observes Sgr A*"
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Event Horizon Telescope observes M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Interstellar scattering blurs radio images of Sgr A*",
+      "type": "finds",
+      "description": "Paper reports that interstellar scattering blurs radio images of Sgr A*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Earth atmosphere at high-altitude sites is transparent at mm/submm wavelengths",
+      "type": "finds",
+      "description": "Paper identifies atmospheric transparency as a key enabling factor"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper utilizes the Very Long Baseline Interferometry technique."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "The paper uses physical properties of Sagittarius A* for technical goals."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses physical properties of M87 for technical goals."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sensitivity",
+      "type": "uses_metric",
+      "description": "The paper evaluates sensitivity increases in the array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Aggregate bandwidth",
+      "type": "uses_metric",
+      "description": "The paper specifies aggregate bandwidth as a technical performance metric."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Heterodyne receivers",
+      "type": "uses_method",
+      "description": "The paper discusses technical challenges of heterodyne receivers at short wavelengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Extending the Very Long Baseline Interferometry technique to 1.3 mm presents technical challenges",
+      "type": "has_limitation",
+      "description": "Extending the Very Long Baseline Interferometry technique to 1.3 mm presents technical challenges."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry for observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "atomic frequency standards",
+      "type": "uses_method",
+      "description": "The paper discusses requirements for atomic frequency standards."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atomic frequency standards require higher stability than typically specified for longer wavelength observations.",
+      "type": "has_limitation",
+      "description": "The paper notes stability requirements for atomic frequency standards."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Bandwidth expansion effectively boosts sensitivity for millimetre-wavelength observations.",
+      "type": "finds",
+      "description": "The paper reports on the effect of bandwidth expansion."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Three-station array resolved emission on the scale of the event horizon of Sagittarius A*.",
+      "type": "finds",
+      "description": "The paper reports on the resolution of Sagittarius A* emission."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "Northern Extended Millimeter Array",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "has_limitation",
+      "description": "Northern Extended Millimeter Array has not participated in global observations and coordinates are approximate."
+    },
+    {
+      "source": "Kitt Peak 12 meter",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "has_limitation",
+      "description": "Kitt Peak 12 meter has not participated in global observations and coordinates are approximate."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The study uses Very Long Baseline Interferometry for correlation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The array uses Very Long Baseline Interferometry for observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Regularized maximum likelihood",
+      "type": "uses_method",
+      "description": "The paper uses Regularized maximum likelihood for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper uses CLEAN for radio imaging comparisons."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "M87 is a primary target of the study."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sgr A*",
+      "type": "uses_dataset",
+      "description": "Sgr A* is a primary target of the study."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "3C 279 is used as a quasar calibrator source."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Angular resolution",
+      "type": "uses_metric",
+      "description": "The study evaluates angular resolution metrics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sensitivity",
+      "type": "uses_metric",
+      "description": "The study evaluates sensitivity metrics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Effective Event Horizon Telescope angular resolution at 1.3 mm is 20 microarcseconds",
+      "type": "finds",
+      "description": "The array achieves an effective angular resolution of 20 microarcseconds."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sgr A* structure is scatter broadened by interstellar effects reducing visibility amplitudes",
+      "type": "has_limitation",
+      "description": "Sgr A* is subject to scattering effects that reduce visibility amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Regularized Maximum Likelihood",
+      "type": "uses_method",
+      "description": "The paper discusses Regularized Maximum Likelihood methods for radio imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper compares CLEAN-based techniques with other imaging methods."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "The study analyzes Sagittarius A* as a primary target."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The study analyzes M87 as a primary target."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Signal-to-noise ratio",
+      "type": "uses_metric",
+      "description": "The paper uses signal-to-noise ratio to specify sensitivity requirements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "The paper defines the signal-to-noise ratio based on system equivalent flux density."
+    },
+    {
+      "source": "Sparse Fourier coverage results in reduced visibility amplitudes due to scatter broadening.",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "finds",
+      "description": "Major finding regarding the impact of sparse Fourier coverage."
+    },
+    {
+      "source": "Atmospheric turbulence causes loss in signal-to-noise ratio for interferometric detections.",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "has_limitation",
+      "description": "Limitation regarding signal loss due to atmospheric phase fluctuations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "More than 75% of scans on baselines including Atacama Large Millimeter/submillimeter Array had coherence time greater than 10 seconds",
+      "type": "finds",
+      "description": "The paper reports on the coherence time performance of the array including Atacama Large Millimeter/submillimeter Array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper describes instrumentation for an interferometer baseline measurement"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "The paper defines and utilizes system equivalent flux density"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Coherence Time",
+      "type": "uses_metric",
+      "description": "The paper measures coherence time across the array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_dataset",
+      "description": "Used as part of the telescope array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "Primary cosmic target for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Primary cosmic target for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "Instrumental technique used for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Signal-to-noise ratio",
+      "type": "uses_metric",
+      "description": "Specification used for array performance"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Including Atacama Large Millimeter/submillimeter Array results in near-full spatial frequency coverage.",
+      "type": "finds",
+      "description": "Result regarding spatial frequency coverage"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope must track Very Long Baseline Interferometry observables on fine timescales.",
+      "type": "finds",
+      "description": "Requirement for tracking observables"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atmospheric coherence times set integration intervals and sensitivity requirements.",
+      "type": "has_limitation",
+      "description": "Atmospheric conditions constrain integration times"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry for observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "thermal noise",
+      "type": "uses_metric",
+      "description": "The paper uses thermal noise as a metric for station baselines."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "atmospheric coherence time",
+      "type": "uses_metric",
+      "description": "The paper uses atmospheric coherence time as a metric for baselines."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "atmospheric phase fluctuations",
+      "type": "has_limitation",
+      "description": "Atmospheric phase fluctuations cause loss in signal amplitude."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "low-elevation scans",
+      "type": "has_limitation",
+      "description": "Low-elevation scans result in lower coherence on specific baselines."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "The array instrumentation relies on Atacama Large Millimeter/submillimeter Array antennas."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The study utilizes Very Long Baseline Interferometry signal chains."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "The paper analyzes Fourier space coverage on Sagittarius A*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "ALMA significantly extends the Fourier coverage and sensitivity of the Event Horizon Telescope array.",
+      "type": "finds",
+      "description": "Including the Atacama Large Millimeter/submillimeter Array improves array performance."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "written_by",
+      "description": "The authors who wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Including Atacama Large Millimeter/submillimeter Array significantly extends Fourier coverage and sensitivity.",
+      "type": "finds",
+      "description": "The paper reports that ALMA improves array performance."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "VLBI Data Interchange Format",
+      "type": "uses_method",
+      "description": "The paper describes the use of VLBI Data Interchange Format for sampled data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Mark 6 recorder",
+      "type": "uses_method",
+      "description": "The paper discusses recording data to Mark 6 recorders."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "heterodyne receivers",
+      "type": "uses_method",
+      "description": "The paper describes the implementation of heterodyne receivers."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "10,000 hr of recording",
+      "type": "uses_metric",
+      "description": "The paper reports accumulated recording time."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "15 PB of data storage",
+      "type": "uses_metric",
+      "description": "The paper estimates total storage required for an observing campaign."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Helium-filled hermetically sealed hard drives perform without failure at 5100 m altitude.",
+      "type": "finds",
+      "description": "The study found high-altitude reliability for specialized hard drives."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Stations on the periphery cannot participate in all scans.",
+      "type": "has_limitation",
+      "description": "Peripheral stations have limited participation capability in observing campaigns."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "Very Long Baseline Interferometry",
+      "target": "Allan standard deviation",
+      "type": "uses_metric",
+      "description": "Used to maintain phase stability"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Hydrogen Maser",
+      "type": "uses_method",
+      "description": "Used as frequency references"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "Primary observation method"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Block Downconverters",
+      "type": "uses_method",
+      "description": "Used to mix incoming intermediate frequency bands"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sharing a common frequency reference on long Very Long Baseline Interferometry baselines is not technically feasible",
+      "type": "has_limitation",
+      "description": "Long-baseline frequency synchronization constraint"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Global Positioning System stability on 1 second timescales is poor",
+      "type": "has_limitation",
+      "description": "Poor short-term Global Positioning System stability due to ionosphere"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Hydrogen masers ensure atmospheric turbulence is the dominant source of coherence loss",
+      "type": "finds",
+      "description": "Major finding regarding coherence loss source"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is written by the collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper describes instrumentation for this method"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Allan standard deviation",
+      "type": "uses_metric",
+      "description": "Metric used to evaluate maser stability"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Hydrogen maser meets 10 second stability goal of 1.5 times 10 to the negative 14 power",
+      "type": "finds",
+      "description": "Maser performance confirms required stability"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Decreased stability of the quartz crystal affects measurements beyond 10 seconds",
+      "type": "has_limitation",
+      "description": "Quartz oscillator limitations affect Allan standard deviation measurements"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Reconfigurable Open Access Computing Hardware",
+      "type": "uses_method",
+      "description": "The paper describes the use of ROACH2 hardware."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "ROACH2 Digital Back End",
+      "type": "uses_method",
+      "description": "The paper details the development and use of the R2DBE instrument."
+    },
+    {
+      "source": "ROACH2 Digital Back End",
+      "target": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "builds_on",
+      "description": "The digital hardware is based on open-source technology from CASPER."
+    },
+    {
+      "source": "ROACH2 Digital Back End",
+      "target": "Gain, offset, and sampler clock phase mismatches produce spurious artifacts in the spectrum.",
+      "type": "has_limitation",
+      "description": "ADC core mismatches introduce artifacts in the digitized signal."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_metric",
+      "description": "The paper discusses bandwidth limits set by Atacama Large Millimeter/submillimeter Array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "2-bit recording increases digital efficiency to 0.88 compared to 0.64 for 1-bit recording.",
+      "type": "finds",
+      "description": "The paper reports on the sensitivity gains of multi-bit sampling."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Maximum aggregate bandwidth is limited by Atacama Large Millimeter/submillimeter Array receiver characteristics.",
+      "type": "has_limitation",
+      "description": "The paper identifies bandwidth constraints imposed by receiver hardware."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "2-bit sampling",
+      "type": "uses_method",
+      "description": "The paper discusses the use of 2-bit sampling for telescope receiver systems."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Mark 6 Very Long Baseline Interferometry Data System",
+      "type": "uses_method",
+      "description": "The paper details the use of Mark 6 recording systems for data capture."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Mark 5C system",
+      "type": "uses_method",
+      "description": "The paper mentions usage of the legacy Mark 5C recording system."
+    },
+    {
+      "source": "Mark 6 Very Long Baseline Interferometry Data System",
+      "target": "Hardware operating altitude limit of 10,000 feet.",
+      "type": "has_limitation",
+      "description": "The system has an altitude constraint requiring hardware modifications."
+    },
+    {
+      "source": "Mark 6 Very Long Baseline Interferometry Data System",
+      "target": "Mark 6 hardware sensitivity to overheating at high altitude.",
+      "type": "has_limitation",
+      "description": "Internal components are sensitive to overheating at high altitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "2-bit sampling ensures ample margin for sensitivity requirements while minimizing recording media costs.",
+      "type": "finds",
+      "description": "The paper identifies benefits of 2-bit sampling for sensitivity and cost."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "EHT backend bandwidth increased 64-fold, resulting in eight-fold sensitivity improvement.",
+      "type": "finds",
+      "description": "The paper observes bandwidth and sensitivity improvements since 2004."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "Northern Extended Millimeter Array",
+      "target": "phasing system",
+      "type": "uses_method",
+      "description": "A phasing system is being implemented for the Northern Extended Millimeter Array."
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "phasing system",
+      "type": "uses_method",
+      "description": "The Submillimeter Array uses a phasing system."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "phasing system",
+      "type": "uses_method",
+      "description": "The Atacama Large Millimeter/submillimeter Array uses a phasing system."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "phasing efficiency",
+      "type": "uses_metric",
+      "description": "The paper uses phasing efficiency to evaluate array performance."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "maximum data rate",
+      "type": "has_limitation",
+      "description": "Practical constraints on maximum data rate require real-time signal summation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "atmospheric delay",
+      "type": "has_limitation",
+      "description": "Atmospheric delay significantly affects signal correlation at EHT frequencies."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "FPGA clock speed",
+      "type": "has_limitation",
+      "description": "Maximum FPGA clock speed is too slow to process ADC output in series."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "Haystack Observatory",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "affiliated_with",
+      "description": "Haystack Observatory serves as a configuration and inspection site for equipment."
+    },
+    {
+      "source": "Institut de Radioastronomie Millimétrique",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "affiliated_with",
+      "description": "The Institut de Radioastronomie Millimétrique hosts the Very Long Baseline Interferometry digital backend."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper details Very Long Baseline Interferometry instrumentation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "EHT stations record at 64 gigabits per second as of 2018",
+      "type": "finds",
+      "description": "The paper reports on the growth of recording bandwidth."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Lacks real-time verification of fringes due to remote sites and large data volume",
+      "type": "has_limitation",
+      "description": "The paper notes the inability to perform real-time fringe verification."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper describes instrumentation used for Very Long Baseline Interferometry observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from observations of M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sgr A*",
+      "type": "uses_dataset",
+      "description": "The paper discusses scheduling for observations of Sgr A*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The Event Horizon Telescope met specifications to image SMBH shadow features",
+      "type": "finds",
+      "description": "The array performance confirms it can image features on the scale of an SMBH shadow"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "inclement weather",
+      "type": "has_limitation",
+      "description": "Weather conditions serve as a significant constraint for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "uses_method",
+      "description": "Uses Atacama Pathfinder Experiment as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "James Clerk Maxwell Telescope",
+      "type": "uses_method",
+      "description": "Uses James Clerk Maxwell Telescope as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Large Millimeter Telescope",
+      "type": "uses_method",
+      "description": "Uses Large Millimeter Telescope as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Pico Veleta 30 meter telescope",
+      "type": "uses_method",
+      "description": "Uses Pico Veleta 30 meter telescope as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Submillimeter Array",
+      "type": "uses_method",
+      "description": "Uses Submillimeter Array as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Submillimeter Telescope",
+      "type": "uses_method",
+      "description": "Uses Submillimeter Telescope as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "South Pole Telescope",
+      "type": "uses_method",
+      "description": "Uses South Pole Telescope as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "Uses Atacama Large Millimeter/submillimeter Array as an array component."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Median Thermal Noise",
+      "type": "uses_metric",
+      "description": "Measures median thermal noise per baseline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Sgr A*",
+      "type": "uses_dataset",
+      "description": "Analyzes Sgr A* for periodicity."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Analyzes M87 data for baseline coverage."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Uses 3C 279 for South Pole Telescope thermal noise calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "South Pole Telescope cannot observe M87 due to its geographic location",
+      "type": "has_limitation",
+      "description": "The South Pole Telescope has a geographic limitation preventing M87 observation."
+    },
+    {
+      "source": "VLBImonitor",
+      "target": "JSON-RPC",
+      "type": "uses_method",
+      "description": "VLBImonitor uses JSON-RPC protocol for communication."
+    },
+    {
+      "source": "VLBImonitor",
+      "target": "HTTPS",
+      "type": "uses_method",
+      "description": "VLBImonitor uses HTTPS for communication."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Massachusetts Institute of Technology Haystack Observatory",
+      "type": "uses_method",
+      "description": "Correlates low-band data at Massachusetts Institute of Technology Haystack Observatory."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Max-Planck-Institut für Radioastronomie",
+      "type": "uses_method",
+      "description": "Correlates high-band data at Max-Planck-Institut für Radioastronomie."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Distributed FX",
+      "type": "uses_method",
+      "description": "Uses Distributed FX for correlation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Mark 6 playback units",
+      "type": "uses_method",
+      "description": "Uses Mark 6 playback units at correlator sites."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Inhomogeneous array deployment requires specialist teams at each station for observations.",
+      "type": "has_limitation",
+      "description": "Reliance on on-site specialists limits observing window."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Observing window is limited to about 12 days.",
+      "type": "has_limitation",
+      "description": "Current deployment limits the observing window to 12 days."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was authored by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Distributed FX",
+      "type": "uses_method",
+      "description": "The paper describes the use of Distributed FX for correlation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "PolConvert",
+      "type": "uses_method",
+      "description": "The paper describes the use of PolConvert for polarization conversion"
+    },
+    {
+      "source": "Massachusetts Institute of Technology",
+      "target": "Mark 6",
+      "type": "uses_method",
+      "description": "Massachusetts Institute of Technology site uses Mark 6 playback units"
+    },
+    {
+      "source": "Max Planck Institute for Radio Astronomy",
+      "target": "Mark 6",
+      "type": "uses_method",
+      "description": "Max Planck Institute for Radio Astronomy site uses Mark 6 playback units"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from the M87 target"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses 3C 279 as a calibrator source"
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "PolConvert",
+      "type": "uses_method",
+      "description": "Atacama Large Millimeter/submillimeter Array uses PolConvert for polarization conversion"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "fringe-delay",
+      "type": "uses_method",
+      "description": "uses fringe-delay fitting for calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "fringe-rate",
+      "type": "uses_method",
+      "description": "uses fringe-rate fitting for calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "self-calibration",
+      "type": "uses_method",
+      "description": "uses self-calibration to correct telescope gain"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "residual clock drifts",
+      "type": "has_limitation",
+      "description": "residual clock drifts impact fringe-delay and rate"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "instrumental electronic delays",
+      "type": "has_limitation",
+      "description": "instrumental delays impact fringe-delay and rate"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "atmospheric phase fluctuations",
+      "type": "has_limitation",
+      "description": "atmospheric fluctuations impact fringe-delay and rate"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Averaging cross-products in time and frequency decimates data volumes by 1 million times",
+      "type": "finds",
+      "description": "data volume reduction achieved through averaging"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "ALMA baselines allow coherent integration on non-ALMA baselines beyond atmospheric coherence time",
+      "type": "finds",
+      "description": "phase stabilization using ALMA baselines"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Ability to image supermassive black holes on horizon scales is confirmed",
+      "type": "finds",
+      "description": "confirmation of imaging capabilities"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "Paper utilizes Very Long Baseline Interferometry for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Signal-to-noise ratio",
+      "type": "uses_metric",
+      "description": "Signal-to-noise ratio used to assess baseline performance"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Imaging of supermassive black holes on horizon scales is confirmed",
+      "type": "finds",
+      "description": "Paper confirms the ability to image supermassive black holes"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atmospheric phase variations cause fringe-rate variation",
+      "type": "has_limitation",
+      "description": "Stochastic atmospheric phase variations hinder fringe-rate stability"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Thermal noise increases on Atacama Pathfinder EXperiment-Submillimeter Array baselines",
+      "type": "has_limitation",
+      "description": "Increased measurement thermal noise identified on specific baselines"
+    },
+    {
+      "source": "Very Long Baseline Interferometry",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "Very Long Baseline Interferometry is used to observe Sagittarius A*"
+    },
+    {
+      "source": "Very Long Baseline Interferometry",
+      "target": "Messier 87",
+      "type": "uses_dataset",
+      "description": "Very Long Baseline Interferometry is used to observe Messier 87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper discusses developments in Very Long Baseline Interferometry"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "computational requirements increase linearly with bandwidth and as the square of stations",
+      "type": "finds",
+      "description": "The paper identifies scaling laws for computational requirements"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "baseline length limited to the diameter of the Earth",
+      "type": "has_limitation",
+      "description": "Earth-based baseline length limits angular resolution"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The project utilizes a Very Long Baseline Interferometry array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Data capture rates",
+      "type": "uses_metric",
+      "description": "The paper tracks data capture rates as a key metric for array capability."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "EHT data capture rates increased from 4 to 64 gigabits per second over 10 years",
+      "type": "finds",
+      "description": "Reporting the increase in data capture rates over a decade."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Building a Very Long Baseline Interferometry array from the ground up is prohibitively costly",
+      "type": "has_limitation",
+      "description": "The financial cost of building a new array from scratch is a limitation."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "written_by",
+      "description": "The Event Horizon Telescope Collaboration authored the paper."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Generalitat Valenciana",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Gordon and Betty Moore Foundation",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Istituto Nazionale di Fisica Nucleare",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "International Max Planck Research School for Astronomy and Astrophysics",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "National Radio Astronomy Observatory",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Japanese Government",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Japan Society for the Promotion of Science",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Chinese Academy of Sciences",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Leverhulme Trust",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Max-Planck-Gesellschaft",
+      "type": "affiliated_with",
+      "description": "Funding and support provided to the collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Extreme Science and Engineering Discovery Environment",
+      "type": "uses_method",
+      "description": "The paper utilized the Extreme Science and Engineering Discovery Environment for its work."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "United States Department of Energy",
+      "type": "affiliated_with",
+      "description": "Supported by administration contract"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Italian Ministero dell’Istruzione Università e Ricerca",
+      "type": "affiliated_with",
+      "description": "Supported by grant Progetti Premiali"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "European Union",
+      "type": "affiliated_with",
+      "description": "Supported by Horizon 2020 research and innovation programme"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Extreme Science and Engineering Discovery Environment",
+      "type": "uses_method",
+      "description": "Used computational infrastructure"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "CyVerse",
+      "type": "uses_method",
+      "description": "Used computational infrastructure"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_dataset",
+      "description": "Utilized observational data"
+    },
+    {
+      "source": "Extreme Science and Engineering Discovery Environment",
+      "target": "National Science Foundation",
+      "type": "affiliated_with",
+      "description": "Supported by grants"
+    },
+    {
+      "source": "CyVerse",
+      "target": "National Science Foundation",
+      "type": "affiliated_with",
+      "description": "Supported by grants"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "written_by",
+      "description": "The authors of the paper."
+    },
+    {
+      "source": "European Southern Observatory",
+      "target": "Joint ALMA Observatory",
+      "type": "affiliated_with",
+      "description": "Operator of the observatory."
+    },
+    {
+      "source": "Associated Universities, Inc.",
+      "target": "Joint ALMA Observatory",
+      "type": "affiliated_with",
+      "description": "Operator of the observatory."
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "Joint ALMA Observatory",
+      "type": "affiliated_with",
+      "description": "Operator of the observatory."
+    },
+    {
+      "source": "National Astronomical Observatory of Japan",
+      "target": "Joint ALMA Observatory",
+      "type": "affiliated_with",
+      "description": "Operator of the observatory."
+    },
+    {
+      "source": "Max-Planck-Institut für Radioastronomie",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "affiliated_with",
+      "description": "Collaborator in the experiment."
+    },
+    {
+      "source": "European Southern Observatory",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "affiliated_with",
+      "description": "Collaborator in the experiment."
+    },
+    {
+      "source": "Onsala Space Observatory",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "affiliated_with",
+      "description": "Collaborator in the experiment."
+    },
+    {
+      "source": "Academia Sinica",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "affiliated_with",
+      "description": "Provided grant funding for the research."
+    },
+    {
+      "source": "Smithsonian Institution",
+      "target": "First Event Horizon Telescope Results. Array Instrumentation",
+      "type": "affiliated_with",
+      "description": "Provided grant funding for the research."
+    },
+    {
+      "source": "Greenland Telescope",
+      "target": "National Chung-Shan Institute of Science and Technology",
+      "type": "affiliated_with",
+      "description": "Received support for project development."
+    },
+    {
+      "source": "Event Horizon Telescope Collaboration",
+      "target": "Xilinx Inc.",
+      "type": "affiliated_with",
+      "description": "Received donation of FPGA chips."
+    },
+    {
+      "source": "Event Horizon Telescope Collaboration",
+      "target": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "affiliated_with",
+      "description": "Shared open-source technology."
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Smithsonian Astrophysical Observatory",
+      "type": "affiliated_with",
+      "description": "Operated as a joint project."
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "East Asian Observatory",
+      "type": "affiliated_with",
+      "description": "Operated by the East Asian Observatory."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "uses_method",
+      "description": "The paper uses the source license provided by the collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "Atacama Large Millimeter/submillimeter Array Phasing Project",
+      "type": "uses_method",
+      "description": "The paper acknowledges support from the inception of this project."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Array Instrumentation",
+      "target": "National Aeronautics and Space Administration Astrophysics Data System",
+      "type": "uses_method",
+      "description": "The research made use of this data system."
+    }
+  ]
+}

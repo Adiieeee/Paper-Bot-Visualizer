@@ -1,0 +1,4303 @@
+{
+  "file_path": "papers\\1906.11243v1.pdf",
+  "file_name": "1906.11243v1.pdf",
+  "title": "First Event Horizon Telescope Results. Shadow Central Black",
+  "year": "2019",
+  "total_pages": 44,
+  "total_chunks": 47,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "geometric crescent models",
+      "type": "Method"
+    },
+    {
+      "name": "general relativistic magnetohydrodynamic models",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope data",
+      "type": "Dataset"
+    },
+    {
+      "name": "crescent diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "angular gravitational radius",
+      "type": "Metric"
+    },
+    {
+      "name": "black hole mass",
+      "type": "Metric"
+    },
+    {
+      "name": "More than 50 percent of total flux originates from near the horizon.",
+      "type": "Finding"
+    },
+    {
+      "name": "The crescent diameter is measured to be 42 plus or minus 3 microarcseconds.",
+      "type": "Finding"
+    },
+    {
+      "name": "The black hole mass is 6.5 times 10 to the power of 9 solar masses.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87 harbors a compact massive dark object at its center",
+      "type": "Finding"
+    },
+    {
+      "name": "Insufficent resolution to formally demonstrate that the central object is a supermassive black hole",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "Bayesian inference",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Event Horizon Telescope 2017 observations",
+      "type": "Dataset"
+    },
+    {
+      "name": "Asymmetric ring structure observed in M87",
+      "type": "Finding"
+    },
+    {
+      "name": "Source structure dominated by lensed emission surrounding the black hole shadow",
+      "type": "Finding"
+    },
+    {
+      "name": "Geometric and General Relativistic Magnetohydrodynamic based models",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Bayesian inference",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Source structure dominated by lensed emission surrounding the black hole shadow",
+      "type": "Finding"
+    },
+    {
+      "name": "Consistent with prior stellar but not gas dynamical measurements of M87 mass",
+      "type": "Finding"
+    },
+    {
+      "name": "Ten percent offset between measured emission diameter and photon ring size",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Haystack Observatory Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "closure phases",
+      "type": "Method"
+    },
+    {
+      "name": "closure amplitudes",
+      "type": "Method"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility phase",
+      "type": "Metric"
+    },
+    {
+      "name": "thermal noise",
+      "type": "Metric"
+    },
+    {
+      "name": "observational error",
+      "type": "Metric"
+    },
+    {
+      "name": "Closure phases are immune to gain phase corruptions",
+      "type": "Finding"
+    },
+    {
+      "name": "Closure amplitude construction cancels out station gain amplitudes",
+      "type": "Finding"
+    },
+    {
+      "name": "Atmospheric timescales at 230 gigahertz render visibility phase calibration unfeasible",
+      "type": "Limitation"
+    },
+    {
+      "name": "Closure amplitude measurements are not independent",
+      "type": "Limitation"
+    },
+    {
+      "name": "Closure phase measurements are not independent",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "closure amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "SR1 data",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Triangle Method Station",
+      "type": "Method"
+    },
+    {
+      "name": "M87 image is inconsistent with a filled disk or a Gaussian.",
+      "type": "Finding"
+    },
+    {
+      "name": "Large Millimeter Telescope amplitudes are subject to significant gain errors.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Finding: M87 data is consistent with a ring structure with diameter of 45 microarcseconds.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: Visibility amplitudes suggest a source that is not perfectly symmetric.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: An annular or ring model is consistent with observed visibility amplitude minima.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Regularized Maximum Likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "Rice distribution",
+      "type": "Method"
+    },
+    {
+      "name": "Bayesian evidence",
+      "type": "Metric"
+    },
+    {
+      "name": "Visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "Closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "Logarithmic closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "M87 data",
+      "type": "Dataset"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "gain amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "logarithmic visibility amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "logarithmic closure amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility phases",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phases",
+      "type": "Metric"
+    },
+    {
+      "name": "Gaussian approximation",
+      "type": "Method"
+    },
+    {
+      "name": "The mean and standard deviation of visibility amplitude are biased",
+      "type": "Limitation"
+    },
+    {
+      "name": "Gaussian approximation for logarithmic closure amplitudes holds well for specific signal-to-noise ratios",
+      "type": "Finding"
+    },
+    {
+      "name": "Gaussian approximation for closure phases is unbiased in the mean",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Markov chain Monte Carlo",
+      "type": "Method"
+    },
+    {
+      "name": "nested sampling",
+      "type": "Method"
+    },
+    {
+      "name": "genetic algorithm",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "Gaussian approximation for closure phases",
+      "type": "Finding"
+    },
+    {
+      "name": "closure phase measurements",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Differential Evolution Markov Chain Monte Carlo",
+      "type": "Method"
+    },
+    {
+      "name": "Message Passing Interface",
+      "type": "Method"
+    },
+    {
+      "name": "Nested Sampling",
+      "type": "Method"
+    },
+    {
+      "name": "Non-dominated Sorting Genetic Algorithm II",
+      "type": "Method"
+    },
+    {
+      "name": "Differential Evolution",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Bayesian evidence",
+      "type": "Metric"
+    },
+    {
+      "name": "chi-squared statistic",
+      "type": "Metric"
+    },
+    {
+      "name": "Images reconstructed from the M87 data show a prominent and asymmetric ring structure.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "generalized crescent model",
+      "type": "Method"
+    },
+    {
+      "name": "symmetric disk model",
+      "type": "Method"
+    },
+    {
+      "name": "ring model",
+      "type": "Method"
+    },
+    {
+      "name": "Gaussian components",
+      "type": "Method"
+    },
+    {
+      "name": "relative log-likelihood",
+      "type": "Metric"
+    },
+    {
+      "name": "reduced-chi-squared",
+      "type": "Metric"
+    },
+    {
+      "name": "The data overwhelmingly prefer crescent models over symmetric disk and ring models",
+      "type": "Finding"
+    },
+    {
+      "name": "Additional Gaussian components lead to further substantial improvement",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "uniform disks",
+      "type": "Method"
+    },
+    {
+      "name": "rings",
+      "type": "Method"
+    },
+    {
+      "name": "double Gaussians",
+      "type": "Method"
+    },
+    {
+      "name": "crescents",
+      "type": "Method"
+    },
+    {
+      "name": "top-hat crescent",
+      "type": "Method"
+    },
+    {
+      "name": "top-hat ring",
+      "type": "Method"
+    },
+    {
+      "name": "circular Gaussians",
+      "type": "Method"
+    },
+    {
+      "name": "elliptical Gaussians",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "generalized crescent",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "closure phases",
+      "type": "Metric"
+    },
+    {
+      "name": "azimuthally symmetric models are poor at fitting the data",
+      "type": "Finding"
+    },
+    {
+      "name": "crescent family of models performs best",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "Full Width at Half Maximum",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "crescent diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "fractional crescent width",
+      "type": "Metric"
+    },
+    {
+      "name": "sharpness",
+      "type": "Metric"
+    },
+    {
+      "name": "brightness ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "total compact flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "April 6 high-band data",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "There are no apparent systematic trends in the normalized residuals",
+      "type": "Finding"
+    },
+    {
+      "name": "crescent component alone is unlikely to adequately capture extra emission",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "April 6 high-band data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "logarithmic closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "reduced-chi squared",
+      "type": "Metric"
+    },
+    {
+      "name": "likelihood function",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "April 5 high-band data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "April 6 high-band data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Posterior widths alone may not be reliable for statistically poor fits",
+      "type": "Limitation"
+    },
+    {
+      "name": "Diameter measurement of the crescent is robustly recoverable",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "reduced-chi2",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phases",
+      "type": "Metric"
+    },
+    {
+      "name": "logarithmic closure amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty",
+      "type": "Method"
+    },
+    {
+      "name": "fractional width",
+      "type": "Metric"
+    },
+    {
+      "name": "diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "brightness ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "sharpness",
+      "type": "Metric"
+    },
+    {
+      "name": "position angle",
+      "type": "Metric"
+    },
+    {
+      "name": "Emission is concentrated in a relatively thin annulus",
+      "type": "Finding"
+    },
+    {
+      "name": "Brightness contrast between crescent and hole is at least a factor of 10",
+      "type": "Finding"
+    },
+    {
+      "name": "Crescent position angle consistently locates brightest portion in the southern half",
+      "type": "Finding"
+    },
+    {
+      "name": "Smoothing kernel affects inferred diameter in a correlated manner",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "The Astrophysical Journal Letters",
+      "type": "Institution"
+    },
+    {
+      "name": "Recovery of the total compact flux density is not possible for dynesty-based fits",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty-based fitting scheme",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic Simulations",
+      "type": "Method"
+    },
+    {
+      "name": "April 5 high-band data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "compact flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "gravitational radius",
+      "type": "Metric"
+    },
+    {
+      "name": "The modeled compact flux density value is 0.75 Jansky.",
+      "type": "Finding"
+    },
+    {
+      "name": "Recovery of the total compact flux density is not possible using closure quantities.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Geometric Crescent",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic image library",
+      "type": "Dataset"
+    },
+    {
+      "name": "θg",
+      "type": "Metric"
+    },
+    {
+      "name": "Calibration images",
+      "type": "Dataset"
+    },
+    {
+      "name": "Finding: Mean values of α for xs-ring and xs-ringauss models are 11.55 and 11.50.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: Averaged value of θg is 3.77",
+      "type": "Finding"
+    },
+    {
+      "name": "Limitation: The value of scaling factor α and its uncertainty are unknown a priori.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Limitation: Insufficient time coverage for M87 to measure its structural variations.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring Geometric Crescent",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss Geometric Crescent",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty-based",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "Magnetically Arrested Disks",
+      "type": "Method"
+    },
+    {
+      "name": "Standard and Normal Evolution",
+      "type": "Method"
+    },
+    {
+      "name": "Angular diameter measurements",
+      "type": "Metric"
+    },
+    {
+      "name": "Calibrated scaling factors",
+      "type": "Metric"
+    },
+    {
+      "name": "θg measurements",
+      "type": "Metric"
+    },
+    {
+      "name": "68% confidence intervals",
+      "type": "Metric"
+    },
+    {
+      "name": "Systematic uncertainty in the calibration procedure",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Standard and Normal Evolution",
+      "type": "Method"
+    },
+    {
+      "name": "Magnetically Arrested Disks",
+      "type": "Method"
+    },
+    {
+      "name": "Single Snapshot Model",
+      "type": "Method"
+    },
+    {
+      "name": "230 GHz flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "Black hole angular radius",
+      "type": "Metric"
+    },
+    {
+      "name": "Majority of simulation library models is consistent with the data",
+      "type": "Finding"
+    },
+    {
+      "name": "More than half of the models can be excluded when combined with other data",
+      "type": "Finding"
+    },
+    {
+      "name": "Difficult to rule out many possible models using Event Horizon Telescope data alone",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic image library",
+      "type": "Dataset"
+    },
+    {
+      "name": "Single Snapshot Model",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "Finding that approximations hold for flux and mass within factors of 2",
+      "type": "Finding"
+    },
+    {
+      "name": "Structural variations between snapshots resulting from turbulence",
+      "type": "Limitation"
+    },
+    {
+      "name": "Unmodeled large-scale features",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "GENA",
+      "type": "Method"
+    },
+    {
+      "name": "Average Image Scoring",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Dataset"
+    },
+    {
+      "name": "Chi-squared",
+      "type": "Metric"
+    },
+    {
+      "name": "Simulation p-value",
+      "type": "Metric"
+    },
+    {
+      "name": "Stochastic image features due to turbulence in General Relativistic Magnetohydrodynamic simulations",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Averaged Image Simulation Statistics",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "GENA",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Snapshot Source Model",
+      "type": "Method"
+    },
+    {
+      "name": "Chi-squared",
+      "type": "Metric"
+    },
+    {
+      "name": "P-value",
+      "type": "Metric"
+    },
+    {
+      "name": "θg",
+      "type": "Metric"
+    },
+    {
+      "name": "The Astrophysical Journal Letters",
+      "type": "Institution"
+    },
+    {
+      "name": "Recovered θg are consistent across a wide range of simulations",
+      "type": "Finding"
+    },
+    {
+      "name": "THEMIS-AIS procedure limited by number of snapshots from each model",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "GENA",
+      "type": "Method"
+    },
+    {
+      "name": "Principal Component Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Chi-squared",
+      "type": "Metric"
+    },
+    {
+      "name": "No significant biases found in mock analyses of General Relativistic Magnetohydrodynamic model posteriors",
+      "type": "Finding"
+    },
+    {
+      "name": "Results depend on General Relativistic Magnetohydrodynamic models providing an accurate description of M87",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "GENA",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Regularized Maximum Likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "Principal Component Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Dataset"
+    },
+    {
+      "name": "compact flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "Stochastic features cause poor formal fit quality in simulation snapshots.",
+      "type": "Finding"
+    },
+    {
+      "name": "GRMHD models produce compact flux estimates between 0.3 and 0.7 Jy.",
+      "type": "Finding"
+    },
+    {
+      "name": "Underlying model may be insufficient to fully explain the Event Horizon Telescope data.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "The Astrophysical Journal Letters",
+      "type": "Institution"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic model fitting",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "GENA",
+      "type": "Method"
+    },
+    {
+      "name": "Diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "Flux",
+      "type": "Metric"
+    },
+    {
+      "name": "Position Angle",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Akiyama",
+      "type": "Author"
+    },
+    {
+      "name": "Shepherd",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "fractional width",
+      "type": "Metric"
+    },
+    {
+      "name": "relative brightness",
+      "type": "Metric"
+    },
+    {
+      "name": "image circularity",
+      "type": "Metric"
+    },
+    {
+      "name": "Ring diameters found across all methods and days span 38 to 44 microarcseconds.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "SMILI",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ring",
+      "type": "Method"
+    },
+    {
+      "name": "xs-ringauss",
+      "type": "Method"
+    },
+    {
+      "name": "geometric crescent model",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "ring diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "fractional width",
+      "type": "Metric"
+    },
+    {
+      "name": "Ring diameters across all methods and days span 38–44 microarcseconds.",
+      "type": "Finding"
+    },
+    {
+      "name": "An anti-correlation between diameter and fractional width is present in results.",
+      "type": "Finding"
+    },
+    {
+      "name": "Imaging algorithms were trained on synthetic data smoothed with a 10 microarcsecond beam.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "SMILI",
+      "type": "Method"
+    },
+    {
+      "name": "DIFMAP",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "fractional width",
+      "type": "Metric"
+    },
+    {
+      "name": "angular gravitational radius",
+      "type": "Metric"
+    },
+    {
+      "name": "circularity",
+      "type": "Metric"
+    },
+    {
+      "name": "M87 images are circular",
+      "type": "Finding"
+    },
+    {
+      "name": "Physical scale of angular gravitational radius is consistent across methods",
+      "type": "Finding"
+    },
+    {
+      "name": "Relatively large uncertainty in width due to weak anti-correlation",
+      "type": "Limitation"
+    },
+    {
+      "name": "Theoretical uncertainty dominates the final error budget",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Angular diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "Width",
+      "type": "Metric"
+    },
+    {
+      "name": "Calibrated scaling factors",
+      "type": "Metric"
+    },
+    {
+      "name": "Gravitational radii",
+      "type": "Metric"
+    },
+    {
+      "name": "Anti-correlation between mean diameter and width explains 5% offset between methods",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "Sparse Modeling Imaging Library",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Tip of the Red Giant Branch",
+      "type": "Method"
+    },
+    {
+      "name": "Surface Brightness Fluctuations",
+      "type": "Method"
+    },
+    {
+      "name": "April 5 low-band data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "fractional spread in diameters",
+      "type": "Metric"
+    },
+    {
+      "name": "image axial ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "mass-to-distance ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "The reconstructed images of M87 have an image axial ratio of 4:3",
+      "type": "Finding"
+    },
+    {
+      "name": "The distance to M87 is 16.8 Megaparsec",
+      "type": "Finding"
+    },
+    {
+      "name": "Comparison images have a much higher intrinsic resolution than the reconstructed images of M87",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Hubble Space Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Space Telescope Imaging Spectrograph",
+      "type": "Method"
+    },
+    {
+      "name": "Kinematics cannot be fitted without a central compact non-luminous mass",
+      "type": "Finding"
+    },
+    {
+      "name": "Asymmetric ring source morphology with central brightness depression",
+      "type": "Finding"
+    },
+    {
+      "name": "Gas-disk velocity field might be subject to non-gravitational forces",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Angular size of one gravitational radius",
+      "type": "Metric"
+    },
+    {
+      "name": "Emission from near the event horizon is gravitationally lensed into a crescent shape",
+      "type": "Finding"
+    },
+    {
+      "name": "Central brightness depression is caused by photons captured by the black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "Asymmetry is caused by Doppler beaming due to plasma rotation",
+      "type": "Finding"
+    },
+    {
+      "name": "Angular size subtended by one gravitational radius is 3.8 ± 0.4 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Geometric crescent modeling",
+      "type": "Method"
+    },
+    {
+      "name": "Image domain feature extraction",
+      "type": "Method"
+    },
+    {
+      "name": "Gas dynamics",
+      "type": "Method"
+    },
+    {
+      "name": "Stellar dynamics",
+      "type": "Method"
+    },
+    {
+      "name": "Average black hole mass",
+      "type": "Metric"
+    },
+    {
+      "name": "Angular diameter of the shadow",
+      "type": "Metric"
+    },
+    {
+      "name": "Systematic uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "Average black hole mass is 6.5 times 10 to the ninth solar masses",
+      "type": "Finding"
+    },
+    {
+      "name": "Measurements rely on images generated from General Relativistic Magnetohydrodynamic simulations",
+      "type": "Limitation"
+    },
+    {
+      "name": "Uses a small subset of 100 randomly chosen simulation frames",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "angular diameter measurement",
+      "type": "Method"
+    },
+    {
+      "name": "stellar dynamics",
+      "type": "Method"
+    },
+    {
+      "name": "gas dynamics",
+      "type": "Method"
+    },
+    {
+      "name": "mass",
+      "type": "Metric"
+    },
+    {
+      "name": "The mass measurement is inconsistent with the gas dynamics measurement of Walsh et al.",
+      "type": "Finding"
+    },
+    {
+      "name": "The mass measurement is in agreement with stellar dynamics measurements.",
+      "type": "Finding"
+    },
+    {
+      "name": "Evidence exists for the existence of event horizons.",
+      "type": "Finding"
+    },
+    {
+      "name": "The limit on dark extended component is insufficient to constrain a dark matter spike.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "color temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "total jet power",
+      "type": "Metric"
+    },
+    {
+      "name": "angular size",
+      "type": "Metric"
+    },
+    {
+      "name": "The Event Horizon Telescope is not sensitive to the photospheric emission component",
+      "type": "Limitation"
+    },
+    {
+      "name": "Shadow size and shape allow tests of the compact object spacetime",
+      "type": "Finding"
+    },
+    {
+      "name": "Kerr condition shadow diameter is in the range of 9.6 to 10.4 GM/c2",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "Kerr metric",
+      "type": "Method"
+    },
+    {
+      "name": "Null-hypothesis test",
+      "type": "Method"
+    },
+    {
+      "name": "2017 Event Horizon Telescope observations",
+      "type": "Dataset"
+    },
+    {
+      "name": "Fractional difference",
+      "type": "Metric"
+    },
+    {
+      "name": "Angular gravitational radius",
+      "type": "Metric"
+    },
+    {
+      "name": "Circularity",
+      "type": "Metric"
+    },
+    {
+      "name": "M87 horizon-scale emission",
+      "type": "Dataset"
+    },
+    {
+      "name": "The null hypothesis has not been violated",
+      "type": "Finding"
+    },
+    {
+      "name": "M87 exhibits a robust crescent-like structure",
+      "type": "Finding"
+    },
+    {
+      "name": "Average diameter of the crescent is 42 ± 3 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Academy of Finland",
+      "type": "Institution"
+    },
+    {
+      "name": "Advanced European Network of E-infrastructures for Astronomy with the Square Kilometre Array",
+      "type": "Institution"
+    },
+    {
+      "name": "European Commission",
+      "type": "Institution"
+    },
+    {
+      "name": "Alexander von Humboldt",
+      "type": "Institution"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "geometric models",
+      "type": "Method"
+    },
+    {
+      "name": "image domain feature extraction",
+      "type": "Method"
+    },
+    {
+      "name": "angular size",
+      "type": "Metric"
+    },
+    {
+      "name": "black hole mass",
+      "type": "Metric"
+    },
+    {
+      "name": "stellar dynamics",
+      "type": "Metric"
+    },
+    {
+      "name": "gas dynamics",
+      "type": "Metric"
+    },
+    {
+      "name": "The central object in M87 is a Kerr black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "Mass measurement is consistent with stellar dynamics but not gas dynamics",
+      "type": "Finding"
+    },
+    {
+      "name": "Uncertainty of gravitational radius dominated by systematic component in simulations",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Harvard University",
+      "type": "Institution"
+    },
+    {
+      "name": "John Templeton Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "China Scholarship Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Comisión Nacional de Investigación Científica y Tecnológica",
+      "type": "Institution"
+    },
+    {
+      "name": "Consejo Nacional de Ciencia y Tecnología",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Dirección General de Asuntos del Personal Académico–Universidad Nacional Autónoma de México",
+      "type": "Institution"
+    },
+    {
+      "name": "European Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Generalitat Valenciana",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "type": "Institution"
+    },
+    {
+      "name": "International Max Planck Research School for Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Japanese Government",
+      "type": "Institution"
+    },
+    {
+      "name": "Japan Society for the Promotion of Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Leverhulme Trust",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology of Taiwan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institute of Natural Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Science Foundation of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation of Korea",
+      "type": "Institution"
+    },
+    {
+      "name": "Netherlands Organization for Scientific Research",
+      "type": "Institution"
+    },
+    {
+      "name": "South African Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "National Research Foundation of Korea",
+      "type": "Institution"
+    },
+    {
+      "name": "Netherlands Organization for Scientific Research",
+      "type": "Institution"
+    },
+    {
+      "name": "South African Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Swedish Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute for Theoretical Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Innovation, Science and Economic Development Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Economic Development, Job Creation and Trade",
+      "type": "Institution"
+    },
+    {
+      "name": "Russian Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Spanish Ministerio de Economía y Competitividad",
+      "type": "Institution"
+    },
+    {
+      "name": "State Agency for Research",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto de Astrofísica de Andalucía",
+      "type": "Institution"
+    },
+    {
+      "name": "Toray Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "United States Department of Energy",
+      "type": "Institution"
+    },
+    {
+      "name": "Los Alamos National Laboratory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Nuclear Security Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "Italian Ministero dell’Istruzione Università e Ricerca",
+      "type": "Institution"
+    },
+    {
+      "name": "Extreme Science and Engineering Discovery Environment",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "CyVerse",
+      "type": "Institution"
+    },
+    {
+      "name": "Texas Advanced Computing Center",
+      "type": "Institution"
+    },
+    {
+      "name": "Leibniz-Rechenzentrum",
+      "type": "Institution"
+    },
+    {
+      "name": "Higher Performance Computing Center Stuttgart",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Ontario",
+      "type": "Institution"
+    },
+    {
+      "name": "Calcul Quebec",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institutes of Natural Sciences of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Joint ALMA Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Associated Universities, Incorporated",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "National Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Republic of Chile",
+      "type": "Institution"
+    },
+    {
+      "name": "Joint ALMA Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Associated Universities, Inc.",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Astrophysical Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica",
+      "type": "Institution"
+    },
+    {
+      "name": "East Asian Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Finance of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "National Key R&D Program",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "type": "Paper"
+    },
+    {
+      "name": "Science and Technologies Facility Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Nacional de Astrofísica, Óptica, y Electrónica",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Massachusetts at Amherst",
+      "type": "Institution"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimétrique",
+      "type": "Institution"
+    },
+    {
+      "name": "Centre National de la Recherche Scientifique",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Geográfico Nacional",
+      "type": "Institution"
+    },
+    {
+      "name": "Arizona Radio Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Steward Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Arizona",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Institute of Cosmological Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Chicago",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Xilinx Inc.",
+      "type": "Institution"
+    },
+    {
+      "name": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "Institution"
+    },
+    {
+      "name": "T4Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsemi",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "DIFMAP",
+      "type": "Method"
+    },
+    {
+      "name": "THEMIS",
+      "type": "Method"
+    },
+    {
+      "name": "dynesty",
+      "type": "Method"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "SMILI",
+      "type": "Method"
+    },
+    {
+      "name": "GENA",
+      "type": "Method"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "geometric crescent models",
+      "type": "uses_method",
+      "description": "The paper uses geometric crescent models for analysis."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "general relativistic magnetohydrodynamic models",
+      "type": "uses_method",
+      "description": "The paper uses general relativistic magnetohydrodynamic models."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "Event Horizon Telescope data",
+      "type": "uses_dataset",
+      "description": "The paper utilizes data obtained during the 2017 campaign."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "crescent diameter",
+      "type": "uses_metric",
+      "description": "The paper uses crescent diameter as a metric."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "angular gravitational radius",
+      "type": "uses_metric",
+      "description": "The paper uses angular gravitational radius as a metric."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "black hole mass",
+      "type": "uses_metric",
+      "description": "The paper uses black hole mass as a metric."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "More than 50 percent of total flux originates from near the horizon.",
+      "type": "finds",
+      "description": "The paper finds that more than half of the flux comes from near the horizon."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "The crescent diameter is measured to be 42 plus or minus 3 microarcseconds.",
+      "type": "finds",
+      "description": "The paper provides a measurement of the crescent diameter."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. The Shadow and Mass of the Central Black Hole",
+      "target": "The black hole mass is 6.5 times 10 to the power of 9 solar masses.",
+      "type": "finds",
+      "description": "The paper calculates the mass of the central black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black Hole",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The study utilizes global very long baseline interferometry at millimeter wavelengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black Hole",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes M87 as a laboratory to search for a black hole shadow."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black Hole",
+      "target": "M87 harbors a compact massive dark object at its center",
+      "type": "finds",
+      "description": "Measurements support the presence of a compact massive dark object in M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black Hole",
+      "target": "Insufficent resolution to formally demonstrate that the central object is a supermassive black hole",
+      "type": "has_limitation",
+      "description": "Existing stellar and gas dynamics observations lack sufficient resolution for formal identification."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope",
+      "type": "affiliated_with",
+      "description": "The paper presents results from the Event Horizon Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope 2017 observations",
+      "type": "uses_dataset",
+      "description": "The paper analyzes 2017 observational data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "The paper uses these simulations to generate model images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Bayesian inference",
+      "type": "uses_method",
+      "description": "The paper uses Bayesian inference to constrain feature sizes"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Asymmetric ring structure observed in M87",
+      "type": "finds",
+      "description": "Imaging techniques reveal an asymmetric ring structure"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Source structure dominated by lensed emission surrounding the black hole shadow",
+      "type": "finds",
+      "description": "Measurements support source structure dominated by lensed emission"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Geometric and General Relativistic Magnetohydrodynamic based models",
+      "type": "uses_method",
+      "description": "The paper fits these models to the data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Bayesian inference",
+      "type": "uses_method",
+      "description": "Used to constrain size, width, and brightness contrast of the crescent feature."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "Used for calibrating the emission diameter of the black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The primary astronomical object observed and analyzed."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Source structure dominated by lensed emission surrounding the black hole shadow",
+      "type": "finds",
+      "description": "All measurements support a source structure dominated by lensed emission."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Consistent with prior stellar but not gas dynamical measurements of M87 mass",
+      "type": "finds",
+      "description": "Result is consistent with prior stellar but not gas dynamical measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Ten percent offset between measured emission diameter and photon ring size",
+      "type": "has_limitation",
+      "description": "A systematic offset exists between model images and actual photon ring size."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Signal-to-noise ratio",
+      "type": "uses_metric",
+      "description": "Used to improve the validity of Gaussian models."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Haystack Observatory Processing System",
+      "type": "uses_method",
+      "description": "The paper uses the Haystack Observatory Processing System pipeline for data reduction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "closure phases",
+      "type": "uses_method",
+      "description": "The paper uses closure phases to recover source phase information."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "closure amplitudes",
+      "type": "uses_method",
+      "description": "The paper uses closure amplitudes to aid modeling efforts."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Closure phases are immune to gain phase corruptions",
+      "type": "finds",
+      "description": "The study establishes the immunity of closure phases to gain corruption."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Closure amplitude construction cancels out station gain amplitudes",
+      "type": "finds",
+      "description": "The study finds closure amplitudes effectively cancel station gain amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Atmospheric timescales at 230 gigahertz render visibility phase calibration unfeasible",
+      "type": "has_limitation",
+      "description": "Atmospheric conditions make direct visibility phase calibration impossible."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Closure amplitude measurements are not independent",
+      "type": "has_limitation",
+      "description": "Closure amplitude measurements are inherently dependent due to shared baselines."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Closure phase measurements are not independent",
+      "type": "has_limitation",
+      "description": "Closure phase measurements suffer from dependencies when triangles share baselines."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The authors who wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Triangle Method Station",
+      "type": "proposes_method",
+      "description": "The paper describes a construction procedure using a reference station."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "SR1 data",
+      "type": "uses_dataset",
+      "description": "The paper lists data products accessed through SR1."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes M87 visibility data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87 image is inconsistent with a filled disk or a Gaussian.",
+      "type": "finds",
+      "description": "The paper reports the consistency of the M87 image shape."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Large Millimeter Telescope amplitudes are subject to significant gain errors.",
+      "type": "has_limitation",
+      "description": "The paper acknowledges gain errors in Large Millimeter Telescope data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes 2017 observations of M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Finding: M87 data is consistent with a ring structure with diameter of 45 microarcseconds.",
+      "type": "finds",
+      "description": "The study confirms a characteristic emission diameter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Finding: Visibility amplitudes suggest a source that is not perfectly symmetric.",
+      "type": "finds",
+      "description": "Analysis of visibility amplitudes across different orientations reveals asymmetry."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Finding: An annular or ring model is consistent with observed visibility amplitude minima.",
+      "type": "finds",
+      "description": "Ring model fits observed second visibility amplitude minimum better than uniform disk."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic models for fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Regularized Maximum Likelihood",
+      "type": "uses_method",
+      "description": "The paper uses Regularized Maximum Likelihood imaging procedures."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87 data",
+      "type": "uses_dataset",
+      "description": "The paper uses 2017 Event Horizon Telescope interferometric data from M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Bayesian evidence",
+      "type": "uses_metric",
+      "description": "The paper utilizes Bayesian evidence for parameter estimation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "visibility amplitude",
+      "type": "uses_metric",
+      "description": "The paper uses visibility amplitude measurements for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gaussian approximation",
+      "type": "uses_method",
+      "description": "The paper applies Gaussian approximation to amplitude and phase data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The mean and standard deviation of visibility amplitude are biased",
+      "type": "has_limitation",
+      "description": "The authors state that visibility amplitude distribution parameters are biased."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gaussian approximation for logarithmic closure amplitudes holds well for specific signal-to-noise ratios",
+      "type": "finds",
+      "description": "The Gaussian approximation is valid for logarithmic closure amplitudes under defined conditions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gaussian approximation for closure phases is unbiased in the mean",
+      "type": "finds",
+      "description": "The Gaussian approximation for closure phases is unbiased in the mean."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Markov chain Monte Carlo",
+      "type": "uses_method",
+      "description": "The paper uses Markov chain Monte Carlo for parameter space exploration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "nested sampling",
+      "type": "uses_method",
+      "description": "The paper uses nested sampling for parameter space exploration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "genetic algorithm",
+      "type": "uses_method",
+      "description": "The paper uses a genetic algorithm for parameter space exploration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The paper uses the THEMIS framework for model comparison."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gaussian approximation for closure phases",
+      "type": "finds",
+      "description": "The Gaussian approximation for closure phases is unbiased in the mean."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Differential Evolution Markov Chain Monte Carlo",
+      "type": "uses_method",
+      "description": "The paper uses the THEMIS software which implements this algorithm."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Nested Sampling",
+      "type": "uses_method",
+      "description": "The paper uses the dynesty code to perform Nested Sampling."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Non-dominated Sorting Genetic Algorithm II",
+      "type": "uses_method",
+      "description": "The GENA code implements this algorithm for parameter exploration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper fits geometric crescent models to the M87 data sets."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Bayesian evidence",
+      "type": "uses_metric",
+      "description": "Nested Sampling is used to evaluate Bayesian evidence integrals."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "chi-squared statistic",
+      "type": "uses_metric",
+      "description": "The GENA code minimizes a chi-squared statistic on visibility amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Images reconstructed from the M87 data show a prominent and asymmetric ring structure.",
+      "type": "finds",
+      "description": "The paper reports the discovery of a crescent structure in the M87 data."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The authors who wrote the paper"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "generalized crescent model",
+      "type": "proposes_method",
+      "description": "The paper fits a generalized crescent model to the data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "symmetric disk model",
+      "type": "compares",
+      "description": "The paper compares symmetric disk models against crescent models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "ring model",
+      "type": "compares",
+      "description": "The paper compares ring models against crescent models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gaussian components",
+      "type": "uses_method",
+      "description": "The paper uses Gaussian components for model improvement"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "relative log-likelihood",
+      "type": "uses_metric",
+      "description": "The paper uses relative log-likelihood to evaluate models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "reduced-chi-squared",
+      "type": "uses_metric",
+      "description": "The paper uses reduced-chi-squared to evaluate model fit"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The data overwhelmingly prefer crescent models over symmetric disk and ring models",
+      "type": "finds",
+      "description": "Finding regarding model preference"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Additional Gaussian components lead to further substantial improvement",
+      "type": "finds",
+      "description": "Finding regarding model complexity improvement"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 data for model fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "azimuthally symmetric models are poor at fitting the data",
+      "type": "finds",
+      "description": "The paper finds that symmetric models do not fit the data well."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "crescent family of models performs best",
+      "type": "finds",
+      "description": "The paper finds the crescent model provides the most substantial fit quality gain."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "uniform disks",
+      "type": "criticizes",
+      "description": "Uniform disk models do a poor job of fitting the data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "rings",
+      "type": "criticizes",
+      "description": "Ring models do a poor job of fitting the data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "proposes_method",
+      "description": "The paper proposes xs-ring as a generalized crescent model variant."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "proposes_method",
+      "description": "The paper proposes xs-ringauss as a generalized crescent model variant."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "proposes_method",
+      "description": "The paper defines and utilizes the xs-ring model."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "proposes_method",
+      "description": "The paper defines and utilizes the xs-ringauss model."
+    },
+    {
+      "source": "xs-ring",
+      "target": "dynesty",
+      "type": "uses_method",
+      "description": "The xs-ring model is fitted using the dynesty sampling code."
+    },
+    {
+      "source": "xs-ringauss",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The xs-ringauss model is implemented as part of THEMIS."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "crescent diameter",
+      "type": "uses_metric",
+      "description": "The paper defines and uses crescent diameter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "fractional crescent width",
+      "type": "uses_metric",
+      "description": "The paper defines and uses fractional crescent width."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "sharpness",
+      "type": "uses_metric",
+      "description": "The paper defines and uses sharpness."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "brightness ratio",
+      "type": "uses_metric",
+      "description": "The paper defines and uses brightness ratio."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "total compact flux density",
+      "type": "uses_metric",
+      "description": "The paper defines and uses total compact flux density."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "uses_method",
+      "description": "The paper utilizes the xs-ring model."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "The paper utilizes the xs-ringauss model."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "April 6 high-band data",
+      "type": "uses_dataset",
+      "description": "The paper performs fits on April 6 high-band data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "There are no apparent systematic trends in the normalized residuals",
+      "type": "finds",
+      "description": "Residuals showed no apparent systematic trends across fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "crescent component alone is unlikely to adequately capture extra emission",
+      "type": "has_limitation",
+      "description": "Extra emission structures are not adequately captured by the crescent component alone."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The Event Horizon Telescope Collaboration authored the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The study uses THEMIS to fit the xs-ringauss model."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "dynesty",
+      "type": "uses_method",
+      "description": "The study uses dynesty to fit the xs-ring model."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "April 6 high-band data set",
+      "type": "uses_dataset",
+      "description": "The study uses the April 6 high-band data set for model fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "visibility amplitude",
+      "type": "uses_metric",
+      "description": "The study evaluates visibility amplitude data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "closure phase",
+      "type": "uses_metric",
+      "description": "The study evaluates closure phase data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "logarithmic closure amplitude",
+      "type": "uses_metric",
+      "description": "The study evaluates logarithmic closure amplitude data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "reduced-chi squared",
+      "type": "uses_metric",
+      "description": "Used as a general-purpose distance metric between model and data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "likelihood function",
+      "type": "uses_method",
+      "description": "Used in model-fitting procedures."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "uses_method",
+      "description": "Method used for model fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "Method used for model fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Data set used for model fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Posterior widths alone may not be reliable for statistically poor fits",
+      "type": "has_limitation",
+      "description": "The paper notes that posterior widths are unreliable in face of statistically poor fit."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Diameter measurement of the crescent is robustly recoverable",
+      "type": "finds",
+      "description": "The paper identifies the consistency of diameter measurements across days and bands."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "The paper uses the xs-ringauss method for fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "uses_method",
+      "description": "The paper uses the xs-ring method for fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 data sets for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "reduced-chi2",
+      "type": "uses_metric",
+      "description": "The paper uses reduced-chi2 to evaluate model fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "visibility amplitudes",
+      "type": "uses_metric",
+      "description": "The paper uses visibility amplitudes for fitting statistics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "closure phases",
+      "type": "uses_metric",
+      "description": "The paper uses closure phases for fitting statistics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "logarithmic closure amplitudes",
+      "type": "uses_metric",
+      "description": "The paper uses logarithmic closure amplitudes for fitting statistics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "uses_method",
+      "description": "Used for fitting data products"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "Used for fitting data products"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "Computational framework for parameter estimation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "dynesty",
+      "type": "uses_method",
+      "description": "Nested sampling algorithm used for parameter estimation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Emission is concentrated in a relatively thin annulus",
+      "type": "finds",
+      "description": "Results rule out a filled-in disk structure"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Brightness contrast between crescent and hole is at least a factor of 10",
+      "type": "finds",
+      "description": "Brightness ratio measurements confirm central flux depression"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Crescent position angle consistently locates brightest portion in the southern half",
+      "type": "finds",
+      "description": "Measurements define the orientation of the crescent"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Smoothing kernel affects inferred diameter in a correlated manner",
+      "type": "has_limitation",
+      "description": "Identified as a source of uncertainty in diameter measurement"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by the collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "Paper uses THEMIS for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "Paper uses xs-ringauss for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "dynesty",
+      "type": "uses_method",
+      "description": "Paper uses dynesty for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "uses_method",
+      "description": "Paper uses xs-ring for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Recovery of the total compact flux density is not possible for dynesty-based fits",
+      "type": "has_limitation",
+      "description": "The authors state a limitation regarding total flux density recovery for specific fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper written by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "Paper uses xs-ringauss method for fitting"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "Paper uses THEMIS for xs-ringauss fitting"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "dynesty-based fitting scheme",
+      "type": "uses_method",
+      "description": "Paper uses dynesty-based fitting scheme for xs-ring fits"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic Simulations",
+      "type": "uses_method",
+      "description": "Paper uses General Relativistic Magnetohydrodynamic Simulations for calibrating crescent diameter"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "April 5 high-band data set",
+      "type": "uses_dataset",
+      "description": "Paper uses April 5 high-band data set for model fits"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The modeled compact flux density value is 0.75 Jansky.",
+      "type": "finds",
+      "description": "Paper finds compact flux density value"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Recovery of the total compact flux density is not possible using closure quantities.",
+      "type": "has_limitation",
+      "description": "Limitation regarding compact flux density recovery"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "Used for simulations and image libraries."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Geometric Crescent",
+      "type": "uses_method",
+      "description": "Used to fit calibration images and measured data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic image library",
+      "type": "uses_dataset",
+      "description": "Used to generate synthetic data sets."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "α",
+      "type": "uses_metric",
+      "description": "Measured to calibrate geometric crescent models."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Finding: Mean values of α for xs-ring and xs-ringauss models are 11.55 and 11.50.",
+      "type": "finds",
+      "description": "Calculated mean calibration factors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Finding: Averaged value of θg is 3.77",
+      "type": "finds",
+      "description": "Determined average theta g value."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Limitation: The value of scaling factor α and its uncertainty are unknown a priori.",
+      "type": "has_limitation",
+      "description": "Lack of prior knowledge for scaling factor."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Limitation: Insufficient time coverage for M87 to measure its structural variations.",
+      "type": "has_limitation",
+      "description": "Short observation window relative to variability timescale."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The authors who wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic simulations for image library and snapshot fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring Geometric Crescent",
+      "type": "uses_method",
+      "description": "The paper uses xs-ring Geometric Crescent model for data fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss Geometric Crescent",
+      "type": "uses_method",
+      "description": "The paper uses xs-ringauss Geometric Crescent model for data fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "dynesty-based",
+      "type": "uses_method",
+      "description": "The paper uses dynesty-based method for fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The paper uses THEMIS for model fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Angular diameter measurements",
+      "type": "uses_metric",
+      "description": "The paper uses angular diameter measurements to arrive at θg measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Calibrated scaling factors",
+      "type": "uses_metric",
+      "description": "The paper uses calibrated scaling factors to arrive at θg measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Systematic uncertainty in the calibration procedure",
+      "type": "has_limitation",
+      "description": "Systematic uncertainty is present in the calibration procedure for GC model fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "Used for simulation of horizon-scale synchrotron emission images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Single Snapshot Model",
+      "type": "proposes_method",
+      "description": "Describes a three-parameter model for snapshot images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Majority of simulation library models is consistent with the data",
+      "type": "finds",
+      "description": "Consistency check between simulation library and data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "More than half of the models can be excluded when combined with other data",
+      "type": "finds",
+      "description": "Models excluded by combination with other data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Difficult to rule out many possible models using Event Horizon Telescope data alone",
+      "type": "has_limitation",
+      "description": "Inability to isolate specific black hole models using only Event Horizon Telescope data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by the collaboration"
+    },
+    {
+      "source": "Single Snapshot Model",
+      "target": "General Relativistic Magnetohydrodynamic image library",
+      "type": "builds_on",
+      "description": "The model is generated by rescaling, stretching, and rotating simulation images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Single Snapshot Model",
+      "type": "proposes_method",
+      "description": "The paper describes the construction and use of the Single Snapshot Model"
+    },
+    {
+      "source": "Single Snapshot Model",
+      "target": "Event Horizon Telescope data set",
+      "type": "uses_method",
+      "description": "The model is fitted to the Event Horizon Telescope data set"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Finding that approximations hold for flux and mass within factors of 2",
+      "type": "finds",
+      "description": "The paper finds that approximations hold for rescalings by factors of 2"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Structural variations between snapshots resulting from turbulence",
+      "type": "has_limitation",
+      "description": "Fitting is complicated by large structural variations due to turbulence"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Unmodeled large-scale features",
+      "type": "has_limitation",
+      "description": "Large-scale features contribute substantially to angular scales probed by intra-site baselines"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The paper employs the THEMIS method to fit geometric models."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GENA",
+      "type": "uses_method",
+      "description": "The paper employs the GENA method to fit geometric models."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope",
+      "type": "uses_dataset",
+      "description": "The paper uses data sets from the Event Horizon Telescope."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Average Image Scoring",
+      "type": "uses_method",
+      "description": "The paper uses Average Image Scoring for model selection."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Chi-squared",
+      "type": "uses_metric",
+      "description": "The paper uses Chi-squared for quantitative assessment."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Simulation p-value",
+      "type": "uses_metric",
+      "description": "The paper uses simulation p-value to characterize results."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Stochastic image features due to turbulence in General Relativistic Magnetohydrodynamic simulations",
+      "type": "has_limitation",
+      "description": "Stochastic image features make finding formally adequate fits difficult."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Averaged Image Simulation Statistics",
+      "type": "uses_method",
+      "description": "The paper utilizes the Averaged Image Simulation Statistics procedure"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The paper uses the THEMIS pipeline for parameter estimation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GENA",
+      "type": "uses_method",
+      "description": "The paper uses the GENA pipeline for parameter estimation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper evaluates General Relativistic Magnetohydrodynamic simulation models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Chi-squared",
+      "type": "uses_metric",
+      "description": "The paper uses Chi-squared for model fitting"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "P-value",
+      "type": "uses_metric",
+      "description": "The paper uses P-values for model exclusion"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Recovered θg are consistent across a wide range of simulations",
+      "type": "finds",
+      "description": "The paper finds consistency in θg across simulations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS-AIS procedure limited by number of snapshots from each model",
+      "type": "has_limitation",
+      "description": "The THEMIS-AIS procedure is limited by the number of snapshots available"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The Event Horizon Telescope Collaboration wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper utilizes General Relativistic Magnetohydrodynamic models for simulation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The paper uses the THEMIS pipeline for posterior analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GENA",
+      "type": "uses_method",
+      "description": "The paper uses the GENA pipeline for posterior analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Principal Component Analysis",
+      "type": "uses_method",
+      "description": "The paper proposes Principal Component Analysis as an alternative approach."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Chi-squared",
+      "type": "uses_metric",
+      "description": "The paper uses Chi-squared values to evaluate model fits."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "No significant biases found in mock analyses of General Relativistic Magnetohydrodynamic model posteriors",
+      "type": "finds",
+      "description": "The paper reports that no significant biases were found in mock analyses."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Results depend on General Relativistic Magnetohydrodynamic models providing an accurate description of M87",
+      "type": "has_limitation",
+      "description": "The validity of results depends on the synthetic data models accurately describing M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "Used for fitting images to data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GENA",
+      "type": "uses_method",
+      "description": "Used for fitting images to data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "Used to generate simulation snapshots for model fitting"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope",
+      "type": "uses_dataset",
+      "description": "Used observational data for model comparison"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Regularized Maximum Likelihood",
+      "type": "uses_method",
+      "description": "Used for direct image reconstruction"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "Used for direct image reconstruction"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Stochastic features cause poor formal fit quality in simulation snapshots.",
+      "type": "finds",
+      "description": "Reported on the performance of simulation snapshots"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GRMHD models produce compact flux estimates between 0.3 and 0.7 Jy.",
+      "type": "finds",
+      "description": "Calculated compact flux density estimates"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Underlying model may be insufficient to fully explain the Event Horizon Telescope data.",
+      "type": "has_limitation",
+      "description": "Acknowledged potential insufficiency of underlying model to explain data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic model fitting",
+      "type": "uses_method",
+      "description": "The study employs General Relativistic Magnetohydrodynamic model fitting for parameter estimation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The study uses the THEMIS pipeline for data analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GENA",
+      "type": "uses_method",
+      "description": "The study uses the GENA pipeline for data analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Diameter",
+      "type": "uses_metric",
+      "description": "The study measures diameter as a parameter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Flux",
+      "type": "uses_metric",
+      "description": "The study measures flux as a parameter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Position Angle",
+      "type": "uses_metric",
+      "description": "The study measures position angle as a parameter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Akiyama",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Shepherd",
+      "type": "written_by",
+      "description": "Paper written by author"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Study uses data from M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "Study uses simulations for calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "diameter",
+      "type": "uses_metric",
+      "description": "Study measures ring diameter"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "fractional width",
+      "type": "uses_metric",
+      "description": "Study measures fractional width"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "image circularity",
+      "type": "uses_metric",
+      "description": "Study measures image circularity"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Ring diameters found across all methods and days span 38 to 44 microarcseconds.",
+      "type": "finds",
+      "description": "Study finds ring diameter range"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The authors wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "The paper uses eht-imaging for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "SMILI",
+      "type": "uses_method",
+      "description": "The paper uses SMILI for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ring",
+      "type": "uses_method",
+      "description": "The paper uses xs-ring model for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "xs-ringauss",
+      "type": "uses_method",
+      "description": "The paper uses xs-ringauss model for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "geometric crescent model",
+      "type": "uses_method",
+      "description": "The paper uses geometric crescent model for comparisons."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes M87 data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "ring diameter",
+      "type": "uses_metric",
+      "description": "The paper measures ring diameter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "fractional width",
+      "type": "uses_metric",
+      "description": "The paper measures fractional width."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Ring diameters across all methods and days span 38–44 microarcseconds.",
+      "type": "finds",
+      "description": "Paper reports the range of ring diameters."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "An anti-correlation between diameter and fractional width is present in results.",
+      "type": "finds",
+      "description": "Paper identifies an anti-correlation between diameter and fractional width."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Imaging algorithms were trained on synthetic data smoothed with a 10 microarcsecond beam.",
+      "type": "has_limitation",
+      "description": "Imaging algorithm training on synthetic data affects fractional width measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 data for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "The paper uses eht-imaging for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "SMILI",
+      "type": "uses_method",
+      "description": "The paper uses SMILI for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "DIFMAP",
+      "type": "uses_method",
+      "description": "The paper uses DIFMAP for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87 images are circular",
+      "type": "finds",
+      "description": "The paper identifies the circular shape of M87 images."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Physical scale of angular gravitational radius is consistent across methods",
+      "type": "finds",
+      "description": "The paper finds consistency in physical scale across various models."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Relatively large uncertainty in width due to weak anti-correlation",
+      "type": "has_limitation",
+      "description": "Systematic differences in diameter are attributed to width uncertainty."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Theoretical uncertainty dominates the final error budget",
+      "type": "has_limitation",
+      "description": "Theoretical uncertainty is the primary contributor to final error."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was authored by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic simulations for image domain feature extraction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Anti-correlation between mean diameter and width explains 5% offset between methods",
+      "type": "finds",
+      "description": "The analysis finds that anti-correlation between mean diameter and width explains the 5% offset found between methods."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "The paper uses eht-imaging to reconstruct M87 images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Sparse Modeling Imaging Library",
+      "type": "uses_method",
+      "description": "The paper uses Sparse Modeling Imaging Library to reconstruct M87 images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic models for image comparison"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Tip of the Red Giant Branch",
+      "type": "uses_method",
+      "description": "The paper uses Tip of the Red Giant Branch as a distance estimator"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Surface Brightness Fluctuations",
+      "type": "uses_method",
+      "description": "The paper uses Surface Brightness Fluctuations as a distance estimator"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The reconstructed images of M87 have an image axial ratio of 4:3",
+      "type": "finds",
+      "description": "The paper reports the image axial ratio of M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The distance to M87 is 16.8 Megaparsec",
+      "type": "finds",
+      "description": "The paper reports the calculated distance to M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Comparison images have a much higher intrinsic resolution than the reconstructed images of M87",
+      "type": "has_limitation",
+      "description": "The reconstructed images have lower resolution than the comparison models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Hubble Space Telescope",
+      "type": "uses_method",
+      "description": "The paper references data from Hubble Space Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Space Telescope Imaging Spectrograph",
+      "type": "uses_method",
+      "description": "The paper references data from Space Telescope Imaging Spectrograph"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic image snapshots"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Kinematics cannot be fitted without a central compact non-luminous mass",
+      "type": "finds",
+      "description": "The study concludes a central compact non-luminous mass is required for stellar kinematics"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Asymmetric ring source morphology with central brightness depression",
+      "type": "finds",
+      "description": "Analysis of data favors an asymmetric ring source morphology"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gas-disk velocity field might be subject to non-gravitational forces",
+      "type": "has_limitation",
+      "description": "The gas dynamical mass estimate assumes the field is not subject to non-gravitational forces"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses simulation libraries and direct fitting of snapshots."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses data from observations of the source."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Angular size of one gravitational radius",
+      "type": "uses_metric",
+      "description": "The paper uses this metric to estimate physical characteristics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Emission from near the event horizon is gravitationally lensed into a crescent shape",
+      "type": "finds",
+      "description": "Features support the interpretation of gravitational lensing."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Central brightness depression is caused by photons captured by the black hole",
+      "type": "finds",
+      "description": "The depression is identified as the black hole shadow."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Asymmetry is caused by Doppler beaming due to plasma rotation",
+      "type": "finds",
+      "description": "Asymmetry is attributed to relativistic plasma motion."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Angular size subtended by one gravitational radius is 3.8 ± 0.4 microarcseconds",
+      "type": "finds",
+      "description": "Consistently converged value across multiple independent measurement techniques."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The authors who wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses this method for calibration and fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Geometric crescent modeling",
+      "type": "uses_method",
+      "description": "Used as a measurement technique."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Image domain feature extraction",
+      "type": "uses_method",
+      "description": "Used as a measurement technique."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Gas dynamics",
+      "type": "compares",
+      "description": "Compared against new EHT measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Stellar dynamics",
+      "type": "compares",
+      "description": "Compared against new EHT measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Average black hole mass is 6.5 times 10 to the ninth solar masses",
+      "type": "finds",
+      "description": "The determined mass of the central black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Measurements rely on images generated from General Relativistic Magnetohydrodynamic simulations",
+      "type": "has_limitation",
+      "description": "The reliance on simulation-generated images warrants caution."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Uses a small subset of 100 randomly chosen simulation frames",
+      "type": "has_limitation",
+      "description": "Limited sampling of the available simulation library."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "angular diameter measurement",
+      "type": "uses_method",
+      "description": "The paper uses angular diameter measurement to derive mass."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "stellar dynamics",
+      "type": "compares",
+      "description": "Mass measurements are compared with those made by stellar dynamics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "gas dynamics",
+      "type": "compares",
+      "description": "Mass measurements are compared with those made by gas dynamics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The mass measurement is inconsistent with the gas dynamics measurement of Walsh et al.",
+      "type": "finds",
+      "description": "Finding regarding inconsistency with gas dynamics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The mass measurement is in agreement with stellar dynamics measurements.",
+      "type": "finds",
+      "description": "Finding regarding agreement with stellar dynamics."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Evidence exists for the existence of event horizons.",
+      "type": "finds",
+      "description": "Finding regarding existence of event horizons."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The limit on dark extended component is insufficient to constrain a dark matter spike.",
+      "type": "has_limitation",
+      "description": "The limit on dark matter density spikes is not yet sufficient."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 data for analysis"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "The paper uses the Event Horizon Telescope for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Shadow size and shape allow tests of the compact object spacetime",
+      "type": "finds",
+      "description": "The paper finds that shadow properties can test spacetime"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Kerr condition shadow diameter is in the range of 9.6 to 10.4 GM/c2",
+      "type": "finds",
+      "description": "The paper finds the expected shadow diameter under the Kerr condition"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The Event Horizon Telescope is not sensitive to the photospheric emission component",
+      "type": "has_limitation",
+      "description": "The paper acknowledges the telescope's lack of sensitivity to specific photospheric components"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Null-hypothesis test",
+      "type": "uses_method",
+      "description": "The paper employs a null-hypothesis test to evaluate spacetime assumptions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "2017 Event Horizon Telescope observations",
+      "type": "uses_dataset",
+      "description": "The paper analyzes 2017 Event Horizon Telescope observations of M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Fractional difference",
+      "type": "uses_metric",
+      "description": "The paper uses fractional difference to compare EHT and dynamical mass-to-distance ratio inferences."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "The paper compares reconstructed images to General Relativistic Magnetohydrodynamic simulations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The null hypothesis has not been violated",
+      "type": "finds",
+      "description": "Consistent measurements between angular gravitational radius and prior dynamical measurements indicate no violation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "M87 exhibits a robust crescent-like structure",
+      "type": "finds",
+      "description": "Horizon-scale emission of M87 shows a crescent-like structure at 1.3 millimeters."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Average diameter of the crescent is 42 ± 3 microarcseconds",
+      "type": "finds",
+      "description": "The average diameter of the crescent is constrained to 42 ± 3 microarcseconds."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The author wrote the paper"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic simulations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "geometric models",
+      "type": "uses_method",
+      "description": "The paper uses geometric models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "image domain feature extraction",
+      "type": "uses_method",
+      "description": "The paper uses image domain feature extraction"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "angular size",
+      "type": "uses_metric",
+      "description": "The paper measures angular size"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "black hole mass",
+      "type": "uses_metric",
+      "description": "The paper measures black hole mass"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "stellar dynamics",
+      "type": "uses_metric",
+      "description": "The paper uses stellar dynamics for comparison"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "gas dynamics",
+      "type": "uses_metric",
+      "description": "The paper uses gas dynamics for comparison"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "The central object in M87 is a Kerr black hole",
+      "type": "finds",
+      "description": "The paper concludes the central object is a Kerr black hole"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Mass measurement is consistent with stellar dynamics but not gas dynamics",
+      "type": "finds",
+      "description": "The paper reports consistency with stellar but not gas dynamics"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "Uncertainty of gravitational radius dominated by systematic component in simulations",
+      "type": "has_limitation",
+      "description": "Systematic components limit the accuracy of the gravitational radius measurement"
+    },
+    {
+      "source": "Harvard University",
+      "target": "John Templeton Foundation",
+      "type": "affiliated_with",
+      "description": "Harvard University received a grant from the John Templeton Foundation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "European Research Council",
+      "type": "affiliated_with",
+      "description": "Research supported by the BlackHoleCam Synergy Grant."
+    },
+    {
+      "source": "South African Radio Astronomy Observatory",
+      "target": "National Research Foundation",
+      "type": "affiliated_with",
+      "description": "SARAO is a facility of the NRF"
+    },
+    {
+      "source": "National Research Foundation",
+      "target": "Department of Science and Technology",
+      "type": "affiliated_with",
+      "description": "NRF is an agency of the DST"
+    },
+    {
+      "source": "Los Alamos National Laboratory",
+      "target": "United States Department of Energy",
+      "type": "affiliated_with",
+      "description": "LANL is operated for the USDOE"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "European Southern Observatory",
+      "type": "affiliated_with",
+      "description": "Operated by ESO"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "Associated Universities, Incorporated",
+      "type": "affiliated_with",
+      "description": "Operated by AUI"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "National Astronomical Observatory of Japan",
+      "type": "affiliated_with",
+      "description": "Operated by NAOJ"
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "Associated Universities, Incorporated",
+      "type": "affiliated_with",
+      "description": "NRAO is a facility of AUI"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Central Black",
+      "type": "written_by",
+      "description": "The authors who wrote the paper."
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "European Southern Observatory",
+      "type": "affiliated_with",
+      "description": "Operated by European Southern Observatory."
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "Associated Universities, Inc.",
+      "type": "affiliated_with",
+      "description": "Operated by Associated Universities, Inc."
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "National Radio Astronomy Observatory",
+      "type": "affiliated_with",
+      "description": "Operated by National Radio Astronomy Observatory."
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "National Astronomical Observatory of Japan",
+      "type": "affiliated_with",
+      "description": "Operated by National Astronomical Observatory of Japan."
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "National Science Foundation",
+      "type": "affiliated_with",
+      "description": "A facility of the National Science Foundation."
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "Associated Universities, Inc.",
+      "type": "affiliated_with",
+      "description": "Operated by Associated Universities, Inc."
+    },
+    {
+      "source": "East Asian Observatory",
+      "target": "National Astronomical Observatory of Japan",
+      "type": "affiliated_with",
+      "description": "Operated on behalf of National Astronomical Observatory of Japan."
+    },
+    {
+      "source": "East Asian Observatory",
+      "target": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "affiliated_with",
+      "description": "Operated on behalf of Academia Sinica Institute of Astronomy and Astrophysics."
+    },
+    {
+      "source": "East Asian Observatory",
+      "target": "Korea Astronomy and Space Science Institute",
+      "type": "affiliated_with",
+      "description": "Operated on behalf of Korea Astronomy and Space Science Institute."
+    },
+    {
+      "source": "Arizona Radio Observatory",
+      "target": "Steward Observatory",
+      "type": "affiliated_with",
+      "description": "Arizona Radio Observatory is a part of the Steward Observatory"
+    },
+    {
+      "source": "Steward Observatory",
+      "target": "University of Arizona",
+      "type": "affiliated_with",
+      "description": "Steward Observatory is a part of the University of Arizona"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "DIFMAP",
+      "type": "uses_method",
+      "description": "The paper uses the DIFMAP software"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "THEMIS",
+      "type": "uses_method",
+      "description": "The paper uses the THEMIS software"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "dynesty",
+      "type": "uses_method",
+      "description": "The paper uses the dynesty software"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "The paper uses the eht-imaging software"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "SMILI",
+      "type": "uses_method",
+      "description": "The paper uses the SMILI software"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Central Black",
+      "target": "GENA",
+      "type": "uses_method",
+      "description": "The paper uses the GENA software"
+    }
+  ]
+}

@@ -1,0 +1,4677 @@
+{
+  "file_path": "papers\\1906.11238v1.pdf",
+  "file_name": "1906.11238v1.pdf",
+  "title": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+  "year": "2019",
+  "total_pages": 17,
+  "total_chunks": 30,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "very long baseline interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "general-relativistic magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "1.3 mm",
+      "type": "Metric"
+    },
+    {
+      "name": "42 ± 3 μas",
+      "type": "Metric"
+    },
+    {
+      "name": "6.5 ± 0.7 × 109 solar masses",
+      "type": "Metric"
+    },
+    {
+      "name": "Resolved central compact radio source as an asymmetric bright emission ring.",
+      "type": "Finding"
+    },
+    {
+      "name": "Observed image consistent with expectations for a Kerr black hole shadow.",
+      "type": "Finding"
+    },
+    {
+      "name": "Derived a central black hole mass of 6.5 ± 0.7 × 109 solar masses.",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "The observed projected diameter of the emission ring is proportional to the mass of the black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "Earth-diameter Very Long Baseline Interferometry baselines are required to resolve the shadows of M87* and Sagittarius A*",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope collaboration",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Limited baseline coverage",
+      "type": "Limitation"
+    },
+    {
+      "name": "Detection of event-horizon-scale structures in M87* and Sgr A*",
+      "type": "Finding"
+    },
+    {
+      "name": "M87* is coincident with the supermassive black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Global Positioning System",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope Alfonso Serrano",
+      "type": "Institution"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimétrique 30 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "increased noise in radio receiver electronics",
+      "type": "Limitation"
+    },
+    {
+      "name": "higher atmospheric opacity",
+      "type": "Limitation"
+    },
+    {
+      "name": "increased phase fluctuations caused by atmospheric turbulence",
+      "type": "Limitation"
+    },
+    {
+      "name": "decreased efficiency and size of radio telescopes",
+      "type": "Limitation"
+    },
+    {
+      "name": "EHT array achieved 25 microarcsecond diffraction-limit resolution",
+      "type": "Finding"
+    },
+    {
+      "name": "EHT sensitivity increased by a factor of 30",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Massachusetts Institute of Technology Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Heterodyne techniques",
+      "type": "Method"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Diffraction-limit resolution",
+      "type": "Metric"
+    },
+    {
+      "name": "Zenith atmospheric opacities",
+      "type": "Metric"
+    },
+    {
+      "name": "The global Very Long Baseline Interferometry array achieved a diffraction-limit resolution of approximately 25 microarcseconds.",
+      "type": "Finding"
+    },
+    {
+      "name": "Observations were susceptible to atmospheric turbulence and array heterogeneity.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "fringe-fitting pipelines",
+      "type": "Method"
+    },
+    {
+      "name": "network calibration",
+      "type": "Method"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility phase",
+      "type": "Metric"
+    },
+    {
+      "name": "signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "First Event Horizon Telescope science data release",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87*",
+      "type": "Finding"
+    },
+    {
+      "name": "The visibility amplitudes resemble those of a thin ring",
+      "type": "Finding"
+    },
+    {
+      "name": "Highly nonzero measured closure phases indicate source asymmetry",
+      "type": "Finding"
+    },
+    {
+      "name": "Visibility amplitudes on short baselines suggest flux density is resolved out",
+      "type": "Limitation"
+    },
+    {
+      "name": "Highly nonzero closure phases indicate asymmetry in the source",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "visibility amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility phases",
+      "type": "Metric"
+    },
+    {
+      "name": "spatial frequencies",
+      "type": "Metric"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Regularized Maximum Likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "General-Relativistic Magnetohydrodynamics",
+      "type": "Method"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87* images reveal a ring of diameter approximately 38 to 44 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "Top-Set images showed an asymmetric ring with a diameter of approximately 40 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "Imaging parameters significantly affect the final image",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General-Relativistic Magnetohydrodynamics",
+      "type": "Method"
+    },
+    {
+      "name": "General-Relativistic Ray-Tracing",
+      "type": "Method"
+    },
+    {
+      "name": "Radiative-Transfer",
+      "type": "Method"
+    },
+    {
+      "name": "Image Library",
+      "type": "Dataset"
+    },
+    {
+      "name": "Simulation Library",
+      "type": "Dataset"
+    },
+    {
+      "name": "Brightness Temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "M87*",
+      "type": "Finding"
+    },
+    {
+      "name": "Turbulent, hot, magnetized disk orbiting a Kerr black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "Asymmetric emission ring",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamics",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Radiative Transfer",
+      "type": "Method"
+    },
+    {
+      "name": "dimensionless spin",
+      "type": "Metric"
+    },
+    {
+      "name": "net dimensionless magnetic flux",
+      "type": "Metric"
+    },
+    {
+      "name": "black hole mass",
+      "type": "Metric"
+    },
+    {
+      "name": "accretion rate",
+      "type": "Metric"
+    },
+    {
+      "name": "magnetic flux",
+      "type": "Metric"
+    },
+    {
+      "name": "Standard and Normal Evolution",
+      "type": "Method"
+    },
+    {
+      "name": "Magnetically Arrested Disk",
+      "type": "Method"
+    },
+    {
+      "name": "magnetorotational instability",
+      "type": "Method"
+    },
+    {
+      "name": "SANE accretion flows have smaller magnetic funnel opening angles than MAD flows",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Simulation Library",
+      "type": "Dataset"
+    },
+    {
+      "name": "Image Library",
+      "type": "Dataset"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Magnetically Arrested Disk",
+      "type": "Method"
+    },
+    {
+      "name": "Standard and Normal Evolution",
+      "type": "Method"
+    },
+    {
+      "name": "The observed image is produced by a magnetized accretion flow orbiting a black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "The asymmetric ring is produced by gravitational lensing and relativistic beaming",
+      "type": "Finding"
+    },
+    {
+      "name": "North-south asymmetry in the emission ring is controlled by black hole spin",
+      "type": "Finding"
+    },
+    {
+      "name": "a* = -0.94 Magnetically Arrested Disk models produce insufficiently stable images",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "North–south asymmetry",
+      "type": "Finding"
+    },
+    {
+      "name": "Black hole spin orientation",
+      "type": "Finding"
+    },
+    {
+      "name": "Jet power",
+      "type": "Metric"
+    },
+    {
+      "name": "Models with a*=0",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Blandford–Znajek process",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "Bayesian-inference algorithms",
+      "type": "Method"
+    },
+    {
+      "name": "geometric crescent models",
+      "type": "Method"
+    },
+    {
+      "name": "Image Library",
+      "type": "Dataset"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Asymmetric emission ring diameters of 43 ± 0.9 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "Crescent models are statistically preferred over other geometric models",
+      "type": "Finding"
+    },
+    {
+      "name": "Recovered model parameters are consistent across algorithms",
+      "type": "Finding"
+    },
+    {
+      "name": "Stochastic nature of the emission in the accretion flow complicates parameter estimation",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry simulation pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "A single good fit does not imply that a model is preferred over others",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Regularized maximum likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic",
+      "type": "Method"
+    },
+    {
+      "name": "Emission region diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "Gravitational radius",
+      "type": "Metric"
+    },
+    {
+      "name": "Black hole mass",
+      "type": "Metric"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87* black hole mass is 6.5 times 10 to the 9 solar masses",
+      "type": "Finding"
+    },
+    {
+      "name": "The null hypothesis of the Kerr metric has not been violated",
+      "type": "Finding"
+    },
+    {
+      "name": "Emission ring circularity deviation is less than or equal to 10 percent",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamics",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativity",
+      "type": "Method"
+    },
+    {
+      "name": "Ring diameter",
+      "type": "Metric"
+    },
+    {
+      "name": "Ring width",
+      "type": "Metric"
+    },
+    {
+      "name": "Crescent contrast",
+      "type": "Metric"
+    },
+    {
+      "name": "Axial ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Orientation",
+      "type": "Metric"
+    },
+    {
+      "name": "Radio core size of M87* has remained stable at 1.3 mm",
+      "type": "Finding"
+    },
+    {
+      "name": "Image is unlikely to be produced by a jet-feature",
+      "type": "Finding"
+    },
+    {
+      "name": "Shadow can be produced by any compact object with unstable circular photon orbits",
+      "type": "Finding"
+    },
+    {
+      "name": "Difficult to rule out alternatives to black holes in General Relativity",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "The Astrophysical Journal Letters",
+      "type": "Institution"
+    },
+    {
+      "name": "geometric models",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic models",
+      "type": "Method"
+    },
+    {
+      "name": "image domain ring extraction",
+      "type": "Method"
+    },
+    {
+      "name": "mass",
+      "type": "Metric"
+    },
+    {
+      "name": "The exact value depends on the method used to extract d",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Boson stars",
+      "type": "Finding"
+    },
+    {
+      "name": "Gravastars",
+      "type": "Finding"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Kerr geometry",
+      "type": "Metric"
+    },
+    {
+      "name": "General Relativity",
+      "type": "Metric"
+    },
+    {
+      "name": "Fundamental plane of black hole activity",
+      "type": "Metric"
+    },
+    {
+      "name": "Global Very Long Baseline Interferometry array",
+      "type": "Method"
+    },
+    {
+      "name": "Black hole size scales linearly with mass",
+      "type": "Finding"
+    },
+    {
+      "name": "Gravitational-wave observations cannot rely on repeated measurements of the same source",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Academy of Finland",
+      "type": "Institution"
+    },
+    {
+      "name": "Ring structure of 42 ± 3 μas diameter",
+      "type": "Finding"
+    },
+    {
+      "name": "Supermassive black hole mass estimate of 6.5 ± 0.7 × 10^9 solar masses",
+      "type": "Finding"
+    },
+    {
+      "name": "Clockwise rotation and spin direction of M87 black hole",
+      "type": "Finding"
+    },
+    {
+      "name": "Scattering effects caused by the interstellar medium",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Academy of Finland",
+      "type": "Institution"
+    },
+    {
+      "name": "Advanced European Network of E-infrastructures for Astronomy with the Square Kilometre Array",
+      "type": "Institution"
+    },
+    {
+      "name": "European Commission Framework Programme Horizon 2020",
+      "type": "Institution"
+    },
+    {
+      "name": "Alexander von Humboldt Stiftung",
+      "type": "Institution"
+    },
+    {
+      "name": "Black Hole Initiative at Harvard University",
+      "type": "Institution"
+    },
+    {
+      "name": "John Templeton Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "China Scholarship Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Comisión Nacional de Investigación Científica y Tecnológica",
+      "type": "Institution"
+    },
+    {
+      "name": "Consejo Nacional de Ciencia y Tecnología",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Horizon shadow of supermassive black hole candidates are observable via electromagnetic waves",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Autónoma de México",
+      "type": "Institution"
+    },
+    {
+      "name": "European Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Generalitat Valenciana",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "type": "Institution"
+    },
+    {
+      "name": "International Max Planck Research School for Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Japanese Government",
+      "type": "Institution"
+    },
+    {
+      "name": "Japan Society for the Promotion of Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Leverhulme Trust",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "MIT International Science and Technology Initiatives",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology of Taiwan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institute of Natural Sciences of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Key Research and Development Program of China",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Science Foundation of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "National Youth Thousand Talents Program of China",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation of Korea",
+      "type": "Institution"
+    },
+    {
+      "name": "Netherlands Organization for Scientific Research",
+      "type": "Institution"
+    },
+    {
+      "name": "South African Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Science and Technology of South Africa",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Swedish Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute for Theoretical Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "Government of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Research Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Swedish Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute for Theoretical Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "Government of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Innovation, Science and Economic Development Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Province of Ontario",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Economic Development, Job Creation and Trade",
+      "type": "Institution"
+    },
+    {
+      "name": "Russian Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Spanish Ministerio de Economía y Competitividad",
+      "type": "Institution"
+    },
+    {
+      "name": "State Agency for Research",
+      "type": "Institution"
+    },
+    {
+      "name": "Spanish Ministerio de Ciencia, Innovación y Universidades",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto de Astrofísica de Andalucía",
+      "type": "Institution"
+    },
+    {
+      "name": "Toray Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "United States Department of Energy",
+      "type": "Institution"
+    },
+    {
+      "name": "Los Alamos National Laboratory",
+      "type": "Institution"
+    },
+    {
+      "name": "Triad National Security, LLC",
+      "type": "Institution"
+    },
+    {
+      "name": "National Nuclear Security Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "Italian Ministerio dell’Istruzione Università e Ricerca",
+      "type": "Institution"
+    },
+    {
+      "name": "European Union",
+      "type": "Institution"
+    },
+    {
+      "name": "ALMA North America Development Fund",
+      "type": "Institution"
+    },
+    {
+      "name": "Extreme Science and Engineering Discovery Environment",
+      "type": "Method"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "CyVerse",
+      "type": "Method"
+    },
+    {
+      "name": "Stampede2",
+      "type": "Method"
+    },
+    {
+      "name": "Texas Advanced Computing Center",
+      "type": "Institution"
+    },
+    {
+      "name": "JetStream",
+      "type": "Method"
+    },
+    {
+      "name": "SuperMUC",
+      "type": "Method"
+    },
+    {
+      "name": "Leibniz-Rechenzentrum",
+      "type": "Institution"
+    },
+    {
+      "name": "LOEWE",
+      "type": "Method"
+    },
+    {
+      "name": "Center for Scientific Computing",
+      "type": "Institution"
+    },
+    {
+      "name": "HazelHen",
+      "type": "Method"
+    },
+    {
+      "name": "High-Performance Computing Center Stuttgart",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Ontario",
+      "type": "Institution"
+    },
+    {
+      "name": "Calcul Quebec",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institutes of Natural Sciences of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Joint ALMA Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Associated Universities, Inc.",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Astrophysical Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica",
+      "type": "Institution"
+    },
+    {
+      "name": "East Asian Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Finance",
+      "type": "Institution"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Associated Universities Incorporated",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Astrophysical Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "East Asian Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Finance of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Science and Technologies Facility Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Nacional de Astrofísica, Óptica, y Electrónica",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Massachusetts at Amherst",
+      "type": "Institution"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimétrique",
+      "type": "Institution"
+    },
+    {
+      "name": "Centre National de la Recherche Scientifique",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Kazunori Akiyama",
+      "type": "Author"
+    },
+    {
+      "name": "Antxon Alberdi",
+      "type": "Author"
+    },
+    {
+      "name": "Rebecca Azulay",
+      "type": "Author"
+    },
+    {
+      "name": "Anne-Kathrin Baczko",
+      "type": "Author"
+    },
+    {
+      "name": "Mislav Baloković",
+      "type": "Author"
+    },
+    {
+      "name": "John Barrett",
+      "type": "Author"
+    },
+    {
+      "name": "Lindy Blackburn",
+      "type": "Author"
+    },
+    {
+      "name": "Katherine L. Bouman",
+      "type": "Author"
+    },
+    {
+      "name": "Geoffrey C. Bower",
+      "type": "Author"
+    },
+    {
+      "name": "Christiaan D. Brinkerink",
+      "type": "Author"
+    },
+    {
+      "name": "Roger Brissenden",
+      "type": "Author"
+    },
+    {
+      "name": "Silke Britzen",
+      "type": "Author"
+    },
+    {
+      "name": "Avery E. Broderick",
+      "type": "Author"
+    },
+    {
+      "name": "Do-Young Byun",
+      "type": "Author"
+    },
+    {
+      "name": "Andrew Chael",
+      "type": "Author"
+    },
+    {
+      "name": "Chi-kwan Chan",
+      "type": "Author"
+    },
+    {
+      "name": "Shami Chatterjee",
+      "type": "Author"
+    },
+    {
+      "name": "Ilje Cho",
+      "type": "Author"
+    },
+    {
+      "name": "Pierre Christian",
+      "type": "Author"
+    },
+    {
+      "name": "John E. Conway",
+      "type": "Author"
+    },
+    {
+      "name": "Geoffrey B. Crew",
+      "type": "Author"
+    },
+    {
+      "name": "Yuzhu Cui",
+      "type": "Author"
+    },
+    {
+      "name": "Jordy Davelaar",
+      "type": "Author"
+    },
+    {
+      "name": "Mariafelicia De Laurentis",
+      "type": "Author"
+    },
+    {
+      "name": "Roger Deane",
+      "type": "Author"
+    },
+    {
+      "name": "Jessica Dempsey",
+      "type": "Author"
+    },
+    {
+      "name": "Gregory Desvignes",
+      "type": "Author"
+    },
+    {
+      "name": "Jason Dexter",
+      "type": "Author"
+    },
+    {
+      "name": "Sheperd S. Doeleman",
+      "type": "Author"
+    },
+    {
+      "name": "Ralph P. Eatough",
+      "type": "Author"
+    },
+    {
+      "name": "Heino Falcke",
+      "type": "Author"
+    },
+    {
+      "name": "Max Planck Society",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Geográﬁco Nacional",
+      "type": "Institution"
+    },
+    {
+      "name": "Steward Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Arizona",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Institute of Cosmological Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Chicago",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Xilinx Incorporated",
+      "type": "Institution"
+    },
+    {
+      "name": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "Institution"
+    },
+    {
+      "name": "T4Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsemi",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Jordy Davelaar",
+      "type": "Author"
+    },
+    {
+      "name": "Mariafelicia De Laurentis",
+      "type": "Author"
+    },
+    {
+      "name": "Roger Deane",
+      "type": "Author"
+    },
+    {
+      "name": "Jessica Dempsey",
+      "type": "Author"
+    },
+    {
+      "name": "Gregory Desvignes",
+      "type": "Author"
+    },
+    {
+      "name": "Jason Dexter",
+      "type": "Author"
+    },
+    {
+      "name": "Sheperd S. Doeleman",
+      "type": "Author"
+    },
+    {
+      "name": "Ralph P. Eatough",
+      "type": "Author"
+    },
+    {
+      "name": "Heino Falcke",
+      "type": "Author"
+    },
+    {
+      "name": "Vincent L. Fish",
+      "type": "Author"
+    },
+    {
+      "name": "Raquel Fraga-Encinas",
+      "type": "Author"
+    },
+    {
+      "name": "José L. Gómez",
+      "type": "Author"
+    },
+    {
+      "name": "Peter Galison",
+      "type": "Author"
+    },
+    {
+      "name": "Charles F. Gammie",
+      "type": "Author"
+    },
+    {
+      "name": "Boris Georgiev",
+      "type": "Author"
+    },
+    {
+      "name": "Roman Gold",
+      "type": "Author"
+    },
+    {
+      "name": "Minfeng Gu",
+      "type": "Author"
+    },
+    {
+      "name": "Mark Gurwell",
+      "type": "Author"
+    },
+    {
+      "name": "Kazuhiro Hada",
+      "type": "Author"
+    },
+    {
+      "name": "Ronald Hesper",
+      "type": "Author"
+    },
+    {
+      "name": "Luis C. Ho",
+      "type": "Author"
+    },
+    {
+      "name": "Mareki Honma",
+      "type": "Author"
+    },
+    {
+      "name": "Chih-Wei L. Huang",
+      "type": "Author"
+    },
+    {
+      "name": "Shiro Ikeda",
+      "type": "Author"
+    },
+    {
+      "name": "Sara Issaoun",
+      "type": "Author"
+    },
+    {
+      "name": "David J. James",
+      "type": "Author"
+    },
+    {
+      "name": "Michael Janssen",
+      "type": "Author"
+    },
+    {
+      "name": "Britton Jeter",
+      "type": "Author"
+    },
+    {
+      "name": "Wu Jiang",
+      "type": "Author"
+    },
+    {
+      "name": "Michael D. Johnson",
+      "type": "Author"
+    },
+    {
+      "name": "Svetlana Jorstad",
+      "type": "Author"
+    },
+    {
+      "name": "Taehyun Jung",
+      "type": "Author"
+    },
+    {
+      "name": "Mansour Karami",
+      "type": "Author"
+    },
+    {
+      "name": "Ramesh Karuppusamy",
+      "type": "Author"
+    },
+    {
+      "name": "Tomohisa Kawashima",
+      "type": "Author"
+    },
+    {
+      "name": "Garrett K. Keating",
+      "type": "Author"
+    },
+    {
+      "name": "Mark Kettenis",
+      "type": "Author"
+    },
+    {
+      "name": "Jae-Young Kim",
+      "type": "Author"
+    },
+    {
+      "name": "Junhan Kim",
+      "type": "Author"
+    },
+    {
+      "name": "Motoki Kino",
+      "type": "Author"
+    },
+    {
+      "name": "Jun Yi Koay",
+      "type": "Author"
+    },
+    {
+      "name": "Patrick M. Koch",
+      "type": "Author"
+    },
+    {
+      "name": "Shoko Koyama",
+      "type": "Author"
+    },
+    {
+      "name": "Michael Kramer",
+      "type": "Author"
+    },
+    {
+      "name": "Carsten Kramer",
+      "type": "Author"
+    },
+    {
+      "name": "Thomas P. Krichbaum",
+      "type": "Author"
+    },
+    {
+      "name": "Tod R. Lauer",
+      "type": "Author"
+    },
+    {
+      "name": "Sang-Sung Lee",
+      "type": "Author"
+    },
+    {
+      "name": "Yan-Rong Li",
+      "type": "Author"
+    },
+    {
+      "name": "Zhiyuan Li",
+      "type": "Author"
+    },
+    {
+      "name": "Michael Lindqvist",
+      "type": "Author"
+    },
+    {
+      "name": "Kuo Liu",
+      "type": "Author"
+    },
+    {
+      "name": "Elisabetta Liuzzo",
+      "type": "Author"
+    },
+    {
+      "name": "Laurent Loinard",
+      "type": "Author"
+    },
+    {
+      "name": "Ru-Sen Lu",
+      "type": "Author"
+    },
+    {
+      "name": "Nicholas R. MacDonald",
+      "type": "Author"
+    },
+    {
+      "name": "Jirong Mao",
+      "type": "Author"
+    },
+    {
+      "name": "Sera Markoff",
+      "type": "Author"
+    },
+    {
+      "name": "Daniel P. Marrone",
+      "type": "Author"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Alan P. Marscher",
+      "type": "Author"
+    },
+    {
+      "name": "Iván Martí-Vidal",
+      "type": "Author"
+    },
+    {
+      "name": "Lynn D. Matthews",
+      "type": "Author"
+    },
+    {
+      "name": "Lia Medeiros",
+      "type": "Author"
+    },
+    {
+      "name": "Karl M. Menten",
+      "type": "Author"
+    },
+    {
+      "name": "Yosuke Mizuno",
+      "type": "Author"
+    },
+    {
+      "name": "Izumi Mizuno",
+      "type": "Author"
+    },
+    {
+      "name": "James M. Moran",
+      "type": "Author"
+    },
+    {
+      "name": "Kotaro Moriyama",
+      "type": "Author"
+    },
+    {
+      "name": "Monika Moscibrodzka",
+      "type": "Author"
+    },
+    {
+      "name": "Cornelia Müller",
+      "type": "Author"
+    },
+    {
+      "name": "Hiroshi Nagai",
+      "type": "Author"
+    },
+    {
+      "name": "Neil M. Nagar",
+      "type": "Author"
+    },
+    {
+      "name": "Masanori Nakamura",
+      "type": "Author"
+    },
+    {
+      "name": "Ramesh Narayan",
+      "type": "Author"
+    },
+    {
+      "name": "Iniyan Natarajan",
+      "type": "Author"
+    },
+    {
+      "name": "Chunchong Ni",
+      "type": "Author"
+    },
+    {
+      "name": "Aristeidis Noutsos",
+      "type": "Author"
+    },
+    {
+      "name": "Héctor Olivares",
+      "type": "Author"
+    },
+    {
+      "name": "Gisela N. Ortiz-León",
+      "type": "Author"
+    },
+    {
+      "name": "Daniel C. M. Palumbo",
+      "type": "Author"
+    },
+    {
+      "name": "Ue-Li Pen",
+      "type": "Author"
+    },
+    {
+      "name": "Dominic W. Pesce",
+      "type": "Author"
+    },
+    {
+      "name": "Oliver Porth",
+      "type": "Author"
+    },
+    {
+      "name": "Ben Prather",
+      "type": "Author"
+    },
+    {
+      "name": "Jorge A. Preciado-López",
+      "type": "Author"
+    },
+    {
+      "name": "Hung-Yi Pu",
+      "type": "Author"
+    },
+    {
+      "name": "Venkatessh Ramakrishnan",
+      "type": "Author"
+    },
+    {
+      "name": "Ramprasad Rao",
+      "type": "Author"
+    },
+    {
+      "name": "Alexander W. Raymond",
+      "type": "Author"
+    },
+    {
+      "name": "Luciano Rezzolla",
+      "type": "Author"
+    },
+    {
+      "name": "Bart Ripperda",
+      "type": "Author"
+    },
+    {
+      "name": "Freek Roelofs",
+      "type": "Author"
+    },
+    {
+      "name": "Eduardo Ros",
+      "type": "Author"
+    },
+    {
+      "name": "Mel Rose",
+      "type": "Author"
+    },
+    {
+      "name": "Alan L. Roy",
+      "type": "Author"
+    },
+    {
+      "name": "Chet Ruszczyk",
+      "type": "Author"
+    },
+    {
+      "name": "Benjamin R. Ryan",
+      "type": "Author"
+    },
+    {
+      "name": "Kazi L. J. Rygl",
+      "type": "Author"
+    },
+    {
+      "name": "David Sánchez-Arguelles",
+      "type": "Author"
+    },
+    {
+      "name": "Mahito Sasada",
+      "type": "Author"
+    },
+    {
+      "name": "Tuomas Savolainen",
+      "type": "Author"
+    },
+    {
+      "name": "Lijing Shao",
+      "type": "Author"
+    },
+    {
+      "name": "Zhiqiang Shen",
+      "type": "Author"
+    },
+    {
+      "name": "Des Small",
+      "type": "Author"
+    },
+    {
+      "name": "Bong Won Sohn",
+      "type": "Author"
+    },
+    {
+      "name": "Jason SooHoo",
+      "type": "Author"
+    },
+    {
+      "name": "Fumie Tazaki",
+      "type": "Author"
+    },
+    {
+      "name": "Paul Tiede",
+      "type": "Author"
+    },
+    {
+      "name": "Remo P. J. Tilanus",
+      "type": "Author"
+    },
+    {
+      "name": "Michael Titus",
+      "type": "Author"
+    },
+    {
+      "name": "Kenji Toma",
+      "type": "Author"
+    },
+    {
+      "name": "Pablo Torne",
+      "type": "Author"
+    },
+    {
+      "name": "Sascha Trippe",
+      "type": "Author"
+    },
+    {
+      "name": "Ilse van Bemmel",
+      "type": "Author"
+    },
+    {
+      "name": "Huib Jan van Langevelde",
+      "type": "Author"
+    },
+    {
+      "name": "Daniel R. van Rossum",
+      "type": "Author"
+    },
+    {
+      "name": "John Wardle",
+      "type": "Author"
+    },
+    {
+      "name": "Jonathan Weintroub",
+      "type": "Author"
+    },
+    {
+      "name": "Norbert Wex",
+      "type": "Author"
+    },
+    {
+      "name": "Robert Wharton",
+      "type": "Author"
+    },
+    {
+      "name": "Maciek Wielgus",
+      "type": "Author"
+    },
+    {
+      "name": "George N. Wong",
+      "type": "Author"
+    },
+    {
+      "name": "Qingwen Wu",
+      "type": "Author"
+    },
+    {
+      "name": "Ken Young",
+      "type": "Author"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "The EHT Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Daniel R. van Rossum",
+      "type": "Author"
+    },
+    {
+      "name": "John Wardle",
+      "type": "Author"
+    },
+    {
+      "name": "Jonathan Weintroub",
+      "type": "Author"
+    },
+    {
+      "name": "Norbert Wex",
+      "type": "Author"
+    },
+    {
+      "name": "Robert Wharton",
+      "type": "Author"
+    },
+    {
+      "name": "Maciek Wielgus",
+      "type": "Author"
+    },
+    {
+      "name": "George N. Wong",
+      "type": "Author"
+    },
+    {
+      "name": "Qingwen Wu",
+      "type": "Author"
+    },
+    {
+      "name": "Ken Young",
+      "type": "Author"
+    },
+    {
+      "name": "André Young",
+      "type": "Author"
+    },
+    {
+      "name": "Ziri Younsi",
+      "type": "Author"
+    },
+    {
+      "name": "Feng Yuan",
+      "type": "Author"
+    },
+    {
+      "name": "J. Anton Zensus",
+      "type": "Author"
+    },
+    {
+      "name": "Guangyao Zhao",
+      "type": "Author"
+    },
+    {
+      "name": "Shan-Shan Zhao",
+      "type": "Author"
+    },
+    {
+      "name": "Juan-Carlos Algaba",
+      "type": "Author"
+    },
+    {
+      "name": "Jadyn Anczarski",
+      "type": "Author"
+    },
+    {
+      "name": "Uwe Bach",
+      "type": "Author"
+    },
+    {
+      "name": "Frederick K. Baganoff",
+      "type": "Author"
+    },
+    {
+      "name": "Bradford A. Benson",
+      "type": "Author"
+    },
+    {
+      "name": "Jay M. Blanchard",
+      "type": "Author"
+    },
+    {
+      "name": "Iain M. Coulson",
+      "type": "Author"
+    },
+    {
+      "name": "Thomas M. Crawford",
+      "type": "Author"
+    },
+    {
+      "name": "Sergio A. Dzib",
+      "type": "Author"
+    },
+    {
+      "name": "Andreas Eckart",
+      "type": "Author"
+    },
+    {
+      "name": "Wendeline B. Everett",
+      "type": "Author"
+    },
+    {
+      "name": "Joseph R. Farah",
+      "type": "Author"
+    },
+    {
+      "name": "Christopher H. Greer",
+      "type": "Author"
+    },
+    {
+      "name": "Daryl Haggard",
+      "type": "Author"
+    },
+    {
+      "name": "Nils W. Halverson",
+      "type": "Author"
+    },
+    {
+      "name": "Antonio Hernández-Gómez",
+      "type": "Author"
+    },
+    {
+      "name": "Rubén Herrero-Illana",
+      "type": "Author"
+    },
+    {
+      "name": "Atish Kamble",
+      "type": "Author"
+    },
+    {
+      "name": "Ryan Keisler",
+      "type": "Author"
+    },
+    {
+      "name": "Yusuke Kono",
+      "type": "Author"
+    },
+    {
+      "name": "Erik M. Leitch",
+      "type": "Author"
+    },
+    {
+      "name": "Kyle D. Massingill",
+      "type": "Author"
+    },
+    {
+      "name": "Hugo Messias",
+      "type": "Author"
+    },
+    {
+      "name": "Daniel Michalik",
+      "type": "Author"
+    },
+    {
+      "name": "Andrew Nadolski",
+      "type": "Author"
+    },
+    {
+      "name": "Joseph Neilsen",
+      "type": "Author"
+    },
+    {
+      "name": "Chi H. Nguyen",
+      "type": "Author"
+    },
+    {
+      "name": "Michael A. Nowak",
+      "type": "Author"
+    },
+    {
+      "name": "Harriet Parsons",
+      "type": "Author"
+    },
+    {
+      "name": "Scott N. Paine",
+      "type": "Author"
+    },
+    {
+      "name": "Rurik A. Primiani",
+      "type": "Author"
+    },
+    {
+      "name": "Alexandra S. Rahlin",
+      "type": "Author"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "Paper"
+    },
+    {
+      "name": "Pim Schellart",
+      "type": "Author"
+    },
+    {
+      "name": "Hotaka Shiokawa",
+      "type": "Author"
+    },
+    {
+      "name": "David R. Smith",
+      "type": "Author"
+    },
+    {
+      "name": "Anthony A. Stark",
+      "type": "Author"
+    },
+    {
+      "name": "Sjoerd T. Timmer",
+      "type": "Author"
+    },
+    {
+      "name": "Nathan Whitehorn",
+      "type": "Author"
+    },
+    {
+      "name": "Jan G. A. Wouterloot",
+      "type": "Author"
+    },
+    {
+      "name": "Melvin Wright",
+      "type": "Author"
+    },
+    {
+      "name": "Paul Yamaguchi",
+      "type": "Author"
+    },
+    {
+      "name": "Shuo Zhang",
+      "type": "Author"
+    },
+    {
+      "name": "Lucy Ziurys",
+      "type": "Author"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "The authors of the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "Used the Event Horizon Telescope to image the black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "very long baseline interferometry",
+      "type": "uses_method",
+      "description": "The observation technique used by the array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "general-relativistic magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "Simulations used to compare against images."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The galaxy observed in the study."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Resolved central compact radio source as an asymmetric bright emission ring.",
+      "type": "finds",
+      "description": "Identified the structure of the radio source."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Observed image consistent with expectations for a Kerr black hole shadow.",
+      "type": "finds",
+      "description": "Confirmed consistency with general relativity."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Derived a central black hole mass of 6.5 ± 0.7 × 109 solar masses.",
+      "type": "finds",
+      "description": "Estimated the mass of the black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper discusses the use of Very Long Baseline Interferometry to image black hole shadows."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Event Horizon Telescope",
+      "type": "proposes_method",
+      "description": "The paper details the establishment of the Event Horizon Telescope collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper utilizes data or observations related to the black hole M87*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "The paper utilizes data or observations related to the black hole Sagittarius A*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The observed projected diameter of the emission ring is proportional to the mass of the black hole",
+      "type": "finds",
+      "description": "The paper establishes the relationship between ring diameter and black hole mass."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Earth-diameter Very Long Baseline Interferometry baselines are required to resolve the shadows of M87* and Sagittarius A*",
+      "type": "finds",
+      "description": "The paper identifies the technical requirement to resolve the shadows of the specified black holes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Event Horizon Telescope collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The research utilized Very Long Baseline Interferometry for observations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper presents images and analysis of M87*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Detection of event-horizon-scale structures in M87* and Sgr A*",
+      "type": "finds",
+      "description": "The paper reports the detection of horizon-scale structures"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87* is coincident with the supermassive black hole",
+      "type": "finds",
+      "description": "The paper confirms the radio core location coincides with the supermassive black hole"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Limited baseline coverage",
+      "type": "has_limitation",
+      "description": "The authors state limited baseline coverage prevented earlier imaging of the black hole shadow"
+    },
+    {
+      "source": "Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "The authors wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry as an experimental technique."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "has_limitation",
+      "description": "Previous observations had limited baseline coverage, preventing black hole shadow imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper utilizes Very Long Baseline Interferometry to observe black holes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "increased noise in radio receiver electronics",
+      "type": "has_limitation",
+      "description": "The paper identifies noise in electronics as a challenge at shorter wavelengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "higher atmospheric opacity",
+      "type": "has_limitation",
+      "description": "The paper identifies atmospheric opacity as a challenge at shorter wavelengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "increased phase fluctuations caused by atmospheric turbulence",
+      "type": "has_limitation",
+      "description": "The paper identifies atmospheric turbulence as a challenge at shorter wavelengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "decreased efficiency and size of radio telescopes",
+      "type": "has_limitation",
+      "description": "The paper identifies telescope efficiency and size as challenges at shorter wavelengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "EHT array achieved 25 microarcsecond diffraction-limit resolution",
+      "type": "finds",
+      "description": "The array reached a resolution of approximately 25 microarcseconds."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "EHT sensitivity increased by a factor of 30",
+      "type": "finds",
+      "description": "The sensitivity of the array increased by a factor of 30."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper uses observational data of M87*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses observational data of the quasar 3C 279."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The global Very Long Baseline Interferometry array achieved a diffraction-limit resolution of approximately 25 microarcseconds.",
+      "type": "finds",
+      "description": "The paper reports the achieved resolution of the array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Observations were susceptible to atmospheric turbulence and array heterogeneity.",
+      "type": "has_limitation",
+      "description": "The paper acknowledges limitations due to atmospheric turbulence and array heterogeneity."
+    },
+    {
+      "source": "Massachusetts Institute of Technology Haystack Observatory",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "affiliated_with",
+      "description": "The institution provided facilities for the collaboration."
+    },
+    {
+      "source": "Max-Planck-Institut für Radioastronomie",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "affiliated_with",
+      "description": "The institution provided facilities for the collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "First Event Horizon Telescope science data release",
+      "type": "uses_dataset",
+      "description": "The paper uses the first Event Horizon Telescope science data release as its primary data set"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "fringe-fitting pipelines",
+      "type": "uses_method",
+      "description": "The paper uses fringe-fitting pipelines for data processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "network calibration",
+      "type": "uses_method",
+      "description": "The paper uses network calibration for amplitude refinement"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "self-calibration",
+      "type": "uses_method",
+      "description": "The paper uses self-calibration to fit station sensitivities and phases"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "visibility amplitude",
+      "type": "uses_metric",
+      "description": "The paper uses visibility amplitude as a metric for data analysis"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "visibility phase",
+      "type": "uses_metric",
+      "description": "The paper uses visibility phase as a metric for data analysis"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "finds",
+      "description": "The paper identifies properties of the M87* black hole shadow"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The visibility amplitudes resemble those of a thin ring",
+      "type": "finds",
+      "description": "The paper finds visibility amplitudes resemble a thin ring structure"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Highly nonzero measured closure phases indicate source asymmetry",
+      "type": "finds",
+      "description": "The paper finds evidence of source asymmetry from closure phases"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Visibility amplitudes on short baselines suggest flux density is resolved out",
+      "type": "has_limitation",
+      "description": "The paper states that flux is resolved out by the interferometer beam"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Highly nonzero closure phases indicate asymmetry in the source",
+      "type": "has_limitation",
+      "description": "The paper notes limitations regarding source asymmetry interpretation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper utilizes the CLEAN method for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper uses data from the black hole M87*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "visibility amplitudes",
+      "type": "uses_metric",
+      "description": "The paper analyzes visibility amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "visibility phases",
+      "type": "uses_metric",
+      "description": "The paper analyzes visibility phases."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_dataset",
+      "description": "Data collected using Atacama Large Millimeter/submillimeter Array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "uses_dataset",
+      "description": "Data collected using Atacama Pathfinder Experiment."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "James Clerk Maxwell Telescope",
+      "type": "uses_dataset",
+      "description": "Data collected using James Clerk Maxwell Telescope."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Submillimeter Array",
+      "type": "uses_dataset",
+      "description": "Data collected using Submillimeter Array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "spatial frequencies",
+      "type": "has_limitation",
+      "description": "The Event Horizon Telescope baselines sample a limited range of spatial frequencies."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "visibility phases",
+      "type": "has_limitation",
+      "description": "Measured visibilities lack absolute phase calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "visibility amplitudes",
+      "type": "has_limitation",
+      "description": "Visibility amplitudes can have large calibration uncertainties."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Regularized Maximum Likelihood",
+      "type": "uses_method",
+      "description": "The paper utilizes Regularized Maximum Likelihood for imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper mentions CLEAN as an imaging method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General-Relativistic Magnetohydrodynamics",
+      "type": "uses_method",
+      "description": "The paper uses General-Relativistic Magnetohydrodynamics for theoretical modeling."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper processes data regarding M87*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87* images reveal a ring of diameter approximately 38 to 44 microarcseconds",
+      "type": "finds",
+      "description": "The study identified a ring feature in initial reconstructions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Top-Set images showed an asymmetric ring with a diameter of approximately 40 microarcseconds",
+      "type": "finds",
+      "description": "Refined imaging pipelines identified an asymmetric ring."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Imaging parameters significantly affect the final image",
+      "type": "has_limitation",
+      "description": "The authors acknowledge that imaging parameters impact the final reconstructed images."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General-Relativistic Magnetohydrodynamics",
+      "type": "uses_method",
+      "description": "The paper uses General-Relativistic Magnetohydrodynamics simulations for modeling"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General-Relativistic Ray-Tracing",
+      "type": "uses_method",
+      "description": "The paper uses General-Relativistic Ray-Tracing codes"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Radiative-Transfer",
+      "type": "uses_method",
+      "description": "The paper uses Radiative-Transfer codes"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Image Library",
+      "type": "uses_dataset",
+      "description": "The paper uses a library of synthetic images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Simulation Library",
+      "type": "uses_dataset",
+      "description": "The paper uses a library of simulations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Brightness Temperature",
+      "type": "uses_metric",
+      "description": "The paper uses brightness temperature to describe image units"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "finds",
+      "description": "Simulations successfully model the appearance of M87*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Turbulent, hot, magnetized disk orbiting a Kerr black hole",
+      "type": "finds",
+      "description": "Simulations describe a turbulent, hot, magnetized disk orbiting a Kerr black hole"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Asymmetric emission ring",
+      "type": "finds",
+      "description": "Simulations predict an asymmetric emission ring"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamics",
+      "type": "uses_method",
+      "description": "Used to simulate magnetized accretion flows"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Radiative Transfer",
+      "type": "uses_method",
+      "description": "Used to generate synthetic images"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "dimensionless spin",
+      "type": "uses_metric",
+      "description": "Characterizes simulation parameters"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "net dimensionless magnetic flux",
+      "type": "uses_metric",
+      "description": "Characterizes simulation parameters"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "SANE accretion flows have smaller magnetic funnel opening angles than MAD flows",
+      "type": "finds",
+      "description": "Core finding regarding accretion flow properties"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses GRMHD simulations to describe physical scenarios."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Simulation Library",
+      "type": "uses_dataset",
+      "description": "The study generated physical scenarios using the Simulation Library."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Image Library",
+      "type": "uses_dataset",
+      "description": "The paper utilized the Image Library to generate model visibilities."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "Model visibilities were compared to measured Very Long Baseline Interferometry visibilities."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The observed image is produced by a magnetized accretion flow orbiting a black hole",
+      "type": "finds",
+      "description": "Observation consistent with magnetized accretion flow near event horizon."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The asymmetric ring is produced by gravitational lensing and relativistic beaming",
+      "type": "finds",
+      "description": "Identified physical origin of the asymmetric ring feature."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "North-south asymmetry in the emission ring is controlled by black hole spin",
+      "type": "finds",
+      "description": "Spin orientation can be deduced from north-south asymmetry."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "a* = -0.94 Magnetically Arrested Disk models produce insufficiently stable images",
+      "type": "has_limitation",
+      "description": "Specific model variants failed to produce statistically stable images."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "The authors wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "North–south asymmetry",
+      "type": "finds",
+      "description": "The north–south asymmetry is consistent with black hole spin pointing away from Earth."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Black hole spin orientation",
+      "type": "finds",
+      "description": "North-south asymmetry deduces black hole spin orientation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Models with a*=0",
+      "type": "has_limitation",
+      "description": "Models with a*=0 are disfavored by the jet power requirement."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Blandford–Znajek process",
+      "type": "uses_method",
+      "description": "mentions spin energy mechanisms akin to the process"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "uses simulations for image comparison and parameter estimation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "geometric crescent models",
+      "type": "proposes_method",
+      "description": "developed to compare directly to visibility data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Bayesian-inference algorithms",
+      "type": "uses_method",
+      "description": "used to fit geometric crescent models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Image Library",
+      "type": "uses_dataset",
+      "description": "used to generate visibility data for model calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "theoretical models processed through a simulation pipeline"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Asymmetric emission ring diameters of 43 ± 0.9 microarcseconds",
+      "type": "finds",
+      "description": "measured the best-fit diameters of the asymmetric ring"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Crescent models are statistically preferred over other geometric models",
+      "type": "finds",
+      "description": "statistical preference for crescent models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Recovered model parameters are consistent across algorithms",
+      "type": "finds",
+      "description": "consistency of model parameters across methodologies"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Stochastic nature of the emission in the accretion flow complicates parameter estimation",
+      "type": "has_limitation",
+      "description": "turbulent structure complicates the measurement of gravitational radius"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Authors of the paper"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "The paper uses these simulations for image library creation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry simulation pipeline",
+      "type": "uses_method",
+      "description": "The paper processes models through this pipeline"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "A single good fit does not imply that a model is preferred over others",
+      "type": "has_limitation",
+      "description": "Equally good fits can refer to radically different physical scenarios"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Regularized maximum likelihood",
+      "type": "uses_method",
+      "description": "The paper uses regularized maximum likelihood for image reconstruction"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper uses CLEAN for image reconstruction"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamic",
+      "type": "uses_method",
+      "description": "The paper uses General Relativistic Magnetohydrodynamic simulations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper uses data from M87*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87* black hole mass is 6.5 times 10 to the 9 solar masses",
+      "type": "finds",
+      "description": "The paper estimates the black hole mass in M87*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The null hypothesis of the Kerr metric has not been violated",
+      "type": "finds",
+      "description": "The measurement of the black hole mass supports the Kerr metric"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Emission ring circularity deviation is less than or equal to 10 percent",
+      "type": "finds",
+      "description": "The reconstructed images show high circularity"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87*",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from the black hole M87*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamics",
+      "type": "uses_method",
+      "description": "The paper uses these simulations for modeling"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper references these observations for spatial analysis"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Radio core size of M87* has remained stable at 1.3 mm",
+      "type": "finds",
+      "description": "Observation of stability in M87* core size"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Image is unlikely to be produced by a jet-feature",
+      "type": "finds",
+      "description": "Rejection of jet-feature as the source of the ring image"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Shadow can be produced by any compact object with unstable circular photon orbits",
+      "type": "finds",
+      "description": "Theoretical requirement for shadow formation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Difficult to rule out alternatives to black holes in General Relativity",
+      "type": "has_limitation",
+      "description": "Authors note the difficulty in distinguishing black holes from exotic compact objects"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Authors of the paper"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The Astrophysical Journal Letters",
+      "type": "affiliated_with",
+      "description": "Journal where the paper was published"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "geometric models",
+      "type": "uses_method",
+      "description": "Method used to calculate mass and systematic errors"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamic models",
+      "type": "uses_method",
+      "description": "Method used to calculate mass and systematic errors"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "image domain ring extraction",
+      "type": "uses_method",
+      "description": "Method used to calculate mass and systematic errors"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "mass",
+      "type": "uses_metric",
+      "description": "Metric calculated for the black hole"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "The exact value depends on the method used to extract d",
+      "type": "has_limitation",
+      "description": "Dependency of parameter d on extraction method"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Global Very Long Baseline Interferometry array",
+      "type": "uses_method",
+      "description": "The paper uses a global Very Long Baseline Interferometry array to image M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from the supermassive black hole candidate in M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Black hole size scales linearly with mass",
+      "type": "finds",
+      "description": "The paper confirms size scales linearly with mass over eight orders of magnitude."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Gravitational-wave observations cannot rely on repeated measurements of the same source",
+      "type": "has_limitation",
+      "description": "The authors identify a limitation regarding repeated measurements in gravitational-wave observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Kerr geometry",
+      "type": "uses_metric",
+      "description": "The paper uses the Kerr geometry to set constraints on deviations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Fundamental plane of black hole activity",
+      "type": "uses_metric",
+      "description": "The radio core in M87 is compared to the fundamental plane of black hole activity."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "The study utilized the Event Horizon Telescope array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The study utilized a global Very Long Baseline Interferometry array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "General Relativistic Magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "The study compared data with General Relativistic Magnetohydrodynamic simulations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The study imaged horizon-scale structures in M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Ring structure of 42 ± 3 μas diameter",
+      "type": "finds",
+      "description": "Observed a ring structure around the black hole"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Supermassive black hole mass estimate of 6.5 ± 0.7 × 10^9 solar masses",
+      "type": "finds",
+      "description": "Calculated the mass of the black hole in M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Clockwise rotation and spin direction of M87 black hole",
+      "type": "finds",
+      "description": "Determined the direction of rotation for the M87 black hole"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Scattering effects caused by the interstellar medium",
+      "type": "has_limitation",
+      "description": "Scattering effects impact observations of Sagittarius A*"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Authorship of the paper"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Academy of Finland",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Advanced European Network of E-infrastructures for Astronomy with the Square Kilometre Array",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "European Commission Framework Programme Horizon 2020",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Alexander von Humboldt Stiftung",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Black Hole Initiative at Harvard University",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "John Templeton Foundation",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "China Scholarship Council",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Comisión Nacional de Investigación Científica y Tecnológica",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Consejo Nacional de Ciencia y Tecnología",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "Perimeter Institute",
+      "type": "affiliated_with",
+      "description": "Supported by the organization"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "target": "Horizon shadow of supermassive black hole candidates are observable via electromagnetic waves",
+      "type": "finds",
+      "description": "Major finding of the study"
+    },
+    {
+      "source": "Onsala Space Observatory",
+      "target": "Swedish Research Council",
+      "type": "affiliated_with",
+      "description": "receives funding from"
+    },
+    {
+      "source": "Perimeter Institute for Theoretical Physics",
+      "target": "Government of Canada",
+      "type": "affiliated_with",
+      "description": "supported by"
+    },
+    {
+      "source": "Los Alamos National Laboratory",
+      "target": "Triad National Security, LLC",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "National Science Foundation",
+      "type": "affiliated_with",
+      "description": "facility of the"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "European Southern Observatory",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "Associated Universities, Inc.",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "National Astronomical Observatory of Japan",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "The author of the paper"
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "National Science Foundation",
+      "type": "affiliated_with",
+      "description": "Facility of the National Science Foundation"
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "Associated Universities Incorporated",
+      "type": "affiliated_with",
+      "description": "Operated by Associated Universities Incorporated"
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "Max-Planck-Institut für Radioastronomie",
+      "type": "affiliated_with",
+      "description": "Collaboration member"
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "European Southern Observatory",
+      "type": "affiliated_with",
+      "description": "Collaboration member"
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "Onsala Space Observatory",
+      "type": "affiliated_with",
+      "description": "Collaboration member"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Smithsonian Astrophysical Observatory",
+      "type": "affiliated_with",
+      "description": "Joint project partner"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "affiliated_with",
+      "description": "Joint project partner"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Smithsonian Institution",
+      "type": "affiliated_with",
+      "description": "Funded by the Smithsonian Institution"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Academia Sinica",
+      "type": "affiliated_with",
+      "description": "Funded by the Academia Sinica"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "East Asian Observatory",
+      "type": "affiliated_with",
+      "description": "Operated by the East Asian Observatory"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "National Astronomical Observatory of Japan",
+      "type": "affiliated_with",
+      "description": "Partner institution"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "affiliated_with",
+      "description": "Partner institution"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "Korea Astronomy and Space Science Institute",
+      "type": "affiliated_with",
+      "description": "Partner institution"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "Ministry of Finance of China",
+      "type": "affiliated_with",
+      "description": "Partner institution"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "Chinese Academy of Sciences",
+      "type": "affiliated_with",
+      "description": "Partner institution"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "Science and Technologies Facility Council",
+      "type": "affiliated_with",
+      "description": "Provides funding support"
+    },
+    {
+      "source": "Large Millimeter Telescope",
+      "target": "Instituto Nacional de Astrofísica, Óptica, y Electrónica",
+      "type": "affiliated_with",
+      "description": "Joint project partner"
+    },
+    {
+      "source": "Large Millimeter Telescope",
+      "target": "University of Massachusetts at Amherst",
+      "type": "affiliated_with",
+      "description": "Joint project partner"
+    },
+    {
+      "source": "Institut de Radioastronomie Millimétrique",
+      "target": "Centre National de la Recherche Scientifique",
+      "type": "affiliated_with",
+      "description": "Supported by the Centre National de la Recherche Scientifique"
+    },
+    {
+      "source": "Institut de Radioastronomie Millimétrique",
+      "target": "Max-Planck-Gesellschaft",
+      "type": "affiliated_with",
+      "description": "Supported by the Max-Planck-Gesellschaft"
+    },
+    {
+      "source": "Kazunori Akiyama",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Antxon Alberdi",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Rebecca Azulay",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Anne-Kathrin Baczko",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mislav Baloković",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "John Barrett",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lindy Blackburn",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Katherine L. Bouman",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Geoffrey C. Bower",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Christiaan D. Brinkerink",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Roger Brissenden",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Silke Britzen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Avery E. Broderick",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Do-Young Byun",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Andrew Chael",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Chi-kwan Chan",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Shami Chatterjee",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ilje Cho",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Pierre Christian",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "John E. Conway",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Geoffrey B. Crew",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Yuzhu Cui",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jordy Davelaar",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mariafelicia De Laurentis",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Roger Deane",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jessica Dempsey",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Gregory Desvignes",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jason Dexter",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sheperd S. Doeleman",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ralph P. Eatough",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Heino Falcke",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jordy Davelaar",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mariafelicia De Laurentis",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Roger Deane",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jessica Dempsey",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Gregory Desvignes",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jason Dexter",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sheperd S. Doeleman",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ralph P. Eatough",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Heino Falcke",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Vincent L. Fish",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Raquel Fraga-Encinas",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "José L. Gómez",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Peter Galison",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Charles F. Gammie",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Boris Georgiev",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Roman Gold",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Minfeng Gu",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mark Gurwell",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Kazuhiro Hada",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ronald Hesper",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Luis C. Ho",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mareki Honma",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Chih-Wei L. Huang",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Shiro Ikeda",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sara Issaoun",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "David J. James",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Michael Janssen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Britton Jeter",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Wu Jiang",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Michael D. Johnson",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Svetlana Jorstad",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Taehyun Jung",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mansour Karami",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ramesh Karuppusamy",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Tomohisa Kawashima",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Garrett K. Keating",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mark Kettenis",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jae-Young Kim",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Junhan Kim",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Motoki Kino",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jun Yi Koay",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Patrick M. Koch",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Shoko Koyama",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Michael Kramer",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Carsten Kramer",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Thomas P. Krichbaum",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Tod R. Lauer",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sang-Sung Lee",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Yan-Rong Li",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Zhiyuan Li",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Michael Lindqvist",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Kuo Liu",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Elisabetta Liuzzo",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Laurent Loinard",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ru-Sen Lu",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Nicholas R. MacDonald",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jirong Mao",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sera Markoff",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daniel P. Marrone",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Alan P. Marscher",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Iván Martí-Vidal",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lynn D. Matthews",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lia Medeiros",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Karl M. Menten",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Yosuke Mizuno",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Izumi Mizuno",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "James M. Moran",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Kotaro Moriyama",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Monika Moscibrodzka",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Cornelia Müller",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Hiroshi Nagai",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Neil M. Nagar",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Masanori Nakamura",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ramesh Narayan",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Iniyan Natarajan",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Chunchong Ni",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Aristeidis Noutsos",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Héctor Olivares",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Gisela N. Ortiz-León",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daniel C. M. Palumbo",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ue-Li Pen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Dominic W. Pesce",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Oliver Porth",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ben Prather",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jorge A. Preciado-López",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Hung-Yi Pu",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Venkatessh Ramakrishnan",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ramprasad Rao",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Alexander W. Raymond",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Luciano Rezzolla",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Bart Ripperda",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Freek Roelofs",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Eduardo Ros",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mel Rose",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Alan L. Roy",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Chet Ruszczyk",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Benjamin R. Ryan",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Kazi L. J. Rygl",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "David Sánchez-Arguelles",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Mahito Sasada",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Tuomas Savolainen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lijing Shao",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Zhiqiang Shen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Des Small",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Bong Won Sohn",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jason SooHoo",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Fumie Tazaki",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Paul Tiede",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Remo P. J. Tilanus",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Michael Titus",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Kenji Toma",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Pablo Torne",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sascha Trippe",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ilse van Bemmel",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Huib Jan van Langevelde",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daniel R. van Rossum",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "John Wardle",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jonathan Weintroub",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Norbert Wex",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Robert Wharton",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Maciek Wielgus",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "George N. Wong",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Qingwen Wu",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ken Young",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daniel R. van Rossum",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "John Wardle",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jonathan Weintroub",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Norbert Wex",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Robert Wharton",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Maciek Wielgus",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "George N. Wong",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Qingwen Wu",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ken Young",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "André Young",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ziri Younsi",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Feng Yuan",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "J. Anton Zensus",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Guangyao Zhao",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Shan-Shan Zhao",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Juan-Carlos Algaba",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jadyn Anczarski",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Uwe Bach",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Frederick K. Baganoff",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Bradford A. Benson",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jay M. Blanchard",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Iain M. Coulson",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Thomas M. Crawford",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sergio A. Dzib",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Andreas Eckart",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Wendeline B. Everett",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Joseph R. Farah",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Christopher H. Greer",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daryl Haggard",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Nils W. Halverson",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Antonio Hernández-Gómez",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Rubén Herrero-Illana",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Atish Kamble",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ryan Keisler",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Yusuke Kono",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Erik M. Leitch",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Kyle D. Massingill",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Hugo Messias",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daniel Michalik",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Andrew Nadolski",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Joseph Neilsen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Chi H. Nguyen",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Michael A. Nowak",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Harriet Parsons",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Scott N. Paine",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Rurik A. Primiani",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Alexandra S. Rahlin",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Pim Schellart",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Hotaka Shiokawa",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "David R. Smith",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Anthony A. Stark",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Sjoerd T. Timmer",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Nathan Whitehorn",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Jan G. A. Wouterloot",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Melvin Wright",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Paul Yamaguchi",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Shuo Zhang",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lucy Ziurys",
+      "target": "First Event Horizon Telescope Results. Shadow Supermassive Black",
+      "type": "written_by",
+      "description": "Author of the paper"
+    }
+  ]
+}

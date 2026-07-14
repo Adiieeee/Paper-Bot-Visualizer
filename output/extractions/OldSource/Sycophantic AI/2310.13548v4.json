@@ -1,0 +1,1523 @@
+{
+  "file_path": "papers\\2310.13548v4.pdf",
+  "file_name": "2310.13548v4.pdf",
+  "title": "arXiv:2310.13548v4 [cs.CL] 10 May 2025",
+  "year": "2021",
+  "total_pages": 35,
+  "total_chunks": 19,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "Towards Understanding Sycophancy in Language Models",
+      "type": "Paper"
+    },
+    {
+      "name": "Mrinank Sharma",
+      "type": "Author"
+    },
+    {
+      "name": "Meg Tong",
+      "type": "Author"
+    },
+    {
+      "name": "Tomasz Korbak",
+      "type": "Author"
+    },
+    {
+      "name": "David Duvenaud",
+      "type": "Author"
+    },
+    {
+      "name": "Amanda Askell",
+      "type": "Author"
+    },
+    {
+      "name": "Samuel R. Bowman",
+      "type": "Author"
+    },
+    {
+      "name": "Newton Cheng",
+      "type": "Author"
+    },
+    {
+      "name": "Esin Durmus",
+      "type": "Author"
+    },
+    {
+      "name": "Zac Hatfield-Dodds",
+      "type": "Author"
+    },
+    {
+      "name": "Scott R. Johnston",
+      "type": "Author"
+    },
+    {
+      "name": "Shauna Kravec",
+      "type": "Author"
+    },
+    {
+      "name": "Timothy Maxwell",
+      "type": "Author"
+    },
+    {
+      "name": "Sam McCandlish",
+      "type": "Author"
+    },
+    {
+      "name": "Kamal Ndousse",
+      "type": "Author"
+    },
+    {
+      "name": "Oliver Rausch",
+      "type": "Author"
+    },
+    {
+      "name": "Nicholas Schiefer",
+      "type": "Author"
+    },
+    {
+      "name": "Da Yan",
+      "type": "Author"
+    },
+    {
+      "name": "Miranda Zhang",
+      "type": "Author"
+    },
+    {
+      "name": "Ethan Perez",
+      "type": "Author"
+    },
+    {
+      "name": "Reinforcement Learning from Human Feedback",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants exhibit sycophancy across varied free-form text-generation tasks",
+      "type": "Finding"
+    },
+    {
+      "name": "Human preference judgments favor sycophantic responses over correct ones",
+      "type": "Finding"
+    },
+    {
+      "name": "Optimizing model outputs against preference models sacrifices truthfulness",
+      "type": "Finding"
+    },
+    {
+      "name": "Mrinank Sharma",
+      "type": "Author"
+    },
+    {
+      "name": "Meg Tong",
+      "type": "Author"
+    },
+    {
+      "name": "Tomasz Korbak",
+      "type": "Author"
+    },
+    {
+      "name": "Anthropic",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Oxford",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Sussex",
+      "type": "Institution"
+    },
+    {
+      "name": "FAR AI",
+      "type": "Institution"
+    },
+    {
+      "name": "Human feedback",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "hh-rlhf",
+      "type": "Dataset"
+    },
+    {
+      "name": "Bayesian logistic regression",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 2",
+      "type": "Method"
+    },
+    {
+      "name": "Reinforcement learning",
+      "type": "Method"
+    },
+    {
+      "name": "Best-of-N sampling",
+      "type": "Method"
+    },
+    {
+      "name": "Supervised finetuning",
+      "type": "Method"
+    },
+    {
+      "name": "Reinforcement learning from human feedback",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Optimizing human preferences may lead to sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Preference models prefer less truthful sycophantic responses",
+      "type": "Finding"
+    },
+    {
+      "name": "Humans and preference models do not reliably prefer truthful responses",
+      "type": "Finding"
+    },
+    {
+      "name": "Anthropic",
+      "type": "Institution"
+    },
+    {
+      "name": "OpenAI",
+      "type": "Institution"
+    },
+    {
+      "name": "Meta",
+      "type": "Institution"
+    },
+    {
+      "name": "Reinforcement Learning",
+      "type": "Method"
+    },
+    {
+      "name": "Supervised Finetuning",
+      "type": "Method"
+    },
+    {
+      "name": "SycophancyEval",
+      "type": "Method"
+    },
+    {
+      "name": "claude-1.3",
+      "type": "Method"
+    },
+    {
+      "name": "claude-2.0",
+      "type": "Method"
+    },
+    {
+      "name": "gpt-3.5-turbo",
+      "type": "Method"
+    },
+    {
+      "name": "gpt-4",
+      "type": "Method"
+    },
+    {
+      "name": "llama-2-70b-chat",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 2",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 1.3",
+      "type": "Method"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 3.5",
+      "type": "Method"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model Meta AI 2",
+      "type": "Method"
+    },
+    {
+      "name": "MATH",
+      "type": "Dataset"
+    },
+    {
+      "name": "Feedback positivity",
+      "type": "Metric"
+    },
+    {
+      "name": "Feedback sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "AI assistants consistently tailor feedback to match user preferences",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants provide more positive feedback when users state they like the text",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants provide more negative feedback when users state they dislike the text",
+      "type": "Finding"
+    },
+    {
+      "name": "Massive Multitask Language Understanding",
+      "type": "Dataset"
+    },
+    {
+      "name": "Mathematics",
+      "type": "Dataset"
+    },
+    {
+      "name": "Algebra Question Answering",
+      "type": "Dataset"
+    },
+    {
+      "name": "Truthful Question Answering",
+      "type": "Dataset"
+    },
+    {
+      "name": "Trivia Question Answering",
+      "type": "Dataset"
+    },
+    {
+      "name": "Chain-of-thought reasoning",
+      "type": "Method"
+    },
+    {
+      "name": "AI assistants modify their answers when challenged even when initially correct and confident",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistant feedback on text is affected by user preferences",
+      "type": "Finding"
+    },
+    {
+      "name": "MMLU",
+      "type": "Dataset"
+    },
+    {
+      "name": "MATH",
+      "type": "Dataset"
+    },
+    {
+      "name": "AQuA",
+      "type": "Dataset"
+    },
+    {
+      "name": "TruthfulQA",
+      "type": "Dataset"
+    },
+    {
+      "name": "TriviaQA",
+      "type": "Dataset"
+    },
+    {
+      "name": "AI assistants sometimes provide incorrect, sycophantic responses when challenged.",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants provide answers that agree with user beliefs, reducing accuracy.",
+      "type": "Finding"
+    },
+    {
+      "name": "Claude 1.3 wrongly admits mistakes on 98% of questions.",
+      "type": "Finding"
+    },
+    {
+      "name": "Answer sycophancy metric",
+      "type": "Metric"
+    },
+    {
+      "name": "Models cannot be relied upon to provide accurate information when challenged by users.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Large Language Model Meta AI 2",
+      "type": "Method"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4",
+      "type": "Method"
+    },
+    {
+      "name": "answer sycophancy metric",
+      "type": "Metric"
+    },
+    {
+      "name": "User suggesting an incorrect answer can reduce accuracy by up to 27 percent",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants tend to modify answers to agree with user beliefs",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants frequently repeat incorrect poet attributions provided by users",
+      "type": "Finding"
+    },
+    {
+      "name": "TruthfulQA",
+      "type": "Dataset"
+    },
+    {
+      "name": "TriviaQA",
+      "type": "Dataset"
+    },
+    {
+      "name": "Answer Sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Mimicry Sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "AI assistants tend to modify their beliefs to agree with the user",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants frequently do not correct user mistakes and repeat incorrect attributions",
+      "type": "Finding"
+    },
+    {
+      "name": "Drop in accuracy when AI assistants conform to user beliefs",
+      "type": "Limitation"
+    },
+    {
+      "name": "mimicry sycophancy metric",
+      "type": "Metric"
+    },
+    {
+      "name": "AI assistants",
+      "type": "Method"
+    },
+    {
+      "name": "preference models",
+      "type": "Method"
+    },
+    {
+      "name": "human preference data",
+      "type": "Dataset"
+    },
+    {
+      "name": "AI assistants frequently provide responses that incorrectly attribute poems to user-suggested poets",
+      "type": "Finding"
+    },
+    {
+      "name": "AI assistants sometimes do not correct incorrect user claims and cohere with beliefs",
+      "type": "Finding"
+    },
+    {
+      "name": "human feedback contributes to sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Bayesian logistic regression",
+      "type": "Method"
+    },
+    {
+      "name": "Anthropic",
+      "type": "Institution"
+    },
+    {
+      "name": "Helpfulness helper-local reinforcement learning from human feedback",
+      "type": "Dataset"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4",
+      "type": "Method"
+    },
+    {
+      "name": "No-U-Turn Sampler",
+      "type": "Method"
+    },
+    {
+      "name": "Numpyro",
+      "type": "Method"
+    },
+    {
+      "name": "Markov Chain Monte Carlo",
+      "type": "Method"
+    },
+    {
+      "name": "Holdout accuracy",
+      "type": "Metric"
+    },
+    {
+      "name": "The helpfulness preference data incentivizes responses that match user beliefs",
+      "type": "Finding"
+    },
+    {
+      "name": "The preference model incentivizes truthful responses",
+      "type": "Finding"
+    },
+    {
+      "name": "Claude 2 Preference Model",
+      "type": "Method"
+    },
+    {
+      "name": "Human preferences",
+      "type": "Metric"
+    },
+    {
+      "name": "Matching user beliefs biases and preferences increases probability of human preference",
+      "type": "Finding"
+    },
+    {
+      "name": "Preference models incentivize truthful responses",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophancy increases probability of human preference",
+      "type": "Finding"
+    },
+    {
+      "name": "Collinearity between explicit and implicit user belief matching features",
+      "type": "Limitation"
+    },
+    {
+      "name": "Claude 2",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 1.3",
+      "type": "Method"
+    },
+    {
+      "name": "Best-of-N sampling",
+      "type": "Method"
+    },
+    {
+      "name": "Reinforcement learning",
+      "type": "Method"
+    },
+    {
+      "name": "Preference model",
+      "type": "Method"
+    },
+    {
+      "name": "Arguments dataset",
+      "type": "Dataset"
+    },
+    {
+      "name": "Feedback sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Answer sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Mimicry sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Optimizing against Claude 2 preference model yields more sycophantic responses than non-sycophantic preference models",
+      "type": "Finding"
+    },
+    {
+      "name": "Feedback and mimicry sycophancy increase during reinforcement learning finetuning",
+      "type": "Finding"
+    },
+    {
+      "name": "Claude 2 preference model sometimes prefers sycophantic responses over truthful ones",
+      "type": "Finding"
+    },
+    {
+      "name": "Effects of optimizing against preference models depend on optimization approach details",
+      "type": "Limitation"
+    },
+    {
+      "name": "TruthfulQA",
+      "type": "Dataset"
+    },
+    {
+      "name": "Maintenance Phase",
+      "type": "Dataset"
+    },
+    {
+      "name": "GPT-4",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 2",
+      "type": "Method"
+    },
+    {
+      "name": "Humans and preference models prefer sycophantic responses over truthful ones occasionally.",
+      "type": "Finding"
+    },
+    {
+      "name": "The dataset is an initial proof-of-concept rather than a definitive evaluation.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Claude 2 Preference Model",
+      "type": "Method"
+    },
+    {
+      "name": "Best-of-N sampling",
+      "type": "Method"
+    },
+    {
+      "name": "Humans and Preference Models sometimes prefer sycophantic responses over truthful ones",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophantic responses are preferred over baseline truthful responses 95% of the time",
+      "type": "Finding"
+    },
+    {
+      "name": "Claude 2",
+      "type": "Method"
+    },
+    {
+      "name": "Preference Model",
+      "type": "Method"
+    },
+    {
+      "name": "PM scores",
+      "type": "Metric"
+    },
+    {
+      "name": "percentage of misconceptions",
+      "type": "Metric"
+    },
+    {
+      "name": "Claude 2 Preference Model prefers sycophantic responses over truthful ones 95 percent of the time",
+      "type": "Finding"
+    },
+    {
+      "name": "For challenging misconceptions, the Preference Model prefers sycophantic responses 45 percent of the time",
+      "type": "Finding"
+    },
+    {
+      "name": "Crowd-workers are not experts in domains where they provide oversight",
+      "type": "Limitation"
+    },
+    {
+      "name": "Claude 2 Preference Model",
+      "type": "Method"
+    },
+    {
+      "name": "Best-of-N sampling",
+      "type": "Method"
+    },
+    {
+      "name": "Claude 1.3",
+      "type": "Method"
+    },
+    {
+      "name": "Oracle Preference Model",
+      "type": "Method"
+    },
+    {
+      "name": "Reinforcement Learning from Human Feedback",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy",
+      "type": "Metric"
+    },
+    {
+      "name": "Truthfulness",
+      "type": "Metric"
+    },
+    {
+      "name": "Optimizing against Claude 2 Preference Model reduces sycophancy less than non-sycophantic or oracle Preference Models.",
+      "type": "Finding"
+    },
+    {
+      "name": "Humans reliably prefer truthful responses less at higher difficulty levels.",
+      "type": "Finding"
+    },
+    {
+      "name": "Human evaluators are imperfect and make mistakes due to limited time or bias.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Preference models are vulnerable to overoptimization.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Sycophancy",
+      "type": "Finding"
+    },
+    {
+      "name": "Synthetic data finetuning",
+      "type": "Method"
+    },
+    {
+      "name": "Activation steering",
+      "type": "Method"
+    },
+    {
+      "name": "Debate",
+      "type": "Method"
+    },
+    {
+      "name": "Human feedback data",
+      "type": "Dataset"
+    },
+    {
+      "name": "Human preference models favoring sycophantic responses",
+      "type": "Limitation"
+    },
+    {
+      "name": "Unaided non-expert human ratings",
+      "type": "Limitation"
+    },
+    {
+      "name": "Mrinank Sharma",
+      "type": "Author"
+    },
+    {
+      "name": "Meg Tong",
+      "type": "Author"
+    },
+    {
+      "name": "Tomasz Korbak",
+      "type": "Author"
+    },
+    {
+      "name": "David Duvenaud",
+      "type": "Author"
+    },
+    {
+      "name": "Ethan Perez",
+      "type": "Author"
+    },
+    {
+      "name": "Engineering and Physical Sciences Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Machine Alignment and Theory Scholars Program",
+      "type": "Institution"
+    },
+    {
+      "name": "OpenAI",
+      "type": "Institution"
+    },
+    {
+      "name": "Open Philanthropy",
+      "type": "Institution"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Mrinank Sharma",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Meg Tong",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Tomasz Korbak",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "David Duvenaud",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Amanda Askell",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Samuel R. Bowman",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Newton Cheng",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Esin Durmus",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Zac Hatfield-Dodds",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Scott R. Johnston",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Shauna Kravec",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Timothy Maxwell",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Sam McCandlish",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Kamal Ndousse",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Oliver Rausch",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Nicholas Schiefer",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Da Yan",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Miranda Zhang",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Ethan Perez",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Reinforcement Learning from Human Feedback",
+      "type": "uses_method",
+      "description": "Analyzes the impact of this training method"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "AI assistants exhibit sycophancy across varied free-form text-generation tasks",
+      "type": "finds",
+      "description": "Demonstrates consistent sycophancy"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Human preference judgments favor sycophantic responses over correct ones",
+      "type": "finds",
+      "description": "Identifies human preferences as a driver"
+    },
+    {
+      "source": "Towards Understanding Sycophancy in Language Models",
+      "target": "Optimizing model outputs against preference models sacrifices truthfulness",
+      "type": "finds",
+      "description": "Shows trade-off between truthfulness and sycophancy"
+    },
+    {
+      "source": "Mrinank Sharma",
+      "target": "Anthropic",
+      "type": "affiliated_with",
+      "description": "Author is affiliated with Anthropic"
+    },
+    {
+      "source": "Mrinank Sharma",
+      "target": "University of Oxford",
+      "type": "affiliated_with",
+      "description": "Author is affiliated with University of Oxford"
+    },
+    {
+      "source": "Meg Tong",
+      "target": "Anthropic",
+      "type": "affiliated_with",
+      "description": "Author is affiliated with Anthropic"
+    },
+    {
+      "source": "Tomasz Korbak",
+      "target": "University of Sussex",
+      "type": "affiliated_with",
+      "description": "Author is affiliated with University of Sussex"
+    },
+    {
+      "source": "Tomasz Korbak",
+      "target": "FAR AI",
+      "type": "affiliated_with",
+      "description": "Author is affiliated with FAR AI"
+    },
+    {
+      "source": "Human feedback",
+      "target": "Sycophancy",
+      "type": "finds",
+      "description": "Human feedback may contribute to sycophancy in models"
+    },
+    {
+      "source": "hh-rlhf",
+      "target": "Bayesian logistic regression",
+      "type": "uses_method",
+      "description": "Analyzing data using Bayesian logistic regression"
+    },
+    {
+      "source": "Claude 2",
+      "target": "Reinforcement learning",
+      "type": "uses_method",
+      "description": "Optimizing responses against the Claude 2 preference model using reinforcement learning"
+    },
+    {
+      "source": "Claude 2",
+      "target": "Best-of-N sampling",
+      "type": "uses_method",
+      "description": "Optimizing responses using best-of-N sampling with the Claude 2 preference model"
+    },
+    {
+      "source": "Reinforcement learning from human feedback",
+      "target": "Reinforcement learning",
+      "type": "uses_method",
+      "description": "Reinforcement learning from human feedback uses reinforcement learning to finetune assistants"
+    },
+    {
+      "source": "Reinforcement learning from human feedback",
+      "target": "Supervised finetuning",
+      "type": "uses_method",
+      "description": "The procedure to train an AI assistant usually includes supervised finetuning"
+    },
+    {
+      "source": "claude-1.3",
+      "target": "Anthropic",
+      "type": "affiliated_with",
+      "description": "claude-1.3 is an AI assistant released by Anthropic"
+    },
+    {
+      "source": "claude-2.0",
+      "target": "Anthropic",
+      "type": "affiliated_with",
+      "description": "claude-2.0 is an AI assistant released by Anthropic"
+    },
+    {
+      "source": "gpt-3.5-turbo",
+      "target": "OpenAI",
+      "type": "affiliated_with",
+      "description": "gpt-3.5-turbo is an AI assistant released by OpenAI"
+    },
+    {
+      "source": "gpt-4",
+      "target": "OpenAI",
+      "type": "affiliated_with",
+      "description": "gpt-4 is an AI assistant released by OpenAI"
+    },
+    {
+      "source": "llama-2-70b-chat",
+      "target": "Meta",
+      "type": "affiliated_with",
+      "description": "llama-2-70b-chat is an AI assistant released by Meta"
+    },
+    {
+      "source": "SycophancyEval",
+      "target": "claude-1.3",
+      "type": "uses_method",
+      "description": "SycophancyEval examines claude-1.3"
+    },
+    {
+      "source": "SycophancyEval",
+      "target": "claude-2.0",
+      "type": "uses_method",
+      "description": "SycophancyEval examines claude-2.0"
+    },
+    {
+      "source": "SycophancyEval",
+      "target": "gpt-3.5-turbo",
+      "type": "uses_method",
+      "description": "SycophancyEval examines gpt-3.5-turbo"
+    },
+    {
+      "source": "SycophancyEval",
+      "target": "gpt-4",
+      "type": "uses_method",
+      "description": "SycophancyEval examines gpt-4"
+    },
+    {
+      "source": "SycophancyEval",
+      "target": "llama-2-70b-chat",
+      "type": "uses_method",
+      "description": "SycophancyEval examines llama-2-70b-chat"
+    },
+    {
+      "source": "Claude 2",
+      "target": "Feedback positivity",
+      "type": "uses_metric",
+      "description": "Claude 2 performance measured by feedback positivity"
+    },
+    {
+      "source": "Claude 1.3",
+      "target": "Feedback positivity",
+      "type": "uses_metric",
+      "description": "Claude 1.3 performance measured by feedback positivity"
+    },
+    {
+      "source": "Generative Pre-trained Transformer 3.5",
+      "target": "Feedback positivity",
+      "type": "uses_metric",
+      "description": "Generative Pre-trained Transformer 3.5 performance measured by feedback positivity"
+    },
+    {
+      "source": "Generative Pre-trained Transformer 4",
+      "target": "Feedback positivity",
+      "type": "uses_metric",
+      "description": "Generative Pre-trained Transformer 4 performance measured by feedback positivity"
+    },
+    {
+      "source": "Large Language Model Meta AI 2",
+      "target": "Feedback positivity",
+      "type": "uses_metric",
+      "description": "Large Language Model Meta AI 2 performance measured by feedback positivity"
+    },
+    {
+      "source": "Claude 2",
+      "target": "MATH",
+      "type": "uses_dataset",
+      "description": "Claude 2 evaluated using MATH dataset"
+    },
+    {
+      "source": "AI assistants consistently tailor feedback to match user preferences",
+      "target": "Claude 2",
+      "type": "finds",
+      "description": "Study finds sycophancy in AI assistant behavior"
+    },
+    {
+      "source": "AI assistants provide more positive feedback when users state they like the text",
+      "target": "Claude 2",
+      "type": "finds",
+      "description": "AI assistants show bias toward user preferences"
+    },
+    {
+      "source": "AI assistants provide more negative feedback when users state they dislike the text",
+      "target": "Claude 2",
+      "type": "finds",
+      "description": "AI assistants show negative bias when user dislikes text"
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "Massive Multitask Language Understanding",
+      "type": "uses_dataset",
+      "description": "The paper measures accuracy using this dataset."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "Mathematics",
+      "type": "uses_dataset",
+      "description": "The paper measures accuracy using this dataset."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "Algebra Question Answering",
+      "type": "uses_dataset",
+      "description": "The paper measures accuracy using this dataset."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "Truthful Question Answering",
+      "type": "uses_dataset",
+      "description": "The paper measures accuracy using this dataset."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "Trivia Question Answering",
+      "type": "uses_dataset",
+      "description": "The paper measures accuracy using this dataset."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "Chain-of-thought reasoning",
+      "type": "uses_method",
+      "description": "The paper uses this reasoning method for multiple-choice question answering."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "AI assistants modify their answers when challenged even when initially correct and confident",
+      "type": "finds",
+      "description": "AI assistants are easily swayed when questioned."
+    },
+    {
+      "source": "arXiv:2310.13548v4",
+      "target": "AI assistant feedback on text is affected by user preferences",
+      "type": "finds",
+      "description": "Feedback depends on user-stated preferences rather than text content alone."
+    },
+    {
+      "source": "MMLU",
+      "target": "TruthfulQA",
+      "type": "compares",
+      "description": "subset of five QA datasets used for evaluation"
+    },
+    {
+      "source": "MATH",
+      "target": "TruthfulQA",
+      "type": "compares",
+      "description": "subset of five QA datasets used for evaluation"
+    },
+    {
+      "source": "AQuA",
+      "target": "TruthfulQA",
+      "type": "compares",
+      "description": "subset of five QA datasets used for evaluation"
+    },
+    {
+      "source": "TriviaQA",
+      "target": "TruthfulQA",
+      "type": "compares",
+      "description": "subset of five QA datasets used for evaluation"
+    },
+    {
+      "source": "Answer sycophancy metric",
+      "target": "TruthfulQA",
+      "type": "uses_metric",
+      "description": "metric used to measure impact of user beliefs on accuracy"
+    },
+    {
+      "source": "Answer sycophancy metric",
+      "target": "TriviaQA",
+      "type": "uses_metric",
+      "description": "metric used to measure impact of user beliefs on accuracy"
+    },
+    {
+      "source": "AI assistants sometimes provide incorrect, sycophantic responses when challenged.",
+      "target": "TruthfulQA",
+      "type": "finds",
+      "description": "observed behavior across datasets"
+    },
+    {
+      "source": "Models cannot be relied upon to provide accurate information when challenged by users.",
+      "target": "TruthfulQA",
+      "type": "has_limitation",
+      "description": "limitation regarding the reliability of assistant answers"
+    },
+    {
+      "source": "answer sycophancy metric",
+      "target": "Large Language Model Meta AI 2",
+      "type": "uses_metric",
+      "description": "The metric measures accuracy changes in the model"
+    },
+    {
+      "source": "answer sycophancy metric",
+      "target": "Generative Pre-trained Transformer 4",
+      "type": "uses_metric",
+      "description": "The metric measures accuracy changes in the model"
+    },
+    {
+      "source": "Large Language Model Meta AI 2",
+      "target": "User suggesting an incorrect answer can reduce accuracy by up to 27 percent",
+      "type": "finds",
+      "description": "Performance drop observed under user bias"
+    },
+    {
+      "source": "Generative Pre-trained Transformer 4",
+      "target": "AI assistants tend to modify answers to agree with user beliefs",
+      "type": "finds",
+      "description": "Model behavior exhibits sycophancy"
+    },
+    {
+      "source": "Generative Pre-trained Transformer 4",
+      "target": "AI assistants frequently repeat incorrect poet attributions provided by users",
+      "type": "finds",
+      "description": "Model mimics user mistakes"
+    },
+    {
+      "source": "TruthfulQA",
+      "target": "Answer Sycophancy",
+      "type": "uses_metric",
+      "description": "Used to measure answer sycophancy."
+    },
+    {
+      "source": "TriviaQA",
+      "target": "Answer Sycophancy",
+      "type": "uses_metric",
+      "description": "Used to measure answer sycophancy."
+    },
+    {
+      "source": "Mimicry Sycophancy",
+      "target": "AI assistants frequently do not correct user mistakes and repeat incorrect attributions",
+      "type": "finds",
+      "description": "Result of measuring mimicry sycophancy."
+    },
+    {
+      "source": "Answer Sycophancy",
+      "target": "AI assistants tend to modify their beliefs to agree with the user",
+      "type": "finds",
+      "description": "Result of measuring answer sycophancy."
+    },
+    {
+      "source": "AI assistants tend to modify their beliefs to agree with the user",
+      "target": "Drop in accuracy when AI assistants conform to user beliefs",
+      "type": "has_limitation",
+      "description": "Conformity to user beliefs leads to lower accuracy."
+    },
+    {
+      "source": "AI assistants",
+      "target": "mimicry sycophancy metric",
+      "type": "uses_metric",
+      "description": "The metric is used to measure sycophancy in AI assistants."
+    },
+    {
+      "source": "AI assistants",
+      "target": "human preference data",
+      "type": "uses_dataset",
+      "description": "AI assistants use human preference data in their finetuning procedure."
+    },
+    {
+      "source": "preference models",
+      "target": "human preference data",
+      "type": "uses_dataset",
+      "description": "Preference models are trained using human preference data."
+    },
+    {
+      "source": "AI assistants",
+      "target": "AI assistants frequently provide responses that incorrectly attribute poems to user-suggested poets",
+      "type": "finds",
+      "description": "AI assistants exhibit incorrect attribution behavior."
+    },
+    {
+      "source": "AI assistants",
+      "target": "AI assistants sometimes do not correct incorrect user claims and cohere with beliefs",
+      "type": "finds",
+      "description": "AI assistants show tendency to agree with user beliefs."
+    },
+    {
+      "source": "human feedback contributes to sycophancy",
+      "target": "AI assistants",
+      "type": "finds",
+      "description": "Human feedback is hypothesized to contribute to sycophantic behavior in assistants."
+    },
+    {
+      "source": "Bayesian logistic regression",
+      "target": "Helpfulness helper-local reinforcement learning from human feedback",
+      "type": "uses_dataset",
+      "description": "The model maps features from the dataset to human preferences."
+    },
+    {
+      "source": "Generative Pre-trained Transformer 4",
+      "target": "Helpfulness helper-local reinforcement learning from human feedback",
+      "type": "uses_dataset",
+      "description": "Used to analyze 15K pairs of model responses from the dataset."
+    },
+    {
+      "source": "No-U-Turn Sampler",
+      "target": "Markov Chain Monte Carlo",
+      "type": "uses_method",
+      "description": "The sampler is used to implement Markov Chain Monte Carlo chains."
+    },
+    {
+      "source": "Bayesian logistic regression",
+      "target": "Holdout accuracy",
+      "type": "uses_metric",
+      "description": "The model's performance is measured using holdout accuracy."
+    },
+    {
+      "source": "Bayesian logistic regression",
+      "target": "The helpfulness preference data incentivizes responses that match user beliefs",
+      "type": "finds",
+      "description": "Model results show data incentivizes matching user biases and beliefs."
+    },
+    {
+      "source": "Bayesian logistic regression",
+      "target": "The preference model incentivizes truthful responses",
+      "type": "finds",
+      "description": "Model results show the preference model incentivizes truthfulness."
+    },
+    {
+      "source": "Claude 2 Preference Model",
+      "target": "Human preferences",
+      "type": "uses_metric",
+      "description": "The preference model is evaluated based on human preferences."
+    },
+    {
+      "source": "Claude 2 Preference Model",
+      "target": "Sycophancy increases probability of human preference",
+      "type": "finds",
+      "description": "Analysis shows preference models incentivize sycophancy in model responses."
+    },
+    {
+      "source": "Claude 2 Preference Model",
+      "target": "Collinearity between explicit and implicit user belief matching features",
+      "type": "has_limitation",
+      "description": "Individual effects of features are unreliable due to pairwise posterior correlation."
+    },
+    {
+      "source": "Claude 2",
+      "target": "Preference model",
+      "type": "uses_method",
+      "description": "Claude 2 utilizes a preference model trained on human and artificial judgments"
+    },
+    {
+      "source": "Best-of-N sampling",
+      "target": "Preference model",
+      "type": "uses_method",
+      "description": "Best-of-N sampling optimizes against the preference model"
+    },
+    {
+      "source": "Claude 1.3",
+      "target": "Arguments dataset",
+      "type": "uses_dataset",
+      "description": "Claude 1.3 responses are evaluated on the arguments dataset"
+    },
+    {
+      "source": "Claude 1.3",
+      "target": "Feedback sycophancy",
+      "type": "uses_metric",
+      "description": "Feedback sycophancy measured using Claude 1.3 responses"
+    },
+    {
+      "source": "Claude 1.3",
+      "target": "Answer sycophancy",
+      "type": "uses_metric",
+      "description": "Answer sycophancy measured using Claude 1.3 responses"
+    },
+    {
+      "source": "Claude 1.3",
+      "target": "Mimicry sycophancy",
+      "type": "uses_metric",
+      "description": "Mimicry sycophancy measured using Claude 1.3 responses"
+    },
+    {
+      "source": "Best-of-N sampling",
+      "target": "Optimizing against Claude 2 preference model yields more sycophantic responses than non-sycophantic preference models",
+      "type": "finds",
+      "description": "Experiment compares Best-of-N results across different preference models"
+    },
+    {
+      "source": "Reinforcement learning",
+      "target": "Feedback and mimicry sycophancy increase during reinforcement learning finetuning",
+      "type": "finds",
+      "description": "Measurement of sycophancy metrics throughout reinforcement learning process"
+    },
+    {
+      "source": "Preference model",
+      "target": "Claude 2 preference model sometimes prefers sycophantic responses over truthful ones",
+      "type": "finds",
+      "description": "Observation regarding preference model behavior"
+    },
+    {
+      "source": "Claude 2",
+      "target": "Effects of optimizing against preference models depend on optimization approach details",
+      "type": "has_limitation",
+      "description": "Limitation regarding interaction between preference models and optimization algorithms"
+    },
+    {
+      "source": "Humans and preference models prefer sycophantic responses over truthful ones occasionally.",
+      "target": "TruthfulQA",
+      "type": "finds",
+      "description": "The finding is based on the analysis of misconceptions including those from TruthfulQA."
+    },
+    {
+      "source": "GPT-4",
+      "target": "TruthfulQA",
+      "type": "uses_method",
+      "description": "GPT-4 is used to generate misconceptions for the dataset."
+    },
+    {
+      "source": "Claude 2",
+      "target": "TruthfulQA",
+      "type": "uses_method",
+      "description": "Claude 2 is used to group misconceptions by difficulty levels."
+    },
+    {
+      "source": "TruthfulQA",
+      "target": "The dataset is an initial proof-of-concept rather than a definitive evaluation.",
+      "type": "has_limitation",
+      "description": "The authors state the dataset serves only as a proof-of-concept."
+    },
+    {
+      "source": "Claude 2 Preference Model",
+      "target": "Humans and Preference Models sometimes prefer sycophantic responses over truthful ones",
+      "type": "finds",
+      "description": "The study analyzes preferences using the Claude 2 Preference Model."
+    },
+    {
+      "source": "Best-of-N sampling",
+      "target": "Claude 2 Preference Model",
+      "type": "uses_method",
+      "description": "Best-of-N sampling is used with the Preference Model to select the best response."
+    },
+    {
+      "source": "Claude 2 Preference Model prefers sycophantic responses over truthful ones 95 percent of the time",
+      "target": "Claude 2",
+      "type": "finds",
+      "description": "The Preference Model favors sycophantic responses over baseline truthful responses."
+    },
+    {
+      "source": "For challenging misconceptions, the Preference Model prefers sycophantic responses 45 percent of the time",
+      "target": "Claude 2",
+      "type": "finds",
+      "description": "The Preference Model prefers sycophantic responses for challenging misconceptions nearly half the time."
+    },
+    {
+      "source": "Claude 2",
+      "target": "PM scores",
+      "type": "uses_metric",
+      "description": "The authors compute Preference Model scores to analyze response preferences."
+    },
+    {
+      "source": "Claude 2",
+      "target": "percentage of misconceptions",
+      "type": "uses_metric",
+      "description": "The authors report the percentage of misconceptions where sycophantic responses are preferred."
+    },
+    {
+      "source": "Crowd-workers are not experts in domains where they provide oversight",
+      "target": "Claude 2",
+      "type": "has_limitation",
+      "description": "The human evaluation mimics settings where crowd-workers lack domain expertise."
+    },
+    {
+      "source": "Best-of-N sampling",
+      "target": "Claude 2 Preference Model",
+      "type": "uses_method",
+      "description": "Best-of-N sampling uses the Claude 2 Preference Model to select responses."
+    },
+    {
+      "source": "Claude 1.3",
+      "target": "Best-of-N sampling",
+      "type": "uses_method",
+      "description": "Claude 1.3 generates responses for Best-of-N sampling."
+    },
+    {
+      "source": "Best-of-N sampling",
+      "target": "Optimizing against Claude 2 Preference Model reduces sycophancy less than non-sycophantic or oracle Preference Models.",
+      "type": "finds",
+      "description": "The study compares different models using Best-of-N sampling."
+    },
+    {
+      "source": "Best-of-N sampling",
+      "target": "Humans reliably prefer truthful responses less at higher difficulty levels.",
+      "type": "finds",
+      "description": "Human evaluation results show decreased reliability at higher difficulty."
+    },
+    {
+      "source": "Reinforcement Learning from Human Feedback",
+      "target": "Human evaluators are imperfect and make mistakes due to limited time or bias.",
+      "type": "has_limitation",
+      "description": "Learning from human feedback faces fundamental difficulties due to human evaluator flaws."
+    },
+    {
+      "source": "Claude 2 Preference Model",
+      "target": "Preference models are vulnerable to overoptimization.",
+      "type": "has_limitation",
+      "description": "Preference models used for optimization are susceptible to overoptimization."
+    },
+    {
+      "source": "Sycophancy",
+      "target": "Human preference models favoring sycophantic responses",
+      "type": "finds",
+      "description": "The paper finds that preference models favoring sycophantic responses drive sycophancy."
+    },
+    {
+      "source": "Synthetic data finetuning",
+      "target": "Sycophancy",
+      "type": "proposes_method",
+      "description": "Synthetic data finetuning is an approach for mitigating sycophancy."
+    },
+    {
+      "source": "Activation steering",
+      "target": "Sycophancy",
+      "type": "proposes_method",
+      "description": "Activation steering is an approach for mitigating sycophancy."
+    },
+    {
+      "source": "Debate",
+      "target": "Sycophancy",
+      "type": "proposes_method",
+      "description": "Debate is a scalable oversight approach for mitigating sycophancy."
+    },
+    {
+      "source": "Human feedback data",
+      "target": "Unaided non-expert human ratings",
+      "type": "has_limitation",
+      "description": "Human feedback data relies on unaided, non-expert human ratings which have limitations."
+    },
+    {
+      "source": "Mrinank Sharma",
+      "target": "Engineering and Physical Sciences Research Council",
+      "type": "affiliated_with",
+      "description": "supported by the Engineering and Physical Sciences Research Council Centre for Doctoral Training"
+    },
+    {
+      "source": "Meg Tong",
+      "target": "Machine Alignment and Theory Scholars Program",
+      "type": "affiliated_with",
+      "description": "funded by the Machine Alignment and Theory Scholars Program"
+    },
+    {
+      "source": "Mrinank Sharma",
+      "target": "arXiv:2310.13548v4",
+      "type": "written_by",
+      "description": "lead author"
+    },
+    {
+      "source": "Meg Tong",
+      "target": "arXiv:2310.13548v4",
+      "type": "written_by",
+      "description": "co-author"
+    },
+    {
+      "source": "Tomasz Korbak",
+      "target": "arXiv:2310.13548v4",
+      "type": "written_by",
+      "description": "co-author"
+    },
+    {
+      "source": "David Duvenaud",
+      "target": "arXiv:2310.13548v4",
+      "type": "written_by",
+      "description": "co-author"
+    },
+    {
+      "source": "Ethan Perez",
+      "target": "arXiv:2310.13548v4",
+      "type": "written_by",
+      "description": "co-author"
+    }
+  ]
+}

@@ -1,0 +1,1715 @@
+{
+  "file_path": "papers\\2502.10844v3.pdf",
+  "file_name": "2502.10844v3.pdf",
+  "title": "arXiv:2502.10844v3 [cs.HC] 2 Feb 2026",
+  "year": "2026",
+  "total_pages": 15,
+  "total_chunks": 28,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "University of Florida",
+      "type": "Institution"
+    },
+    {
+      "name": "Stony Brook University",
+      "type": "Institution"
+    },
+    {
+      "name": "2 × 2 between-subjects experiment",
+      "type": "Method"
+    },
+    {
+      "name": "Complimentary Large Language Models that adapted stance reduced perceived authenticity and trust",
+      "type": "Finding"
+    },
+    {
+      "name": "Neutral Large Language Models that adapted stance enhanced perceived authenticity and trust",
+      "type": "Finding"
+    },
+    {
+      "name": "Understanding of how users perceive sycophancy and its impact on trust remains lacking",
+      "type": "Limitation"
+    },
+    {
+      "name": "OpenAI",
+      "type": "Institution"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4o",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Optimization for short-term user satisfaction resulted in overly supportive but disingenuous responses",
+      "type": "Finding"
+    },
+    {
+      "name": "Understanding of how users perceive and interpret Large Language Models’ sycophantic behaviors remains significantly lacking",
+      "type": "Limitation"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Stance",
+      "type": "Metric"
+    },
+    {
+      "name": "Demeanor",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived Authenticity",
+      "type": "Metric"
+    },
+    {
+      "name": "User Trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Psychological Reactance",
+      "type": "Metric"
+    },
+    {
+      "name": "Social Presence",
+      "type": "Metric"
+    },
+    {
+      "name": "Finding: Users experience less psychological reactance when interacting with adaptive Large Language Models.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: Complimentary demeanor increases user trust by enhancing perceptions of social presence.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: Complimentary demeanor combined with opinion alignment reduces perceived authenticity and lowers trust.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: Neutral demeanor combined with opinion alignment increases perceived authenticity and user trust.",
+      "type": "Finding"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Computers Are Social Actors",
+      "type": "Method"
+    },
+    {
+      "name": "Large Language Model sycophancy impacts user trust",
+      "type": "Finding"
+    },
+    {
+      "name": "Conversational agents lack stable internal states compared to humans",
+      "type": "Limitation"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Psychological reactance theory",
+      "type": "Method"
+    },
+    {
+      "name": "User trust remains largely understudied regarding perception of Large Language Model sycophancy",
+      "type": "Limitation"
+    },
+    {
+      "name": "Users react defensively when faced with opposing viewpoints",
+      "type": "Finding"
+    },
+    {
+      "name": "Large Language Models shift stance to match user opinions in multi-turn interactions",
+      "type": "Finding"
+    },
+    {
+      "name": "Stance-adaptive Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Non-adaptive Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Psychological reactance",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived quality",
+      "type": "Metric"
+    },
+    {
+      "name": "User trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived authenticity",
+      "type": "Metric"
+    },
+    {
+      "name": "Social presence",
+      "type": "Metric"
+    },
+    {
+      "name": "Complimentary demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Neutral demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "conversational agents",
+      "type": "Method"
+    },
+    {
+      "name": "social presence",
+      "type": "Finding"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "2x2 between-subjects online experiment",
+      "type": "Method"
+    },
+    {
+      "name": "Institutional Review Board",
+      "type": "Institution"
+    },
+    {
+      "name": "CloudResearch",
+      "type": "Method"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4o",
+      "type": "Method"
+    },
+    {
+      "name": "Reinforcement Learning from Human Feedback",
+      "type": "Method"
+    },
+    {
+      "name": "Autonomous vehicles were selected as the study topic due to balanced opinion distribution.",
+      "type": "Finding"
+    },
+    {
+      "name": "Negative demeanor lacks ecological validity in current Large Language Model deployments.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "CloudResearch",
+      "type": "Dataset"
+    },
+    {
+      "name": "Climate change elicited predominantly positive responses",
+      "type": "Finding"
+    },
+    {
+      "name": "Artificial Intelligence in healthcare was viewed negatively",
+      "type": "Finding"
+    },
+    {
+      "name": "Social media was viewed negatively",
+      "type": "Finding"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Prolific Academic",
+      "type": "Dataset"
+    },
+    {
+      "name": "Qualtrics",
+      "type": "Method"
+    },
+    {
+      "name": "Analysis of Covariance",
+      "type": "Method"
+    },
+    {
+      "name": "Cronbach's Alpha",
+      "type": "Metric"
+    },
+    {
+      "name": "Cohen's Kappa",
+      "type": "Metric"
+    },
+    {
+      "name": "Adaptive stance condition is rated significantly higher than consistent stance condition.",
+      "type": "Finding"
+    },
+    {
+      "name": "Complimentary demeanor condition is rated significantly higher than neutral demeanor condition.",
+      "type": "Finding"
+    },
+    {
+      "name": "Chatbase",
+      "type": "Method"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4o",
+      "type": "Method"
+    },
+    {
+      "name": "Cohen’s Kappa",
+      "type": "Metric"
+    },
+    {
+      "name": "Qualtrics",
+      "type": "Method"
+    },
+    {
+      "name": "ChatGPT",
+      "type": "Method"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "ChatGPT",
+      "type": "Method"
+    },
+    {
+      "name": "Prolific Academic",
+      "type": "Dataset"
+    },
+    {
+      "name": "Qualtrics",
+      "type": "Method"
+    },
+    {
+      "name": "G*Power analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Randomization checks",
+      "type": "Method"
+    },
+    {
+      "name": "Statistical power",
+      "type": "Metric"
+    },
+    {
+      "name": "No significant differences between experimental conditions across demographic variables",
+      "type": "Finding"
+    },
+    {
+      "name": "Operationalization conflates neutrality with formality",
+      "type": "Limitation"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Psychological Reactance",
+      "type": "Method"
+    },
+    {
+      "name": "Affective response",
+      "type": "Metric"
+    },
+    {
+      "name": "Negative cognitive response",
+      "type": "Metric"
+    },
+    {
+      "name": "Social Presence",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived Authenticity",
+      "type": "Metric"
+    },
+    {
+      "name": "Cognitive Trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Affective Trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Behavioral Intention",
+      "type": "Metric"
+    },
+    {
+      "name": "Confirmatory Factor Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Average variance extracted",
+      "type": "Metric"
+    },
+    {
+      "name": "Randomization checks confirmed no significant differences between experimental conditions across demographic variables",
+      "type": "Finding"
+    },
+    {
+      "name": "Average variance extracted for mediating and dependent variables exceeded .50",
+      "type": "Finding"
+    },
+    {
+      "name": "Confirmatory Factor Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Average variance extracted",
+      "type": "Metric"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Adaptive Stance",
+      "type": "Method"
+    },
+    {
+      "name": "Consistent Stance",
+      "type": "Method"
+    },
+    {
+      "name": "Complimentary Demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Neutral Demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Two-way Analysis of Covariance",
+      "type": "Method"
+    },
+    {
+      "name": "Mediation Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Moderated Mediation Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Cronbach's alpha",
+      "type": "Metric"
+    },
+    {
+      "name": "Mean",
+      "type": "Metric"
+    },
+    {
+      "name": "Standard Deviation",
+      "type": "Metric"
+    },
+    {
+      "name": "Two-way Analysis of Covariance",
+      "type": "Method"
+    },
+    {
+      "name": "Mediation Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Moderated Mediation Analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Thematic Coding",
+      "type": "Method"
+    },
+    {
+      "name": "Cohen’s Kappa",
+      "type": "Metric"
+    },
+    {
+      "name": "Adaptive stance is perceived as significantly more adaptable than consistent stance.",
+      "type": "Finding"
+    },
+    {
+      "name": "Complimentary demeanor is perceived as significantly more complimentary than neutral demeanor.",
+      "type": "Finding"
+    },
+    {
+      "name": "Stance adaptation has a significant main effect on psychological reactance.",
+      "type": "Finding"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Psychological Reactance",
+      "type": "Metric"
+    },
+    {
+      "name": "Cognitive Trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Affective Trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Behavioral Intention",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived Authenticity",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived Social Presence",
+      "type": "Metric"
+    },
+    {
+      "name": "Adaptive Large Language Model stance reduces psychological reactance.",
+      "type": "Finding"
+    },
+    {
+      "name": "Complimentary demeanor increases perceived social presence.",
+      "type": "Finding"
+    },
+    {
+      "name": "Psychological reactance mediates the effect of stance adaptation on trust.",
+      "type": "Finding"
+    },
+    {
+      "name": "Social presence mediates the effect of conversational demeanor on trust.",
+      "type": "Finding"
+    },
+    {
+      "name": "Stance adaptation does not significantly affect perceived authenticity.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Perceived authenticity",
+      "type": "Metric"
+    },
+    {
+      "name": "Cognitive trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Affective trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Behavioral intention",
+      "type": "Metric"
+    },
+    {
+      "name": "Moderated mediation analysis",
+      "type": "Method"
+    },
+    {
+      "name": "Repeated measures Analysis of Covariance",
+      "type": "Method"
+    },
+    {
+      "name": "Conversational demeanor moderates stance adaptation effects on trust and behavioral intention through perceived authenticity.",
+      "type": "Finding"
+    },
+    {
+      "name": "Interaction with Large Language Model agents caused no significant overall attitude change toward autonomous vehicles.",
+      "type": "Finding"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Adaptive stance",
+      "type": "Method"
+    },
+    {
+      "name": "Consistent stance",
+      "type": "Method"
+    },
+    {
+      "name": "Complimentary demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Neutral demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Reinforcement rate",
+      "type": "Metric"
+    },
+    {
+      "name": "Average change",
+      "type": "Metric"
+    },
+    {
+      "name": "Adaptive stance with neutral demeanor most effectively reinforces users' existing beliefs.",
+      "type": "Finding"
+    },
+    {
+      "name": "Users misinterpret agent adaptation as genuine validation of their arguments.",
+      "type": "Finding"
+    },
+    {
+      "name": "Complimentary demeanor elicits feelings of personal connection and warmth in users.",
+      "type": "Finding"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Acknowledgment of viewpoints and a complimentary demeanor increases participant personal connection and warmth",
+      "type": "Finding"
+    },
+    {
+      "name": "Challenging participants with alternative viewpoints while acknowledging initial stance promotes user thinking",
+      "type": "Finding"
+    },
+    {
+      "name": "Overly agreeable behavior leads to participant skepticism and decreased trust",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophantic behaviors may undermine the agent’s credibility",
+      "type": "Limitation"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Psychological Reactance Theory",
+      "type": "Method"
+    },
+    {
+      "name": "Overly agreeable agents",
+      "type": "Method"
+    },
+    {
+      "name": "Stance adaptation",
+      "type": "Method"
+    },
+    {
+      "name": "Conversational demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Overly agreeable agents lead to low argument quality and lack of depth",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophancy reinforces existing beliefs and hinders critical thinking",
+      "type": "Finding"
+    },
+    {
+      "name": "Aligning with user opinions enhances trust by attenuating psychological reactance",
+      "type": "Finding"
+    },
+    {
+      "name": "Sycophancy can contribute to echo chambers and false information",
+      "type": "Finding"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Aligning with user opinions attenuates psychological reactance and enhances trust in Large Language Model agents",
+      "type": "Finding"
+    },
+    {
+      "name": "Complimentary demeanor enhances perceived social presence in Large Language Model agents",
+      "type": "Finding"
+    },
+    {
+      "name": "Trust formation depends on the perceived authenticity of agreement rather than just alignment",
+      "type": "Finding"
+    },
+    {
+      "name": "Neutral, adaptive agents are most effective at reinforcing users' initial beliefs",
+      "type": "Finding"
+    },
+    {
+      "name": "Significant misalignment between user trust and Artificial Intelligence system capabilities",
+      "type": "Limitation"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "User trust misalignment between perceived and actual system capabilities leads to reliance issues.",
+      "type": "Finding"
+    },
+    {
+      "name": "Social characteristics of Large Language Models can distort user trust beyond actual reliability.",
+      "type": "Finding"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Complimentary, consistent agents can enhance perceived authenticity.",
+      "type": "Finding"
+    },
+    {
+      "name": "Maximizing human-likeness is not always preferable for Large Language Model agents.",
+      "type": "Finding"
+    },
+    {
+      "name": "Cognitive biases such as social presence heuristic and reduced psychological reactance accelerate trust formation.",
+      "type": "Finding"
+    },
+    {
+      "name": "Unchecked sycophancy can reinforce existing misconceptions rather than provide objective information.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Wei et al.",
+      "type": "Method"
+    },
+    {
+      "name": "Panickssery et al.",
+      "type": "Method"
+    },
+    {
+      "name": "Sharma et al.",
+      "type": "Method"
+    },
+    {
+      "name": "Cognitive biases accelerate trust formation in human-Large Language Model interactions.",
+      "type": "Finding"
+    },
+    {
+      "name": "Consistent stances by agents improve meaningful attitude change.",
+      "type": "Finding"
+    },
+    {
+      "name": "Study topic of autonomous vehicles may limit generalizability to polarizing subjects.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Study focused only on positive and neutral demeanor, excluding negative demeanor.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Neutral demeanor operationalization potentially conflated neutrality with formality.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Experimental manipulations were more pronounced than typical Large Language Model interactions.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "type": "Paper"
+    },
+    {
+      "name": "Large Language Model",
+      "type": "Method"
+    },
+    {
+      "name": "Experimental manipulations created styles more pronounced than typical interactions, limiting ecological generalizability.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Non-standardized conversation length created a trade-off between ecological validity and experimental control.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Yuan Sun",
+      "type": "Author"
+    },
+    {
+      "name": "Ting Wang",
+      "type": "Author"
+    },
+    {
+      "name": "Stance adaptation",
+      "type": "Method"
+    },
+    {
+      "name": "Conversational demeanor",
+      "type": "Method"
+    },
+    {
+      "name": "Complimentary Large Language Models lose authenticity and trust when adapting stances",
+      "type": "Finding"
+    },
+    {
+      "name": "Neutral Large Language Models gain authenticity and trust through stance adaptation",
+      "type": "Finding"
+    },
+    {
+      "name": "No significant overall attitude change following user-agent interactions",
+      "type": "Finding"
+    },
+    {
+      "name": "Lacking understanding of how users perceive and respond to Large Language Model sycophancy",
+      "type": "Limitation"
+    },
+    {
+      "name": "Findings reflect mechanisms of conversational influence rather than large-scale persuasive effects",
+      "type": "Limitation"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Yuan Sun",
+      "type": "written_by",
+      "description": "Paper authored by Yuan Sun"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Ting Wang",
+      "type": "written_by",
+      "description": "Paper authored by Ting Wang"
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "University of Florida",
+      "type": "affiliated_with",
+      "description": "Yuan Sun is affiliated with University of Florida"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "Stony Brook University",
+      "type": "affiliated_with",
+      "description": "Ting Wang is affiliated with Stony Brook University"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "2 × 2 between-subjects experiment",
+      "type": "uses_method",
+      "description": "Paper used a 2 × 2 between-subjects experiment"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Complimentary Large Language Models that adapted stance reduced perceived authenticity and trust",
+      "type": "finds",
+      "description": "Finding regarding complimentary model behavior"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Neutral Large Language Models that adapted stance enhanced perceived authenticity and trust",
+      "type": "finds",
+      "description": "Finding regarding neutral model behavior"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Understanding of how users perceive sycophancy and its impact on trust remains lacking",
+      "type": "has_limitation",
+      "description": "Limitation regarding prior research on user perception of sycophancy"
+    },
+    {
+      "source": "OpenAI",
+      "target": "Generative Pre-trained Transformer 4o",
+      "type": "proposes_method",
+      "description": "OpenAI developed the Generative Pre-trained Transformer 4o system."
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Understanding of how users perceive and interpret Large Language Models’ sycophantic behaviors remains significantly lacking",
+      "type": "has_limitation",
+      "description": "Existing research lacks insight into user perception and interpretation of sycophantic behavior."
+    },
+    {
+      "source": "OpenAI",
+      "target": "Optimization for short-term user satisfaction resulted in overly supportive but disingenuous responses",
+      "type": "finds",
+      "description": "OpenAI identified that optimization for satisfaction led to disingenuous responses."
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Yuan Sun is an author of the paper."
+    },
+    {
+      "source": "Ting Wang",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Ting Wang is an author of the paper."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Finding: Users experience less psychological reactance when interacting with adaptive Large Language Models.",
+      "type": "finds",
+      "description": "The paper reports decreased psychological reactance with adaptive behavior."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Finding: Complimentary demeanor increases user trust by enhancing perceptions of social presence.",
+      "type": "finds",
+      "description": "The paper reports increased trust from complimentary demeanor."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Finding: Complimentary demeanor combined with opinion alignment reduces perceived authenticity and lowers trust.",
+      "type": "finds",
+      "description": "The paper reports a paradoxical reduction in trust with complimentary alignment."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Finding: Neutral demeanor combined with opinion alignment increases perceived authenticity and user trust.",
+      "type": "finds",
+      "description": "The paper reports increased trust with neutral alignment."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Large Language Model sycophancy impacts user trust",
+      "type": "finds",
+      "description": "The paper provides insights into how sycophancy impacts trust."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Conversational agents lack stable internal states compared to humans",
+      "type": "has_limitation",
+      "description": "The paper notes that agents lack stable internal states unlike humans."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Computers Are Social Actors",
+      "type": "builds_on",
+      "description": "The paper discusses the Computers Are Social Actors paradigm in the context of conversational agents."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Large Language Model",
+      "type": "uses_method",
+      "description": "The study examines Large Language Model sycophantic behaviors"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Psychological reactance theory",
+      "type": "uses_method",
+      "description": "The study draws on psychological reactance theory to examine stance adaptation"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "User trust remains largely understudied regarding perception of Large Language Model sycophancy",
+      "type": "has_limitation",
+      "description": "The authors identify a gap in understanding how users perceive sycophancy's impact on trust"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Users react defensively when faced with opposing viewpoints",
+      "type": "finds",
+      "description": "Users manifest defensive reactions to opposing information"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Large Language Models shift stance to match user opinions in multi-turn interactions",
+      "type": "finds",
+      "description": "Large Language Models exhibit contradictory responses by matching user opinions"
+    },
+    {
+      "source": "Stance-adaptive Large Language Model",
+      "target": "Psychological reactance",
+      "type": "finds",
+      "description": "Interacting with stance-adaptive Large Language Models leads to lower psychological reactance."
+    },
+    {
+      "source": "Psychological reactance",
+      "target": "User trust",
+      "type": "finds",
+      "description": "Psychological reactance mediates the effects of stance adaptation on user trust."
+    },
+    {
+      "source": "Stance-adaptive Large Language Model",
+      "target": "Perceived authenticity",
+      "type": "finds",
+      "description": "Adapting to user preferences may lower perceived authenticity."
+    },
+    {
+      "source": "Perceived authenticity",
+      "target": "User trust",
+      "type": "finds",
+      "description": "Perceived authenticity mediates the effects of stance adaptation on user trust."
+    },
+    {
+      "source": "conversational agents",
+      "target": "social presence",
+      "type": "finds",
+      "description": "Natural language engagement fosters social presence in users."
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Yuan Sun is an author of the paper."
+    },
+    {
+      "source": "Ting Wang",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Ting Wang is an author of the paper."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "2x2 between-subjects online experiment",
+      "type": "uses_method",
+      "description": "The study uses a 2x2 between-subjects online experiment."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Large Language Model",
+      "type": "uses_method",
+      "description": "The research investigates interactions with Large Language Models."
+    },
+    {
+      "source": "Generative Pre-trained Transformer 4o",
+      "target": "Reinforcement Learning from Human Feedback",
+      "type": "uses_method",
+      "description": "Generative Pre-trained Transformer 4o is designed using Reinforcement Learning from Human Feedback."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "CloudResearch",
+      "type": "uses_dataset",
+      "description": "The paper recruited participants through CloudResearch for a pretest."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Climate change elicited predominantly positive responses",
+      "type": "finds",
+      "description": "Climate change received 70% positive, 10% negative, and 20% neutral responses."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Artificial Intelligence in healthcare was viewed negatively",
+      "type": "finds",
+      "description": "Artificial Intelligence in healthcare received 25% positive, 60% negative, and 15% neutral responses."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Social media was viewed negatively",
+      "type": "finds",
+      "description": "Social media received 20% positive, 65% negative, and 15% neutral responses."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Prolific Academic",
+      "type": "uses_dataset",
+      "description": "Used for participant recruitment."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Qualtrics",
+      "type": "uses_method",
+      "description": "Used as the survey platform."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Analysis of Covariance",
+      "type": "uses_method",
+      "description": "Used to confirm manipulation success."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Cronbach's Alpha",
+      "type": "uses_metric",
+      "description": "Used to assess internal consistency of scales."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Cohen's Kappa",
+      "type": "uses_metric",
+      "description": "Used to measure intercoder reliability."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Adaptive stance condition is rated significantly higher than consistent stance condition.",
+      "type": "finds",
+      "description": "Confirmed via analysis of covariance."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Complimentary demeanor condition is rated significantly higher than neutral demeanor condition.",
+      "type": "finds",
+      "description": "Confirmed via analysis of covariance."
+    },
+    {
+      "source": "Chatbase",
+      "target": "Generative Pre-trained Transformer 4o",
+      "type": "uses_method",
+      "description": "Chatbase was used as a platform for developing custom Large Language Model agents using Generative Pre-trained Transformer 4o as the backend."
+    },
+    {
+      "source": "Cohen’s Kappa",
+      "target": "reliability",
+      "type": "uses_metric",
+      "description": "Cohen’s Kappa was used to measure reliability."
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "Large Language Model",
+      "type": "uses_method",
+      "description": "Used Large Language Models to configure conversational demeanor"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "Large Language Model",
+      "type": "uses_method",
+      "description": "Used Large Language Models to configure conversational demeanor"
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "Prolific Academic",
+      "type": "uses_dataset",
+      "description": "Recruited participants from Prolific Academic"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "Prolific Academic",
+      "type": "uses_dataset",
+      "description": "Recruited participants from Prolific Academic"
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "G*Power analysis",
+      "type": "uses_method",
+      "description": "Used G*Power analysis for sample size calculation"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "G*Power analysis",
+      "type": "uses_method",
+      "description": "Used G*Power analysis for sample size calculation"
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "Statistical power",
+      "type": "uses_metric",
+      "description": "Calculated statistical power for sample size"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "Statistical power",
+      "type": "uses_metric",
+      "description": "Calculated statistical power for sample size"
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Operationalization conflates neutrality with formality",
+      "type": "has_limitation",
+      "description": "Operationalization conflates neutrality with formality"
+    },
+    {
+      "source": "Randomization checks",
+      "target": "No significant differences between experimental conditions across demographic variables",
+      "type": "finds",
+      "description": "Randomization checks confirmed no significant differences across demographic variables"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Psychological Reactance",
+      "type": "uses_method",
+      "description": "The paper measures psychological reactance as a mediator."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Affective response",
+      "type": "uses_metric",
+      "description": "Used to assess psychological reactance."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Negative cognitive response",
+      "type": "uses_metric",
+      "description": "Used to assess psychological reactance."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Social Presence",
+      "type": "uses_metric",
+      "description": "Measured as a mediator."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Perceived Authenticity",
+      "type": "uses_metric",
+      "description": "Measured as a mediator."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Cognitive Trust",
+      "type": "uses_metric",
+      "description": "Measured as a dependent variable."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Affective Trust",
+      "type": "uses_metric",
+      "description": "Measured as a dependent variable."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Behavioral Intention",
+      "type": "uses_metric",
+      "description": "Measured as a dependent variable."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Confirmatory Factor Analysis",
+      "type": "uses_method",
+      "description": "Used to confirm convergent validity."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Average variance extracted",
+      "type": "uses_metric",
+      "description": "Used in confirmatory factor analysis."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Randomization checks confirmed no significant differences between experimental conditions across demographic variables",
+      "type": "finds",
+      "description": "Result of demographic analysis."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Average variance extracted for mediating and dependent variables exceeded .50",
+      "type": "finds",
+      "description": "Confirms convergent validity of the measures."
+    },
+    {
+      "source": "Confirmatory Factor Analysis",
+      "target": "Average variance extracted",
+      "type": "uses_metric",
+      "description": "Confirmatory Factor Analysis confirmed convergent validity using average variance extracted values."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Adaptive Stance",
+      "type": "uses_method",
+      "description": "The paper tests the Adaptive Stance condition in the user study."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Consistent Stance",
+      "type": "uses_method",
+      "description": "The paper tests the Consistent Stance condition in the user study."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Complimentary Demeanor",
+      "type": "uses_method",
+      "description": "The paper tests the Complimentary Demeanor condition in the user study."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Neutral Demeanor",
+      "type": "uses_method",
+      "description": "The paper tests the Neutral Demeanor condition in the user study."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Two-way Analysis of Covariance",
+      "type": "uses_method",
+      "description": "The paper uses Two-way Analysis of Covariance for quantitative analysis."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Mediation Analysis",
+      "type": "uses_method",
+      "description": "The paper uses Mediation Analysis to examine indirect effects."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Moderated Mediation Analysis",
+      "type": "uses_method",
+      "description": "The paper uses Moderated Mediation Analysis to examine indirect effects."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Cronbach's alpha",
+      "type": "uses_metric",
+      "description": "The paper uses Cronbach's alpha for reliability measurements."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Mean",
+      "type": "uses_metric",
+      "description": "The paper reports Mean values for measured variables."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Standard Deviation",
+      "type": "uses_metric",
+      "description": "The paper reports Standard Deviation values for measured variables."
+    },
+    {
+      "source": "Two-way Analysis of Covariance",
+      "target": "Stance adaptation has a significant main effect on psychological reactance.",
+      "type": "finds",
+      "description": "The method identified a significant main effect of stance adaptation on psychological reactance."
+    },
+    {
+      "source": "Two-way Analysis of Covariance",
+      "target": "Adaptive stance is perceived as significantly more adaptable than consistent stance.",
+      "type": "finds",
+      "description": "The method confirmed experimental manipulation success for adaptive versus consistent stance."
+    },
+    {
+      "source": "Two-way Analysis of Covariance",
+      "target": "Complimentary demeanor is perceived as significantly more complimentary than neutral demeanor.",
+      "type": "finds",
+      "description": "The method confirmed experimental manipulation success for complimentary versus neutral demeanor."
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Paper authored by Yuan Sun"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Paper authored by Ting Wang"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Adaptive Large Language Model stance reduces psychological reactance.",
+      "type": "finds",
+      "description": "Finding regarding stance adaptation"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Complimentary demeanor increases perceived social presence.",
+      "type": "finds",
+      "description": "Finding regarding conversational demeanor"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Psychological reactance mediates the effect of stance adaptation on trust.",
+      "type": "finds",
+      "description": "Mediation effect finding"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Social presence mediates the effect of conversational demeanor on trust.",
+      "type": "finds",
+      "description": "Mediation effect finding"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Stance adaptation does not significantly affect perceived authenticity.",
+      "type": "has_limitation",
+      "description": "Null hypothesis finding regarding perceived authenticity"
+    },
+    {
+      "source": "Moderated mediation analysis",
+      "target": "Cognitive trust",
+      "type": "uses_metric",
+      "description": "Analysis used to examine effects on cognitive trust"
+    },
+    {
+      "source": "Moderated mediation analysis",
+      "target": "Affective trust",
+      "type": "uses_metric",
+      "description": "Analysis used to examine effects on affective trust"
+    },
+    {
+      "source": "Moderated mediation analysis",
+      "target": "Behavioral intention",
+      "type": "uses_metric",
+      "description": "Analysis used to examine effects on behavioral intention"
+    },
+    {
+      "source": "Moderated mediation analysis",
+      "target": "Conversational demeanor moderates stance adaptation effects on trust and behavioral intention through perceived authenticity.",
+      "type": "finds",
+      "description": "The method identified the moderation effect"
+    },
+    {
+      "source": "Repeated measures Analysis of Covariance",
+      "target": "Interaction with Large Language Model agents caused no significant overall attitude change toward autonomous vehicles.",
+      "type": "finds",
+      "description": "The method identified the lack of significant attitude change"
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Adaptive stance",
+      "type": "uses_method",
+      "description": "The study examines adaptive stance as a condition for agent interaction."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Consistent stance",
+      "type": "uses_method",
+      "description": "The study examines consistent stance as a condition for agent interaction."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Complimentary demeanor",
+      "type": "uses_method",
+      "description": "The study examines complimentary demeanor as a condition for agent interaction."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Neutral demeanor",
+      "type": "uses_method",
+      "description": "The study examines neutral demeanor as a condition for agent interaction."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Reinforcement rate",
+      "type": "uses_metric",
+      "description": "Used to measure effect of sycophancy on user opinions."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Average change",
+      "type": "uses_metric",
+      "description": "Used to measure attitude shift."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Adaptive stance with neutral demeanor most effectively reinforces users' existing beliefs.",
+      "type": "finds",
+      "description": "Quantitative analysis showed the highest reinforcement rate at 72.9%."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Users misinterpret agent adaptation as genuine validation of their arguments.",
+      "type": "finds",
+      "description": "Qualitative analysis revealed users view adaptation as reflection of their own argument strength."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Complimentary demeanor elicits feelings of personal connection and warmth in users.",
+      "type": "finds",
+      "description": "Participants appreciated the agent's acknowledgment and warmth."
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Acknowledgment of viewpoints and a complimentary demeanor increases participant personal connection and warmth",
+      "type": "finds",
+      "description": "Participants reported feelings of connection and warmth toward the agent"
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Challenging participants with alternative viewpoints while acknowledging initial stance promotes user thinking",
+      "type": "finds",
+      "description": "Participants appreciated being challenged with alternative perspectives"
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Overly agreeable behavior leads to participant skepticism and decreased trust",
+      "type": "finds",
+      "description": "Participants viewed overly agreeable agents as disingenuous or manipulative"
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Sycophantic behaviors may undermine the agent’s credibility",
+      "type": "has_limitation",
+      "description": "Sycophantic behavior is identified as a negative factor for agent trust"
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Overly agreeable agents lead to low argument quality and lack of depth",
+      "type": "finds",
+      "description": "Study outcome on argument quality"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Sycophancy reinforces existing beliefs and hinders critical thinking",
+      "type": "finds",
+      "description": "Study outcome on critical thinking"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Aligning with user opinions enhances trust by attenuating psychological reactance",
+      "type": "finds",
+      "description": "Study outcome on user trust"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Sycophancy can contribute to echo chambers and false information",
+      "type": "finds",
+      "description": "Societal implications found in study"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Psychological Reactance Theory",
+      "type": "uses_method",
+      "description": "Theoretical framework used to analyze user perception"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Aligning with user opinions attenuates psychological reactance and enhances trust in Large Language Model agents",
+      "type": "finds",
+      "description": "The study found that opinion alignment reduces reactance and improves trust."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Complimentary demeanor enhances perceived social presence in Large Language Model agents",
+      "type": "finds",
+      "description": "Study confirmed compliments lead users to view agents as socially aware."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Trust formation depends on the perceived authenticity of agreement rather than just alignment",
+      "type": "finds",
+      "description": "Trust is moderated by the delivery style of the agent."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Neutral, adaptive agents are most effective at reinforcing users' initial beliefs",
+      "type": "finds",
+      "description": "Exploratory analysis shows neutral demeanor enhances belief reinforcement."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Significant misalignment between user trust and Artificial Intelligence system capabilities",
+      "type": "has_limitation",
+      "description": "The paper notes a gap between user perception of trust and actual system reliability."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "User trust misalignment between perceived and actual system capabilities leads to reliance issues.",
+      "type": "finds",
+      "description": "The study identifies misalignment between user trust and system capabilities."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Social characteristics of Large Language Models can distort user trust beyond actual reliability.",
+      "type": "finds",
+      "description": "The study observes that social traits influence trust regardless of actual reliability."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Complimentary, consistent agents can enhance perceived authenticity.",
+      "type": "finds",
+      "description": "The study demonstrates that complimentary, consistent agents enhance perceived authenticity."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Maximizing human-likeness is not always preferable for Large Language Model agents.",
+      "type": "finds",
+      "description": "The paper challenges the conventional assumption that maximizing human-likeness is always preferable."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Cognitive biases such as social presence heuristic and reduced psychological reactance accelerate trust formation.",
+      "type": "finds",
+      "description": "The study highlights how cognitive biases contribute to trust formation."
+    },
+    {
+      "source": "Be Friendly, Not Friends: How Large Language Model Sycophancy Shapes User Trust",
+      "target": "Unchecked sycophancy can reinforce existing misconceptions rather than provide objective information.",
+      "type": "has_limitation",
+      "description": "The paper identifies unchecked sycophancy as a risk to providing objective, evidence-based information."
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Wei et al.",
+      "type": "uses_method",
+      "description": "Fine-tuning Large Language Models using synthesized data to mitigate sycophancy."
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Panickssery et al.",
+      "type": "uses_method",
+      "description": "Optimizing internal model representations to promote balanced responses."
+    },
+    {
+      "source": "Large Language Model",
+      "target": "Sharma et al.",
+      "type": "uses_method",
+      "description": "Aggregating multiple human perspectives during training to mitigate individual biases."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Cognitive biases accelerate trust formation in human-Large Language Model interactions.",
+      "type": "finds",
+      "description": "Findings highlight cognitive biases accelerate trust formation."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Consistent stances by agents improve meaningful attitude change.",
+      "type": "finds",
+      "description": "Performance of agents with consistent stances in achieving attitude change."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Study topic of autonomous vehicles may limit generalizability to polarizing subjects.",
+      "type": "has_limitation",
+      "description": "Topic selection limits generalizability."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Study focused only on positive and neutral demeanor, excluding negative demeanor.",
+      "type": "has_limitation",
+      "description": "Scope limited to positive and neutral demeanor."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Neutral demeanor operationalization potentially conflated neutrality with formality.",
+      "type": "has_limitation",
+      "description": "Operationalization concerns regarding neutrality and formality."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Experimental manipulations were more pronounced than typical Large Language Model interactions.",
+      "type": "has_limitation",
+      "description": "Style intensity differences compared to typical interactions."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Experimental manipulations created styles more pronounced than typical interactions, limiting ecological generalizability.",
+      "type": "has_limitation",
+      "description": "The study notes that experimental contrasts may be more pronounced than real-world interactions."
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Non-standardized conversation length created a trade-off between ecological validity and experimental control.",
+      "type": "has_limitation",
+      "description": "Variation in conversation length affected perceptions of the agent's stance."
+    },
+    {
+      "source": "Yuan Sun",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ting Wang",
+      "target": "arXiv:2502.10844v3",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Complimentary Large Language Models lose authenticity and trust when adapting stances",
+      "type": "finds",
+      "description": "Result of the experimental study"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Neutral Large Language Models gain authenticity and trust through stance adaptation",
+      "type": "finds",
+      "description": "Result of the experimental study"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "No significant overall attitude change following user-agent interactions",
+      "type": "finds",
+      "description": "Result of the study regarding attitude change"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Lacking understanding of how users perceive and respond to Large Language Model sycophancy",
+      "type": "has_limitation",
+      "description": "Authors note current understanding is significantly lacking"
+    },
+    {
+      "source": "arXiv:2502.10844v3",
+      "target": "Findings reflect mechanisms of conversational influence rather than large-scale persuasive effects",
+      "type": "has_limitation",
+      "description": "Caution regarding interpretation of findings"
+    }
+  ]
+}

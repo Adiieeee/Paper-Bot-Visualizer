@@ -1,0 +1,787 @@
+{
+  "file_path": "papers\\2606.21317v1.pdf",
+  "file_name": "2606.21317v1.pdf",
+  "title": "arXiv:2606.21317v1 [cs.HC] 19 Jun 2026",
+  "year": "Unknown",
+  "total_pages": 7,
+  "total_chunks": 9,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "Paper"
+    },
+    {
+      "name": "Lujain Ibrahim",
+      "type": "Author"
+    },
+    {
+      "name": "Myra Cheng",
+      "type": "Author"
+    },
+    {
+      "name": "Cinoo Lee",
+      "type": "Author"
+    },
+    {
+      "name": "Desmond Ong",
+      "type": "Author"
+    },
+    {
+      "name": "Dan Jurafsky",
+      "type": "Author"
+    },
+    {
+      "name": "Diyi Yang",
+      "type": "Author"
+    },
+    {
+      "name": "University of Oxford",
+      "type": "Institution"
+    },
+    {
+      "name": "Stanford University",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsoft",
+      "type": "Institution"
+    },
+    {
+      "name": "The University of Texas at Austin",
+      "type": "Institution"
+    },
+    {
+      "name": "Warning labels",
+      "type": "Method"
+    },
+    {
+      "name": "AI disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "Warning-based interventions",
+      "type": "Method"
+    },
+    {
+      "name": "Warning labels shift users' perceptions but do not reduce sycophancy's influence.",
+      "type": "Finding"
+    },
+    {
+      "name": "Basic AI disclosure has no detectable effect on users.",
+      "type": "Finding"
+    },
+    {
+      "name": "Warning-based interventions may offer a false sense of protection.",
+      "type": "Limitation"
+    },
+    {
+      "name": "basic AI disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "sycophancy disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "sycophancy with impact disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "moral trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Basic AI disclosure produces no statistically distinguishable effects compared to no disclosure.",
+      "type": "Finding"
+    },
+    {
+      "name": "Explicit labels shift perceptions but fail to reduce susceptibility to sycophantic advice.",
+      "type": "Finding"
+    },
+    {
+      "name": "Warning labels do not reduce users' susceptibility to sycophantic influence.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "Paper"
+    },
+    {
+      "name": "sycophancy disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "impact disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "basic AI disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "moral trust",
+      "type": "Metric"
+    },
+    {
+      "name": "performance trust",
+      "type": "Metric"
+    },
+    {
+      "name": "perceived objectivity",
+      "type": "Metric"
+    },
+    {
+      "name": "perceived responsiveness",
+      "type": "Metric"
+    },
+    {
+      "name": "perceived AI response quality",
+      "type": "Metric"
+    },
+    {
+      "name": "Sycophancy and impact disclosures reduced moral trust, performance trust, objectivity, and return likelihood.",
+      "type": "Finding"
+    },
+    {
+      "name": "Basic AI disclosure did not significantly shift perceptions compared to the control group.",
+      "type": "Finding"
+    },
+    {
+      "name": "Disclosure labels did not reduce perceived responsiveness of the AI system.",
+      "type": "Finding"
+    },
+    {
+      "name": "Responsiveness",
+      "type": "Metric"
+    },
+    {
+      "name": "Moral trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Performance trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Objectivity",
+      "type": "Metric"
+    },
+    {
+      "name": "Quality",
+      "type": "Metric"
+    },
+    {
+      "name": "Return likelihood",
+      "type": "Metric"
+    },
+    {
+      "name": "Self-perceived rightness",
+      "type": "Metric"
+    },
+    {
+      "name": "Repair intent",
+      "type": "Metric"
+    },
+    {
+      "name": "AI disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "Impact disclosure",
+      "type": "Method"
+    },
+    {
+      "name": "Warning labels fail to mitigate user susceptibility to sycophantic advice.",
+      "type": "Finding"
+    },
+    {
+      "name": "Warning labels only influence deliberative perceptions, not affective or relational sycophancy influence channels.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Generic warnings fail to establish personal relevance or susceptibility.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Warning labels may induce a false sense of understanding, increasing reliance on advice.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "Paper"
+    },
+    {
+      "name": "third-person effect",
+      "type": "Method"
+    },
+    {
+      "name": "warning labels",
+      "type": "Method"
+    },
+    {
+      "name": "sycophancy",
+      "type": "Method"
+    },
+    {
+      "name": "Warning labels may create a false sense of understanding, increasing reliance on advice.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Incorporating multiple perspectives or interview-based styles can mitigate sycophancy harms.",
+      "type": "Finding"
+    },
+    {
+      "name": "Lujain Ibrahim",
+      "type": "Author"
+    },
+    {
+      "name": "Meryl Chun",
+      "type": "Author"
+    },
+    {
+      "name": "Ceren Luh",
+      "type": "Author"
+    },
+    {
+      "name": "Prateek Kulkarni",
+      "type": "Author"
+    },
+    {
+      "name": "David O'Reilly",
+      "type": "Author"
+    },
+    {
+      "name": "Daphne Jones",
+      "type": "Author"
+    },
+    {
+      "name": "Daniel Yocum",
+      "type": "Author"
+    },
+    {
+      "name": "Prolific",
+      "type": "Dataset"
+    },
+    {
+      "name": "Stanford Institutional Review Board",
+      "type": "Institution"
+    },
+    {
+      "name": "UK AI Security Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Stanford Knight-Hennessy scholarship",
+      "type": "Institution"
+    },
+    {
+      "name": "Open Philanthropy",
+      "type": "Institution"
+    },
+    {
+      "name": "Office of Naval Research",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Schmidt Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Stanford Institute for Human-Centered Artificial Intelligence",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsoft",
+      "type": "Institution"
+    },
+    {
+      "name": "Google DeepMind",
+      "type": "Institution"
+    },
+    {
+      "name": "Linear regressions",
+      "type": "Method"
+    },
+    {
+      "name": "Self-perceived rightness",
+      "type": "Metric"
+    },
+    {
+      "name": "Repair intent",
+      "type": "Metric"
+    },
+    {
+      "name": "Interpersonal dispute",
+      "type": "Finding"
+    },
+    {
+      "name": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "Paper"
+    },
+    {
+      "name": "Prolific",
+      "type": "Method"
+    },
+    {
+      "name": "Generative Pre-trained Transformer 4o",
+      "type": "Method"
+    },
+    {
+      "name": "Unlabeled condition",
+      "type": "Method"
+    },
+    {
+      "name": "Basic condition",
+      "type": "Method"
+    },
+    {
+      "name": "Sycophancy condition",
+      "type": "Method"
+    },
+    {
+      "name": "Impact condition",
+      "type": "Method"
+    },
+    {
+      "name": "trust",
+      "type": "Metric"
+    },
+    {
+      "name": "objectivity",
+      "type": "Metric"
+    },
+    {
+      "name": "responsiveness",
+      "type": "Metric"
+    },
+    {
+      "name": "perceived response quality",
+      "type": "Metric"
+    },
+    {
+      "name": "likelihood of returning to the Artificial Intelligence system",
+      "type": "Metric"
+    },
+    {
+      "name": "self-perceived rightness",
+      "type": "Metric"
+    },
+    {
+      "name": "repair intent",
+      "type": "Metric"
+    },
+    {
+      "name": "Multi-Dimensional Measure of Trust",
+      "type": "Metric"
+    },
+    {
+      "name": "Objectivity",
+      "type": "Metric"
+    },
+    {
+      "name": "Responsiveness",
+      "type": "Metric"
+    },
+    {
+      "name": "Perceived response quality",
+      "type": "Metric"
+    },
+    {
+      "name": "Return likelihood",
+      "type": "Metric"
+    },
+    {
+      "name": "Self-perceived rightness",
+      "type": "Metric"
+    },
+    {
+      "name": "Repair intent",
+      "type": "Metric"
+    },
+    {
+      "name": "AI familiarity",
+      "type": "Metric"
+    },
+    {
+      "name": "Linear regression",
+      "type": "Method"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "Lujain Ibrahim",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Myra Cheng",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Cinoo Lee",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Pranav Khadpe",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Desmond Ong",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Dan Jurafsky",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Diyi Yang",
+      "target": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lujain Ibrahim",
+      "target": "University of Oxford",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Myra Cheng",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Cinoo Lee",
+      "target": "Microsoft",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Pranav Khadpe",
+      "target": "Microsoft",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Desmond Ong",
+      "target": "The University of Texas at Austin",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Dan Jurafsky",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Diyi Yang",
+      "target": "Stanford University",
+      "type": "affiliated_with",
+      "description": "Author affiliation"
+    },
+    {
+      "source": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "target": "Warning labels shift users' perceptions but do not reduce sycophancy's influence.",
+      "type": "finds",
+      "description": "Core empirical finding"
+    },
+    {
+      "source": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "target": "Basic AI disclosure has no detectable effect on users.",
+      "type": "finds",
+      "description": "Empirical observation on disclosure"
+    },
+    {
+      "source": "Warning labels shift perceptions of sycophantic AI, but not its influence",
+      "target": "Warning-based interventions may offer a false sense of protection.",
+      "type": "has_limitation",
+      "description": "Authors note the false sense of security provided by interventions"
+    },
+    {
+      "source": "basic AI disclosure",
+      "target": "Basic AI disclosure produces no statistically distinguishable effects compared to no disclosure.",
+      "type": "finds",
+      "description": "The method showed no significant effect compared to the control."
+    },
+    {
+      "source": "sycophancy disclosure",
+      "target": "Explicit labels shift perceptions but fail to reduce susceptibility to sycophantic advice.",
+      "type": "finds",
+      "description": "Explicit labels shift perceptions but do not reduce susceptibility to influence."
+    },
+    {
+      "source": "sycophancy with impact disclosure",
+      "target": "Explicit labels shift perceptions but fail to reduce susceptibility to sycophantic advice.",
+      "type": "finds",
+      "description": "Explicit labels shift perceptions but do not reduce susceptibility to influence."
+    },
+    {
+      "source": "sycophancy disclosure",
+      "target": "moral trust",
+      "type": "uses_metric",
+      "description": "Evaluated the effect of disclosure on moral trust."
+    },
+    {
+      "source": "sycophancy with impact disclosure",
+      "target": "moral trust",
+      "type": "uses_metric",
+      "description": "Evaluated the effect of disclosure on moral trust."
+    },
+    {
+      "source": "Explicit labels shift perceptions but fail to reduce susceptibility to sycophantic advice.",
+      "target": "Warning labels do not reduce users' susceptibility to sycophantic influence.",
+      "type": "has_limitation",
+      "description": "The labels successfully shift perceptions but fail to mitigate behavioral susceptibility."
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "Sycophancy and impact disclosures reduced moral trust, performance trust, objectivity, and return likelihood.",
+      "type": "finds",
+      "description": "The paper reports that specific disclosures negatively impact several perception metrics."
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "Basic AI disclosure did not significantly shift perceptions compared to the control group.",
+      "type": "finds",
+      "description": "The paper reports a lack of significant impact from the basic disclosure label."
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "Disclosure labels did not reduce perceived responsiveness of the AI system.",
+      "type": "finds",
+      "description": "The paper identifies that perceived responsiveness remains unaffected by disclosures."
+    },
+    {
+      "source": "Warning labels fail to mitigate user susceptibility to sycophantic advice.",
+      "target": "AI disclosure",
+      "type": "finds",
+      "description": "The finding applies to AI disclosure labels."
+    },
+    {
+      "source": "Warning labels fail to mitigate user susceptibility to sycophantic advice.",
+      "target": "Sycophancy disclosure",
+      "type": "finds",
+      "description": "The finding applies to sycophancy disclosure labels."
+    },
+    {
+      "source": "Warning labels fail to mitigate user susceptibility to sycophantic advice.",
+      "target": "Impact disclosure",
+      "type": "finds",
+      "description": "The finding applies to impact disclosure labels."
+    },
+    {
+      "source": "Warning labels only influence deliberative perceptions, not affective or relational sycophancy influence channels.",
+      "target": "Warning labels",
+      "type": "has_limitation",
+      "description": "The effect of labels is limited to deliberative evaluations."
+    },
+    {
+      "source": "Generic warnings fail to establish personal relevance or susceptibility.",
+      "target": "Warning labels",
+      "type": "has_limitation",
+      "description": "Lack of personal relevance reduces efficacy."
+    },
+    {
+      "source": "Warning labels may induce a false sense of understanding, increasing reliance on advice.",
+      "target": "Warning labels",
+      "type": "has_limitation",
+      "description": "Labels can potentially increase user reliance on the system."
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "warning labels",
+      "type": "has_limitation",
+      "description": "Warning labels create a false sense of understanding and increase reliance on advice."
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "Incorporating multiple perspectives or interview-based styles can mitigate sycophancy harms.",
+      "type": "finds",
+      "description": "Improving model behavior reduces sycophancy without diminishing user appeal."
+    },
+    {
+      "source": "Lujain Ibrahim",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Meryl Chun",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Ceren Luh",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Prateek Kulkarni",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "David O'Reilly",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daphne Jones",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Daniel Yocum",
+      "target": "ArXiv:2606.21317v1",
+      "type": "written_by",
+      "description": "Author of the paper"
+    },
+    {
+      "source": "Lujain Ibrahim",
+      "target": "Google DeepMind",
+      "type": "affiliated_with",
+      "description": "Employment"
+    },
+    {
+      "source": "Ceren Luh",
+      "target": "Microsoft",
+      "type": "affiliated_with",
+      "description": "Employment"
+    },
+    {
+      "source": "Prateek Kulkarni",
+      "target": "Microsoft",
+      "type": "affiliated_with",
+      "description": "Employment"
+    },
+    {
+      "source": "ArXiv:2606.21317v1",
+      "target": "Prolific",
+      "type": "uses_dataset",
+      "description": "Platform used for participant recruitment"
+    },
+    {
+      "source": "ArXiv:2606.21317v1",
+      "target": "Linear regressions",
+      "type": "uses_method",
+      "description": "Statistical method used for analysis"
+    },
+    {
+      "source": "ArXiv:2606.21317v1",
+      "target": "Self-perceived rightness",
+      "type": "uses_metric",
+      "description": "Metric used for evaluation"
+    },
+    {
+      "source": "ArXiv:2606.21317v1",
+      "target": "Repair intent",
+      "type": "uses_metric",
+      "description": "Metric used for evaluation"
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "Prolific",
+      "type": "uses_method",
+      "description": "Used Prolific as the online crowdsourcing platform to recruit participants."
+    },
+    {
+      "source": "arXiv:2606.21317v1",
+      "target": "Generative Pre-trained Transformer 4o",
+      "type": "uses_method",
+      "description": "Implemented a sycophantic model as a variant of Generative Pre-trained Transformer 4o."
+    },
+    {
+      "source": "Unlabeled condition",
+      "target": "trust",
+      "type": "uses_metric",
+      "description": "Metric used to evaluate the condition"
+    },
+    {
+      "source": "Basic condition",
+      "target": "trust",
+      "type": "uses_metric",
+      "description": "Metric used to evaluate the condition"
+    },
+    {
+      "source": "Sycophancy condition",
+      "target": "trust",
+      "type": "uses_metric",
+      "description": "Metric used to evaluate the condition"
+    },
+    {
+      "source": "Impact condition",
+      "target": "trust",
+      "type": "uses_metric",
+      "description": "Metric used to evaluate the condition"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Multi-Dimensional Measure of Trust",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Multi-Dimensional Measure of Trust outcomes"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Objectivity",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Objectivity outcomes"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Responsiveness",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Responsiveness outcomes"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Perceived response quality",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Perceived response quality outcomes"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Return likelihood",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Return likelihood outcomes"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Self-perceived rightness",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Self-perceived rightness outcomes"
+    },
+    {
+      "source": "Linear regression",
+      "target": "Repair intent",
+      "type": "uses_method",
+      "description": "Linear regression used to analyze Repair intent outcomes"
+    }
+  ]
+}

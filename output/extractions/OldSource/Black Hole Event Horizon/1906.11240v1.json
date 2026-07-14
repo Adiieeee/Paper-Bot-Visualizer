@@ -1,0 +1,5303 @@
+{
+  "file_path": "papers\\1906.11240v1.pdf",
+  "file_name": "1906.11240v1.pdf",
+  "title": "First Event Horizon Telescope Results. Processing Calibration",
+  "year": "2019",
+  "total_pages": 32,
+  "total_chunks": 52,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Australian Long Baseline Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "angular resolution",
+      "type": "Metric"
+    },
+    {
+      "name": "sensitivity limits",
+      "type": "Metric"
+    },
+    {
+      "name": "amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "phase",
+      "type": "Metric"
+    },
+    {
+      "name": "Rapid atmospheric phase fluctuations",
+      "type": "Limitation"
+    },
+    {
+      "name": "Wide recording bandwidth",
+      "type": "Limitation"
+    },
+    {
+      "name": "Highly heterogeneous array",
+      "type": "Limitation"
+    },
+    {
+      "name": "Two nulls in correlated flux density at 3.4 and 8.3 Giga-wavelengths",
+      "type": "Finding"
+    },
+    {
+      "name": "Intrinsic variability of compact structure on a timescale of days",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Very Long Baseline Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Australian Long Baseline Array",
+      "type": "Institution"
+    },
+    {
+      "name": "East Asian Very Long Baseline Interferometry Network",
+      "type": "Institution"
+    },
+    {
+      "name": "European Very Long Baseline Interferometry Network",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "ALMA Phasing Project",
+      "type": "Method"
+    },
+    {
+      "name": "atmospheric opacity and turbulence pose major challenges at high frequencies",
+      "type": "Limitation"
+    },
+    {
+      "name": "phase solution transfer from bright calibrator to weak source is not feasible",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Haystack Observatory Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "NRAO Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "ParselTongue",
+      "type": "Method"
+    },
+    {
+      "name": "EHT 2017 data",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87 exhibits resolved compact emission structure on a few tens of microarcseconds scale.",
+      "type": "Finding"
+    },
+    {
+      "name": "Heterogeneous nature of the array leads to a wide range of signal-to-noise ratio.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope Alfonso Serrano",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "IRAM 30 meter telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "correlation process",
+      "type": "Method"
+    },
+    {
+      "name": "phase calibration process",
+      "type": "Method"
+    },
+    {
+      "name": "fringe-fitting pipelines",
+      "type": "Method"
+    },
+    {
+      "name": "flux density calibration scheme",
+      "type": "Method"
+    },
+    {
+      "name": "SR1",
+      "type": "Dataset"
+    },
+    {
+      "name": "zenith sky opacities",
+      "type": "Metric"
+    },
+    {
+      "name": "amplitude error budget",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Plateau de Bure Interferometer",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Clock frequency instability",
+      "type": "Limitation"
+    },
+    {
+      "name": "Recorder configuration issues",
+      "type": "Limitation"
+    },
+    {
+      "name": "Pointing errors",
+      "type": "Limitation"
+    },
+    {
+      "name": "Sideband contamination",
+      "type": "Limitation"
+    },
+    {
+      "name": "Fringe detections were successful across the entire array",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Reconfigurable Open Architecture Computing Hardware 2",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array Wideband Astronomical Reconfigurable Open Architecture Computing Hardware 2 Machine",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Phasing Interface Cards",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "FX correlator",
+      "type": "Method"
+    },
+    {
+      "name": "Temporal Fourier transform",
+      "type": "Method"
+    },
+    {
+      "name": "Jansky",
+      "type": "Metric"
+    },
+    {
+      "name": "Zenith Sky Opacity",
+      "type": "Metric"
+    },
+    {
+      "name": "Clock errors",
+      "type": "Limitation"
+    },
+    {
+      "name": "Stochastic changes in atmospheric path length",
+      "type": "Limitation"
+    },
+    {
+      "name": "Intrinsic source structure and variability",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Median zenith sky opacity",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "van Cittert–Zernike theorem",
+      "type": "Method"
+    },
+    {
+      "name": "Massachusetts Institute of Technology Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "DiFX",
+      "type": "Method"
+    },
+    {
+      "name": "Adaptive Phased-array and Heterogeneous Interpolating Downsampler for SWARM",
+      "type": "Method"
+    },
+    {
+      "name": "System-equivalent flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "PolConvert",
+      "type": "Method"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "fringe-fitting",
+      "type": "Method"
+    },
+    {
+      "name": "The second downconversion at the Submillimeter Array introduces a 150 MHz frequency offset.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Many correlator model parameters are not known exactly at correlation.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "EHT-HOPS pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "DiFX correlator",
+      "type": "Method"
+    },
+    {
+      "name": "Mark III",
+      "type": "Method"
+    },
+    {
+      "name": "Mark IV",
+      "type": "Method"
+    },
+    {
+      "name": "difx2mark4",
+      "type": "Method"
+    },
+    {
+      "name": "fourfit",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "PolConvert",
+      "type": "Method"
+    },
+    {
+      "name": "The EHT-HOPS pipeline finds a single self-consistent global fringe solution for calibration.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Haystack Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "EHT Analysis Toolkit",
+      "type": "Method"
+    },
+    {
+      "name": "fourfit",
+      "type": "Method"
+    },
+    {
+      "name": "HOPS pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "CASA",
+      "type": "Method"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Global Millimeter VLBI Array",
+      "type": "Dataset"
+    },
+    {
+      "name": "ALMA",
+      "type": "Institution"
+    },
+    {
+      "name": "Green Bank Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Signal to Noise",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Green Bank Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "RadioAstron PICARD",
+      "type": "Method"
+    },
+    {
+      "name": "Haystack Observatory Post-processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Global Millimeter Very Long Baseline Array",
+      "type": "Dataset"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Dataset"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "CASA",
+      "type": "Method"
+    },
+    {
+      "name": "rPICARD",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Measurement Set",
+      "type": "Dataset"
+    },
+    {
+      "name": "UVFITS",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-Noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "High recording bandwidth and heterogeneous array data are dominated by systematic effects",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Python",
+      "type": "Method"
+    },
+    {
+      "name": "eat",
+      "type": "Method"
+    },
+    {
+      "name": "ParselTongue",
+      "type": "Method"
+    },
+    {
+      "name": "VPLOT",
+      "type": "Method"
+    },
+    {
+      "name": "POSSM",
+      "type": "Method"
+    },
+    {
+      "name": "BPASS",
+      "type": "Method"
+    },
+    {
+      "name": "BPEDT",
+      "type": "Method"
+    },
+    {
+      "name": "EDITA",
+      "type": "Method"
+    },
+    {
+      "name": "ACSCL",
+      "type": "Method"
+    },
+    {
+      "name": "ehtutil.ehtpang",
+      "type": "Method"
+    },
+    {
+      "name": "CLCOR",
+      "type": "Method"
+    },
+    {
+      "name": "rPICARD",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "DiFX",
+      "type": "Method"
+    },
+    {
+      "name": "Signal-to-Noise Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Event Horizon Telescope data",
+      "type": "Dataset"
+    },
+    {
+      "name": "EHT data processing requires custom calibration pipeline due to heterogeneous array properties.",
+      "type": "Finding"
+    },
+    {
+      "name": "EHT data is often dominated by systematic effects rather than thermal noise.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "HOPS pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "KRING",
+      "type": "Method"
+    },
+    {
+      "name": "FRING",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "AIPS pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "Signal-to-Noise Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "UVFITS",
+      "type": "Method"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Effective System Noise Temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "Degrees Per Flux Density Unit",
+      "type": "Metric"
+    },
+    {
+      "name": "Gain Curve",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Astrophysical Journal Letters",
+      "type": "Institution"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "AIPS fringe-fitting pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "KRING",
+      "type": "Method"
+    },
+    {
+      "name": "effective system temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "gain curve",
+      "type": "Metric"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Focus or pointing errors are difficult to quantify using available metadata.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Array",
+      "type": "Method"
+    },
+    {
+      "name": "Jansky Very Large Array",
+      "type": "Method"
+    },
+    {
+      "name": "System Temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "Aperture Efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "Sideband Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "South Pole Telescope suffered incomplete sideband separation in 2017",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "GILDAS",
+      "type": "Method"
+    },
+    {
+      "name": "SEFD",
+      "type": "Metric"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Solar heating during daytime observations causes temporal variations at James Clerk Maxwell Telescope",
+      "type": "Limitation"
+    },
+    {
+      "name": "Low elevation observations lead to high SEFD values due to large airmass",
+      "type": "Limitation"
+    },
+    {
+      "name": "Gravitational deformation of parabolic dishes creates elevation-dependent efficiency degradation",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Aperture efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "Effective system temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "Signal-to-noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "A priori calibration",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sagittarius A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Finding",
+      "type": "Finding"
+    },
+    {
+      "name": "Limitation",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Chopper method",
+      "type": "Method"
+    },
+    {
+      "name": "Least-squares fitting",
+      "type": "Method"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Pointing or focus errors are not easily quantifiable a priori",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "phasing efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "PolConvert",
+      "type": "Method"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "beamforming",
+      "type": "Method"
+    },
+    {
+      "name": "Phasing efficiency is above 0.8 for 80 percent of ALMA and 90 percent of SMA observations.",
+      "type": "Finding"
+    },
+    {
+      "name": "Phasing efficiency decreases due to low elevation and atmospheric turbulence.",
+      "type": "Finding"
+    },
+    {
+      "name": "Phasing performance degrades when atmospheric coherence timescale is shorter than the loop time.",
+      "type": "Limitation"
+    },
+    {
+      "name": "ALMA phased-sum signal sensitivity is sensitive to errors in the source model.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "Phasing",
+      "type": "Method"
+    },
+    {
+      "name": "System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Phasing efficiency",
+      "type": "Metric"
+    },
+    {
+      "name": "Phasing suffers when atmospheric coherence timescale is short relative to loop time.",
+      "type": "Finding"
+    },
+    {
+      "name": "Uncertainty of 10 percent for Atacama Large Millimeter/submillimeter Array System Equivalent Flux Density is a lower limit.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Uncertainties from self-calibration and phasing are uncharacterized.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "a priori amplitude calibration",
+      "type": "Method"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "amplitude gain modeling",
+      "type": "Method"
+    },
+    {
+      "name": "chopper calibration",
+      "type": "Method"
+    },
+    {
+      "name": "April 11 HOPS data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "correlated flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "thermal noise",
+      "type": "Metric"
+    },
+    {
+      "name": "A priori error budget is only representative of global station performance",
+      "type": "Limitation"
+    },
+    {
+      "name": "Efficiency losses from pointing and focus accuracy are not included in calibration",
+      "type": "Limitation"
+    },
+    {
+      "name": "Uncertainty in chopper calibration due to unknown hot load coupling",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "two-load chopper method",
+      "type": "Method"
+    },
+    {
+      "name": "atmospheric modeling",
+      "type": "Method"
+    },
+    {
+      "name": "single-load chopper method",
+      "type": "Method"
+    },
+    {
+      "name": "pointing and focus calibration",
+      "type": "Method"
+    },
+    {
+      "name": "Network calibration",
+      "type": "Method"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "receiver noise temperature",
+      "type": "Metric"
+    },
+    {
+      "name": "atmospheric opacity",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "total flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "Network calibration allows for absolute amplitude calibration and tightens consistency between simultaneous baselines.",
+      "type": "Finding"
+    },
+    {
+      "name": "Assumptions in temperature measurements may introduce systematic biases.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Single-load chopper method leads to larger error contributions of five to ten percent.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Changing dish performance and intra-scan atmospheric variations are not captured by calibration measurements.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Operating stations past nominal conditions causes residual gains to deviate from error budgets.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Network calibration",
+      "type": "Method"
+    },
+    {
+      "name": "eht-imaging library",
+      "type": "Method"
+    },
+    {
+      "name": "Frequency-averaged visibility UVFITS data",
+      "type": "Dataset"
+    },
+    {
+      "name": "Thermal uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "Station-based System Equivalent Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Network calibration provides gain estimates only for sites with a co-located partner.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Thermal noise reduces accuracy of gains estimated through network calibration.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Network calibration",
+      "type": "Method"
+    },
+    {
+      "name": "Stokes I total intensity",
+      "type": "Metric"
+    },
+    {
+      "name": "Haystack Observatory Post-processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Co-located sites acting as zero-baseline interferometers may not hold for extended sources",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Dataset"
+    },
+    {
+      "name": "Engineering Release 1",
+      "type": "Dataset"
+    },
+    {
+      "name": "Engineering Release 5",
+      "type": "Dataset"
+    },
+    {
+      "name": "Science Release 1",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-Noise Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Inability to jointly fit source parameters along with gains",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Stokes I",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase",
+      "type": "Method"
+    },
+    {
+      "name": "log closure amplitude",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "thermal uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "polarimetric leakage calibration",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "HOPS",
+      "type": "Dataset"
+    },
+    {
+      "name": "SR1",
+      "type": "Dataset"
+    },
+    {
+      "name": "Stokes I Signal-to-Noise Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "log closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "thermal visibility error",
+      "type": "Metric"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "The number of closure quantities derived from SR1 visibilities is highly redundant.",
+      "type": "Finding"
+    },
+    {
+      "name": "Selection of a non-redundant data set is not unique and is non-trivial.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Messier 87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-Noise Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Correlated Flux Density",
+      "type": "Metric"
+    },
+    {
+      "name": "Atmospheric Phase Corrections",
+      "type": "Method"
+    },
+    {
+      "name": "Amplitude Calibration",
+      "type": "Method"
+    },
+    {
+      "name": "Network Calibration",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "HOPS pipeline",
+      "type": "Method"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "visibility amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "M87 source is compact with spatial scale under 50 microarcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "M87 exhibits modest source evolution between two observation night pairs",
+      "type": "Finding"
+    },
+    {
+      "name": "Reduced efficiency of James Clerk Maxwell Telescope or Large Millimeter Telescope",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "thermal uncertainties",
+      "type": "Metric"
+    },
+    {
+      "name": "HOPS",
+      "type": "Method"
+    },
+    {
+      "name": "eat library",
+      "type": "Method"
+    },
+    {
+      "name": "Finding: Closure phases show night-to-night variability near visibility amplitude nulls.",
+      "type": "Finding"
+    },
+    {
+      "name": "Limitation: Outliers in correlated flux density due to reduced Large Millimeter Telescope or James Clerk Maxwell Telescope performance.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Finding: No false fringes or corrupted measurements exist above the detection threshold.",
+      "type": "Finding"
+    },
+    {
+      "name": "Finding: Thermal error is essential for VLBI uncertainties and noise debiasing.",
+      "type": "Finding"
+    },
+    {
+      "name": "Correlation coefficients",
+      "type": "Metric"
+    },
+    {
+      "name": "Three sigma outliers",
+      "type": "Metric"
+    },
+    {
+      "name": "Thermal error",
+      "type": "Metric"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "HOPS",
+      "type": "Method"
+    },
+    {
+      "name": "CASA",
+      "type": "Method"
+    },
+    {
+      "name": "AIPS",
+      "type": "Method"
+    },
+    {
+      "name": "thermal uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase-differencing technique",
+      "type": "Method"
+    },
+    {
+      "name": "moment matching",
+      "type": "Method"
+    },
+    {
+      "name": "HOPS data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "HOPS provides the most accurate accounting of thermal uncertainty",
+      "type": "Finding"
+    },
+    {
+      "name": "AIPS pipeline requires a large scaling factor for final output",
+      "type": "Limitation"
+    },
+    {
+      "name": "CASA reported weights lead to a 5 percent underestimation of thermal uncertainty",
+      "type": "Limitation"
+    },
+    {
+      "name": "Empirical uncertainty estimation is biased by intra-scan amplitude gain variation",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Signal-to-Noise Ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "Imperfect phase correction leads to decoherence and non-closing amplitude errors.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Relative difference between Right Circular Polarization and Left Circular Polarization feeds is stable.",
+      "type": "Finding"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "HOPS",
+      "type": "Method"
+    },
+    {
+      "name": "SR1",
+      "type": "Dataset"
+    },
+    {
+      "name": "median absolute deviation",
+      "type": "Metric"
+    },
+    {
+      "name": "Coherent averaging over scans is admissible for the SR1 data set",
+      "type": "Finding"
+    },
+    {
+      "name": "Uncalibrated polarimetric leakage remains in the SR1 data set",
+      "type": "Limitation"
+    },
+    {
+      "name": "Low signal-to-noise ratio data below 7",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "HOPS",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "closure phase systematic uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "closure amplitude uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "thermal uncertainty",
+      "type": "Metric"
+    },
+    {
+      "name": "Finding",
+      "type": "Finding"
+    },
+    {
+      "name": "Limitation",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "log closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility phase",
+      "type": "Metric"
+    },
+    {
+      "name": "HOPS",
+      "type": "Method"
+    },
+    {
+      "name": "CASA",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "HOPS",
+      "type": "Method"
+    },
+    {
+      "name": "CASA",
+      "type": "Method"
+    },
+    {
+      "name": "AIPS",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "relative absolute amplitude difference",
+      "type": "Metric"
+    },
+    {
+      "name": "correlation coefficient amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "HOPS and CASA pipelines are the most consistent for M87 data",
+      "type": "Finding"
+    },
+    {
+      "name": "AIPS pipeline struggles with low signal-to-noise data",
+      "type": "Limitation"
+    },
+    {
+      "name": "visibilities reduced by separate pipelines share the same thermal noise realization",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "closure amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "visibility amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "Closure quantities are robust independent of station-based gains.",
+      "type": "Finding"
+    },
+    {
+      "name": "AIPS data exhibits a bias toward zero closure phase due to point-source modeling.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Very Long Baseline Array",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Closure phases",
+      "type": "Metric"
+    },
+    {
+      "name": "Stokes I data thermal uncertainties",
+      "type": "Metric"
+    },
+    {
+      "name": "Science Release 1",
+      "type": "Dataset"
+    },
+    {
+      "name": "Engineering Release 5",
+      "type": "Dataset"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "SR1",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "Closure phases",
+      "type": "Metric"
+    },
+    {
+      "name": "Closure amplitudes",
+      "type": "Metric"
+    },
+    {
+      "name": "Visibility error",
+      "type": "Metric"
+    },
+    {
+      "name": "Atmospheric water vapor",
+      "type": "Limitation"
+    },
+    {
+      "name": "Pointing and surface accuracy",
+      "type": "Limitation"
+    },
+    {
+      "name": "Residual non-closing systematic errors",
+      "type": "Finding"
+    },
+    {
+      "name": "Absolute flux density calibration",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "Sgr A*",
+      "type": "Dataset"
+    },
+    {
+      "name": "Greenland Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Kitt Peak 12 m telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Northern Extended Millimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "visibility amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "closure phase",
+      "type": "Metric"
+    },
+    {
+      "name": "M87 data set shows non-Gaussian structure and non-zero closure phases",
+      "type": "Finding"
+    },
+    {
+      "name": "intrinsic source variability",
+      "type": "Limitation"
+    },
+    {
+      "name": "increased amplitude gain variability",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Pico Veleta",
+      "type": "Institution"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "Signal-to-Noise ratio",
+      "type": "Metric"
+    },
+    {
+      "name": "2017 observations",
+      "type": "Dataset"
+    },
+    {
+      "name": "The 2017 observations deliver data of unprecedented scientific quality.",
+      "type": "Finding"
+    },
+    {
+      "name": "Vulnerability to poor weather and loss of sensitive central anchor stations.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Academy of Finland",
+      "type": "Institution"
+    },
+    {
+      "name": "Advanced European Network of E-infrastructures for Astronomy with the SKA",
+      "type": "Institution"
+    },
+    {
+      "name": "European Commission",
+      "type": "Institution"
+    },
+    {
+      "name": "Alexander von Humboldt Stiftung",
+      "type": "Institution"
+    },
+    {
+      "name": "Black Hole Initiative",
+      "type": "Institution"
+    },
+    {
+      "name": "Harvard University",
+      "type": "Institution"
+    },
+    {
+      "name": "John Templeton Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "China Scholarship Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Comisión Nacional de Investigación Científica y Tecnológica",
+      "type": "Institution"
+    },
+    {
+      "name": "Consejo Nacional de Ciencia y Tecnología",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Dirección General de Asuntos del Personal Académico",
+      "type": "Institution"
+    },
+    {
+      "name": "Universidad Nacional Autónoma de México",
+      "type": "Institution"
+    },
+    {
+      "name": "European Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Generalitat Valenciana",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Istituto Nazionale di Fisica Nucleare",
+      "type": "Institution"
+    },
+    {
+      "name": "International Max Planck Research School for Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Japanese Government",
+      "type": "Institution"
+    },
+    {
+      "name": "Japan Society for the Promotion of Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Leverhulme Trust",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "Massachusetts Institute of Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institute of Natural Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "National Key Research and Development Program",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Science Foundation of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope 2017 data set",
+      "type": "Dataset"
+    },
+    {
+      "name": "imaging",
+      "type": "Method"
+    },
+    {
+      "name": "model fitting",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Eric W. Greisen",
+      "type": "Author"
+    },
+    {
+      "name": "Natural Science Foundation of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Natural Sciences and Engineering Research Council of Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "National Youth Thousand Talents Program of China",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation of Korea",
+      "type": "Institution"
+    },
+    {
+      "name": "Netherlands Organization for Scientific Research",
+      "type": "Institution"
+    },
+    {
+      "name": "South African Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Department of Science and Technology of South Africa",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Swedish Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Perimeter Institute for Theoretical Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "Russian Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Spanish Ministerio de Economía y Competitividad",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto de Astrofísica de Andalucía",
+      "type": "Institution"
+    },
+    {
+      "name": "Toray Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "US Department of Energy",
+      "type": "Institution"
+    },
+    {
+      "name": "Los Alamos National Laboratory",
+      "type": "Institution"
+    },
+    {
+      "name": "Italian Ministero dell’Istruzione Università e Ricerca",
+      "type": "Institution"
+    },
+    {
+      "name": "ALMA North America Development Fund",
+      "type": "Institution"
+    },
+    {
+      "name": "Extreme Science and Engineering Discovery Environment",
+      "type": "Institution"
+    },
+    {
+      "name": "CyVerse",
+      "type": "Institution"
+    },
+    {
+      "name": "SuperMUC cluster",
+      "type": "Institution"
+    },
+    {
+      "name": "LOEWE cluster",
+      "type": "Institution"
+    },
+    {
+      "name": "HazelHen cluster",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Ontario",
+      "type": "Institution"
+    },
+    {
+      "name": "Calcul Quebec",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Compute Ontario",
+      "type": "Institution"
+    },
+    {
+      "name": "Calcul Quebec",
+      "type": "Institution"
+    },
+    {
+      "name": "Compute Canada",
+      "type": "Institution"
+    },
+    {
+      "name": "Eric W. Greisen",
+      "type": "Author"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "George Moellenbrock",
+      "type": "Author"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Dataset"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "National Institutes of Natural Sciences of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Research Council",
+      "type": "Institution"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "Ministry of Science and Technology",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "Institution"
+    },
+    {
+      "name": "Korea Astronomy and Space Science Institute",
+      "type": "Institution"
+    },
+    {
+      "name": "Joint ALMA Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "European Southern Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Associated Universities, Incorporated",
+      "type": "Institution"
+    },
+    {
+      "name": "National Radio Astronomy Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "National Astronomical Observatory of Japan",
+      "type": "Institution"
+    },
+    {
+      "name": "National Science Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Institut für Radioastronomie",
+      "type": "Institution"
+    },
+    {
+      "name": "Onsala Space Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Astrophysical Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Smithsonian Institution",
+      "type": "Institution"
+    },
+    {
+      "name": "Academia Sinica",
+      "type": "Institution"
+    },
+    {
+      "name": "East Asian Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Ministry of Finance of China",
+      "type": "Institution"
+    },
+    {
+      "name": "Chinese Academy of Sciences",
+      "type": "Institution"
+    },
+    {
+      "name": "Science and Technologies Facility Council",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Nacional de Astrofísica, Óptica, y Electrónica",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Massachusetts at Amherst",
+      "type": "Institution"
+    },
+    {
+      "name": "Centre National de la Recherche Scientifique",
+      "type": "Institution"
+    },
+    {
+      "name": "Max-Planck-Gesellschaft",
+      "type": "Institution"
+    },
+    {
+      "name": "Instituto Geográfico Nacional",
+      "type": "Institution"
+    },
+    {
+      "name": "Arizona Radio Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "Steward Observatory",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Arizona",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Institute of Cosmological Physics",
+      "type": "Institution"
+    },
+    {
+      "name": "University of Chicago",
+      "type": "Institution"
+    },
+    {
+      "name": "Kavli Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Gordon and Betty Moore Foundation",
+      "type": "Institution"
+    },
+    {
+      "name": "Xilinx Incorporated",
+      "type": "Institution"
+    },
+    {
+      "name": "Collaboration for Astronomy Signal Processing and Electronics Research",
+      "type": "Institution"
+    },
+    {
+      "name": "T4Science",
+      "type": "Institution"
+    },
+    {
+      "name": "Microsemi",
+      "type": "Institution"
+    },
+    {
+      "name": "National Aeronautics and Space Administration",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Method"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimétrique 30-meter telescope",
+      "type": "Method"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "type": "Paper"
+    },
+    {
+      "name": "A. Deller",
+      "type": "Author"
+    },
+    {
+      "name": "W. Brisken",
+      "type": "Author"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Method"
+    },
+    {
+      "name": "Atacama Pathfinder Experiment",
+      "type": "Method"
+    },
+    {
+      "name": "Institut de Radioastronomie Millimetrique 30 meter telescope",
+      "type": "Method"
+    },
+    {
+      "name": "James Clerk Maxwell Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Large Millimeter Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Submillimeter Array",
+      "type": "Method"
+    },
+    {
+      "name": "Arizona Radio Observatory Submillimeter Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "Distributed FX",
+      "type": "Method"
+    },
+    {
+      "name": "CALC",
+      "type": "Method"
+    },
+    {
+      "name": "PolConvert",
+      "type": "Method"
+    },
+    {
+      "name": "Haystack Observatory Postprocessing System",
+      "type": "Method"
+    },
+    {
+      "name": "Common Astronomy Software Applications",
+      "type": "Method"
+    },
+    {
+      "name": "Astronomical Image Processing System",
+      "type": "Method"
+    },
+    {
+      "name": "ParselTongue",
+      "type": "Method"
+    },
+    {
+      "name": "GNU Parallel",
+      "type": "Method"
+    },
+    {
+      "name": "GILDAS",
+      "type": "Method"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "Numpy",
+      "type": "Method"
+    },
+    {
+      "name": "Scipy",
+      "type": "Method"
+    },
+    {
+      "name": "Pandas",
+      "type": "Method"
+    },
+    {
+      "name": "Astropy",
+      "type": "Method"
+    },
+    {
+      "name": "Jupyter",
+      "type": "Method"
+    },
+    {
+      "name": "Matplotlib",
+      "type": "Method"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The study employs very long baseline interferometry."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses observational data from M87."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses observational data from 3C 279."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "affiliated_with",
+      "description": "The study utilized the Atacama Large Millimeter/submillimeter Array."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "angular resolution",
+      "type": "uses_metric",
+      "description": "Angular resolution was used to characterize the observations."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Rapid atmospheric phase fluctuations",
+      "type": "has_limitation",
+      "description": "Atmospheric phase fluctuations present a data processing challenge."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Wide recording bandwidth",
+      "type": "has_limitation",
+      "description": "Wide recording bandwidth complicates data processing."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Highly heterogeneous array",
+      "type": "has_limitation",
+      "description": "The heterogeneous nature of the array creates processing challenges."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Two nulls in correlated flux density at 3.4 and 8.3 Giga-wavelengths",
+      "type": "finds",
+      "description": "M87 data reveals two nulls in correlated flux density."
+    },
+    {
+      "source": "First M87 Event Horizon Telescope Results. III. Data Processing and Calibration",
+      "target": "Intrinsic variability of compact structure on a timescale of days",
+      "type": "finds",
+      "description": "Data indicates intrinsic variability of compact structure."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper discusses processing and calibration of Very Long Baseline Interferometry data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "The paper details processing for the Event Horizon Telescope."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "atmospheric opacity and turbulence pose major challenges at high frequencies",
+      "type": "has_limitation",
+      "description": "High frequencies face challenges from atmospheric conditions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "phase solution transfer from bright calibrator to weak source is not feasible",
+      "type": "has_limitation",
+      "description": "Differential atmospheric effects prevent transfer of phase solutions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Processing System",
+      "type": "uses_method",
+      "description": "Used for calibrating EHT data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "Used for high-frequency very long baseline interferometry data processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "NRAO Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "Used via an automated ParselTongue pipeline"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "ParselTongue",
+      "type": "uses_method",
+      "description": "Used to tailor EHT data reduction in NRAO Astronomical Image Processing System"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Processed Stokes I complex interferometric visibilities of M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Processed Stokes I complex interferometric visibilities of 3C 279"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87 exhibits resolved compact emission structure on a few tens of microarcseconds scale.",
+      "type": "finds",
+      "description": "Major finding regarding M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Heterogeneous nature of the array leads to a wide range of signal-to-noise ratio.",
+      "type": "has_limitation",
+      "description": "Constraint imposed by the array architecture"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "correlation process",
+      "type": "uses_method",
+      "description": "The paper describes the correlation process."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "phase calibration process",
+      "type": "uses_method",
+      "description": "The paper describes the phase calibration process."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "fringe-fitting pipelines",
+      "type": "uses_method",
+      "description": "The paper uses fringe-fitting pipelines for phase calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "flux density calibration scheme",
+      "type": "uses_method",
+      "description": "The paper uses a flux density calibration scheme."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "SR1",
+      "type": "uses_dataset",
+      "description": "The paper presents an overview of SR1 data products."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "zenith sky opacities",
+      "type": "uses_metric",
+      "description": "The paper reports median zenith sky opacities for triggered days."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "amplitude error budget",
+      "type": "uses_metric",
+      "description": "The paper describes the amplitude error budget."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry for observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "M87 was observed as a target source."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "3C 279 was used as a calibration source."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Fringe detections were successful across the entire array",
+      "type": "finds",
+      "description": "The paper reports successful fringe detections."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Clock frequency instability",
+      "type": "has_limitation",
+      "description": "Clock frequency instability at Plateau de Bure Interferometer caused amplitude loss."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Recorder configuration issues",
+      "type": "has_limitation",
+      "description": "Recorder configuration issues at Atacama Pathfinder Experiment caused data gaps."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Pointing errors",
+      "type": "has_limitation",
+      "description": "Pointing errors at Large Millimeter Telescope caused amplitude loss."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Sideband contamination",
+      "type": "has_limitation",
+      "description": "Shared local oscillator at Submillimeter Array and James Clerk Maxwell Telescope caused contamination."
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Submillimeter Array Wideband Astronomical Reconfigurable Open Architecture Computing Hardware 2 Machine",
+      "type": "uses_method",
+      "description": "The Submillimeter Array used the SWARM correlator for signal processing."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "Phasing Interface Cards",
+      "type": "uses_method",
+      "description": "The Atacama Large Millimeter/submillimeter Array utilized Phasing Interface Cards for signal processing."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The study describes Very Long Baseline Interferometry data flow."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Clock errors",
+      "type": "has_limitation",
+      "description": "Clock errors cause unwanted decoherence in the signal."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Stochastic changes in atmospheric path length",
+      "type": "has_limitation",
+      "description": "Stochastic atmospheric changes cause unwanted decoherence in the signal."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Intrinsic source structure and variability",
+      "type": "has_limitation",
+      "description": "Intrinsic source structure and variability limit the extent of data averaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "Pico Veleta",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "Large Millimeter Telescope",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "Submillimeter Telescope",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "South Pole Telescope",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_metric",
+      "description": "Median zenith sky opacity measured at site."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "van Cittert–Zernike theorem",
+      "type": "uses_method",
+      "description": "Used for brightness distribution calculation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "DiFX",
+      "type": "uses_method",
+      "description": "Used for correlation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Adaptive Phased-array and Heterogeneous Interpolating Downsampler for SWARM",
+      "type": "uses_method",
+      "description": "Used for offline pre-processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "System-equivalent flux density",
+      "type": "uses_metric",
+      "description": "Used for sensitivity assessment"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Target of observation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Target of observation"
+    },
+    {
+      "source": "Massachusetts Institute of Technology Haystack Observatory",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "affiliated_with",
+      "description": "Institution performed correlation"
+    },
+    {
+      "source": "Max-Planck-Institut für Radioastronomie",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "affiliated_with",
+      "description": "Institution performed correlation"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper utilizes observation schedules and data from M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper utilizes observation schedules and data from 3C 279"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "PolConvert",
+      "type": "uses_method",
+      "description": "The paper describes using PolConvert for polarization conversion."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The paper describes using Haystack Observatory Postprocessing System for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "The paper describes using Common Astronomy Software Applications for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper describes using Astronomical Image Processing System for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The second downconversion at the Submillimeter Array introduces a 150 MHz frequency offset.",
+      "type": "has_limitation",
+      "description": "The second downconversion at the Submillimeter Array introduces a net offset of 150 MHz."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Many correlator model parameters are not known exactly at correlation.",
+      "type": "has_limitation",
+      "description": "Model parameters like telescope position and atmospheric delay are not perfectly known."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The paper uses the Haystack Observatory Postprocessing System for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "The paper uses Common Astronomy Software Applications for phase calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper uses Astronomical Image Processing System for phase calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "EHT-HOPS pipeline",
+      "type": "proposes_method",
+      "description": "The paper presents the EHT-HOPS pipeline for automated data processing."
+    },
+    {
+      "source": "EHT-HOPS pipeline",
+      "target": "DiFX correlator",
+      "type": "uses_method",
+      "description": "The pipeline processes output from the DiFX correlator."
+    },
+    {
+      "source": "EHT-HOPS pipeline",
+      "target": "The EHT-HOPS pipeline finds a single self-consistent global fringe solution for calibration.",
+      "type": "finds",
+      "description": "The pipeline is unique in finding global fringe solutions."
+    },
+    {
+      "source": "EHT-HOPS pipeline",
+      "target": "fourfit",
+      "type": "uses_method",
+      "description": "The pipeline runs the fourfit fringe fitter."
+    },
+    {
+      "source": "EHT-HOPS pipeline",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "The pipeline uses the Atacama Large Millimeter/submillimeter Array as a reference station."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "PolConvert",
+      "type": "uses_method",
+      "description": "Data from the array are calibrated during the PolConvert process."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atacama Large Millimeter Array",
+      "type": "uses_dataset",
+      "description": "The paper processes calibration data from the Atacama Large Millimeter Array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper utilizes keywords defined for the Astronomical Image Processing System"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory",
+      "type": "uses_method",
+      "description": "The paper references data processing tools hosted by the Haystack Observatory"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "EHT Analysis Toolkit",
+      "type": "uses_method",
+      "description": "uses EHT Analysis Toolkit for amplitude calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "fourfit",
+      "type": "uses_method",
+      "description": "uses fourfit for fringe solutions"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS pipeline",
+      "type": "uses_method",
+      "description": "uses HOPS pipeline for data reduction"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CASA",
+      "type": "uses_method",
+      "description": "mentions CASA package"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Sgr A*",
+      "type": "uses_dataset",
+      "description": "analyzes observations of Sgr A*"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Global Millimeter VLBI Array",
+      "type": "uses_dataset",
+      "description": "analyzes data from Global Millimeter VLBI Array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Signal to Noise",
+      "type": "uses_metric",
+      "description": "uses Signal to Noise for solution intervals and data constraints"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "Common Astronomy Software Applications",
+      "target": "National Radio Astronomy Observatory",
+      "type": "affiliated_with",
+      "description": "The package was developed by the National Radio Astronomy Observatory"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "The paper uses the Common Astronomy Software Applications package for data processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "RadioAstron PICARD",
+      "type": "uses_method",
+      "description": "The paper uses the RadioAstron PICARD pipeline for Event Horizon Telescope data calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Post-processing System",
+      "type": "uses_method",
+      "description": "The paper uses the Haystack Observatory Post-processing System pipeline"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope",
+      "type": "uses_dataset",
+      "description": "The paper processes data from the Event Horizon Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Global Millimeter Very Long Baseline Array",
+      "type": "uses_dataset",
+      "description": "The paper describes pipeline performance on Global Millimeter Very Long Baseline Array data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CASA",
+      "type": "uses_method",
+      "description": "The paper uses the CASA rerefant task for fringe solution referencing."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "rPICARD",
+      "type": "uses_method",
+      "description": "The paper describes the use of the rPICARD pipeline for data calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper compares rPICARD performance against the Astronomical Image Processing System."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "High recording bandwidth and heterogeneous array data are dominated by systematic effects",
+      "type": "has_limitation",
+      "description": "The paper identifies systematic effects as a challenge for Event Horizon Telescope data."
+    },
+    {
+      "source": "Astronomical Image Processing System",
+      "target": "High recording bandwidth and heterogeneous array data are dominated by systematic effects",
+      "type": "criticizes",
+      "description": "The paper suggests the Astronomical Image Processing System is poorly suited for current Event Horizon Telescope data properties."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper uses the Astronomical Image Processing System for calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope data",
+      "type": "uses_dataset",
+      "description": "The paper processes Event Horizon Telescope data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "EHT data processing requires custom calibration pipeline due to heterogeneous array properties.",
+      "type": "finds",
+      "description": "The paper identifies the need for custom pipelines."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "EHT data is often dominated by systematic effects rather than thermal noise.",
+      "type": "has_limitation",
+      "description": "The data characteristics pose limitations for standard processing."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "KRING",
+      "type": "uses_method",
+      "description": "The paper describes the use of KRING for fringe-fitting."
+    },
+    {
+      "source": "KRING",
+      "target": "FRING",
+      "type": "compares",
+      "description": "KRING outperforms FRING in computational efficiency while maintaining equivalent accuracy."
+    },
+    {
+      "source": "AIPS pipeline",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "The AIPS pipeline relies on Atacama Large Millimeter/submillimeter Array as a reference station."
+    },
+    {
+      "source": "KRING",
+      "target": "Signal-to-Noise Ratio",
+      "type": "has_limitation",
+      "description": "KRING cannot accumulate enough Signal-to-Noise Ratio without Atacama Large Millimeter/submillimeter Array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "The paper uses System Equivalent Flux Density for flux density calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "self-calibration",
+      "type": "uses_method",
+      "description": "The paper uses self-calibration methods."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "AIPS fringe-fitting pipeline",
+      "type": "uses_method",
+      "description": "The paper uses the AIPS fringe-fitting pipeline."
+    },
+    {
+      "source": "AIPS fringe-fitting pipeline",
+      "target": "KRING",
+      "type": "uses_method",
+      "description": "The AIPS fringe-fitting pipeline uses the KRING fringe fitter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "The paper determines the System Equivalent Flux Density for stations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Focus or pointing errors are difficult to quantify using available metadata.",
+      "type": "has_limitation",
+      "description": "The paper states that focus or pointing errors are difficult to quantify."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "The paper describes calibration processing for the Event Horizon Telescope array."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "System Temperature",
+      "type": "uses_metric",
+      "description": "The array measures system temperature using the chopper method."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "Aperture Efficiency",
+      "type": "uses_metric",
+      "description": "The array quantifies telescope efficiency using aperture efficiency."
+    },
+    {
+      "source": "Event Horizon Telescope",
+      "target": "Sideband Ratio",
+      "type": "uses_metric",
+      "description": "The array corrects system temperature measurements using the sideband ratio."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "South Pole Telescope suffered incomplete sideband separation in 2017",
+      "type": "has_limitation",
+      "description": "The authors note the South Pole Telescope had uncharacterized effective sideband ratio issues."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "GILDAS",
+      "type": "uses_method",
+      "description": "The paper uses the GILDAS software package for planet brightness temperature models"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "SEFD",
+      "type": "uses_metric",
+      "description": "The paper uses System Equivalent Flux Density values for calibration analysis"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses observations of 3C 279 for calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses observations of M87 for calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Solar heating during daytime observations causes temporal variations at James Clerk Maxwell Telescope",
+      "type": "has_limitation",
+      "description": "Solar heating affects James Clerk Maxwell Telescope measurements"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Low elevation observations lead to high SEFD values due to large airmass",
+      "type": "has_limitation",
+      "description": "Low elevation increases airmass and negatively impacts SEFD"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Gravitational deformation of parabolic dishes creates elevation-dependent efficiency degradation",
+      "type": "has_limitation",
+      "description": "Gravitational deformation impacts telescope efficiency"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "A priori calibration",
+      "type": "uses_method",
+      "description": "The paper describes the a priori calibration process for visibility amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes calibration data for M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Sagittarius A*",
+      "type": "uses_dataset",
+      "description": "The paper analyzes calibration data for Sagittarius A*."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper analyzes calibration data for 3C 279."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Finding",
+      "type": "finds",
+      "description": "A priori calibration removes sensitivity differences between baselines in flux density scales."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Limitation",
+      "type": "has_limitation",
+      "description": "Elevation-dependent efficiency losses at South Pole Telescope remain uncharacterized."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "System Equivalent Flux Density used in error budget calculations"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Chopper method",
+      "type": "uses_method",
+      "description": "Chopper method used for System Temperature accuracy"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Least-squares fitting",
+      "type": "uses_method",
+      "description": "Least-squares fitting used to determine uncertainty"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Pointing or focus errors are not easily quantifiable a priori",
+      "type": "has_limitation",
+      "description": "Pointing and focus errors are not included in error budget estimates"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "phasing efficiency",
+      "type": "uses_metric",
+      "description": "Submillimeter Array estimates phasing efficiency from self-calibrated phases."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "phasing efficiency",
+      "type": "uses_metric",
+      "description": "Atacama Large Millimeter/submillimeter Array determines phasing-related factors through QA2 sensitivity tables."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "PolConvert",
+      "type": "uses_method",
+      "description": "Atacama Large Millimeter/submillimeter Array computes phased-sum signal System Equivalent Flux Density via PolConvert."
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Phasing efficiency is above 0.8 for 80 percent of ALMA and 90 percent of SMA observations.",
+      "type": "finds",
+      "description": "Observed phasing efficiency metrics at the Submillimeter Array site."
+    },
+    {
+      "source": "Atacama Large Millimeter/submillimeter Array",
+      "target": "Phasing efficiency is above 0.8 for 80 percent of ALMA and 90 percent of SMA observations.",
+      "type": "finds",
+      "description": "Observed phasing efficiency metrics at the Atacama Large Millimeter/submillimeter Array site."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "written_by",
+      "description": "The authors of the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Self-calibration",
+      "type": "uses_method",
+      "description": "Used to calibrate data from Atacama Large Millimeter/submillimeter Array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Phasing",
+      "type": "uses_method",
+      "description": "Used to process data at station sites."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "Used as a sensitivity metric for telescope stations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Phasing suffers when atmospheric coherence timescale is short relative to loop time.",
+      "type": "finds",
+      "description": "Major finding regarding atmospheric impact on phasing."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Uncertainty of 10 percent for Atacama Large Millimeter/submillimeter Array System Equivalent Flux Density is a lower limit.",
+      "type": "has_limitation",
+      "description": "Stated limitation regarding flux density estimation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Uncertainties from self-calibration and phasing are uncharacterized.",
+      "type": "has_limitation",
+      "description": "Stated limitation regarding calibration error quantification."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "a priori amplitude calibration",
+      "type": "uses_method",
+      "description": "The paper describes a priori amplitude calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "self-calibration",
+      "type": "uses_method",
+      "description": "The paper discusses self-calibration methods"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "amplitude gain modeling",
+      "type": "uses_method",
+      "description": "The paper discusses amplitude gain modeling"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "chopper calibration",
+      "type": "uses_method",
+      "description": "The paper describes the chopper calibration method"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "April 11 HOPS data set",
+      "type": "uses_dataset",
+      "description": "The paper analyzes the April 11 HOPS data set"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes M87 data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper analyzes 3C 279 data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "A priori error budget is only representative of global station performance",
+      "type": "has_limitation",
+      "description": "The a priori error budget cannot be estimated for individual scans"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Efficiency losses from pointing and focus accuracy are not included in calibration",
+      "type": "has_limitation",
+      "description": "Specific efficiency losses remain in the underlying correlated visibilities"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Uncertainty in chopper calibration due to unknown hot load coupling",
+      "type": "has_limitation",
+      "description": "The true coupling of the hot load to the receiver is unknown"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "two-load chopper method",
+      "type": "uses_method",
+      "description": "The paper describes the use of the two-load chopper method for receiver noise temperature measurement."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "single-load chopper method",
+      "type": "uses_method",
+      "description": "The paper discusses the use of the single-load chopper method at the Large Millimeter Telescope and South Pole Telescope."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Network calibration",
+      "type": "proposes_method",
+      "description": "The paper outlines Network calibration as a framework for visibility amplitude corrections."
+    },
+    {
+      "source": "Network calibration",
+      "target": "Network calibration allows for absolute amplitude calibration and tightens consistency between simultaneous baselines.",
+      "type": "finds",
+      "description": "The method enables absolute amplitude calibration and baseline consistency."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Assumptions in temperature measurements may introduce systematic biases.",
+      "type": "has_limitation",
+      "description": "Systematic biases can arise from deviations in temperature assumptions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Single-load chopper method leads to larger error contributions of five to ten percent.",
+      "type": "has_limitation",
+      "description": "The single-load chopper method has higher error contributions compared to the two-load method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Changing dish performance and intra-scan atmospheric variations are not captured by calibration measurements.",
+      "type": "has_limitation",
+      "description": "Calibration cadence fails to capture intra-scan performance changes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Operating stations past nominal conditions causes residual gains to deviate from error budgets.",
+      "type": "has_limitation",
+      "description": "Pushing stations beyond nominal conditions results in unpredictable amplitude error budget deviations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Network calibration",
+      "type": "uses_method",
+      "description": "The paper describes the implementation and usage of network calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "eht-imaging library",
+      "type": "uses_method",
+      "description": "The paper uses the eht-imaging library for calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Frequency-averaged visibility UVFITS data",
+      "type": "uses_dataset",
+      "description": "The paper processes frequency-averaged visibility UVFITS data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Thermal uncertainty",
+      "type": "uses_metric",
+      "description": "The paper uses thermal uncertainty to optimize calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Station-based System Equivalent Flux Density",
+      "type": "uses_metric",
+      "description": "The paper reports station-based System Equivalent Flux Density error budgets."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Network calibration provides gain estimates only for sites with a co-located partner.",
+      "type": "has_limitation",
+      "description": "The methodology is limited to sites with co-located partners."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Thermal noise reduces accuracy of gains estimated through network calibration.",
+      "type": "has_limitation",
+      "description": "Thermal noise negatively impacts gain estimation accuracy."
+    },
+    {
+      "source": "Network calibration",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "Network calibration enables absolute amplitude calibration for sites with co-located partners"
+    },
+    {
+      "source": "Network calibration",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "uses_method",
+      "description": "Network calibration enables absolute amplitude calibration for sites with co-located partners"
+    },
+    {
+      "source": "Network calibration",
+      "target": "Submillimeter Array",
+      "type": "uses_method",
+      "description": "Network calibration enables absolute amplitude calibration for sites with co-located partners"
+    },
+    {
+      "source": "Network calibration",
+      "target": "James Clerk Maxwell Telescope",
+      "type": "uses_method",
+      "description": "Network calibration enables absolute amplitude calibration for sites with co-located partners"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Network calibration",
+      "type": "uses_method",
+      "description": "Paper uses network calibration for data processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Paper analyzes M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Paper analyzes 3C 279"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Co-located sites acting as zero-baseline interferometers may not hold for extended sources",
+      "type": "has_limitation",
+      "description": "Assumption of zero-baseline interferometer fails for sources with extended structure like M87"
+    },
+    {
+      "source": "Haystack Observatory Post-processing System",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_method",
+      "description": "Data set used in engineering releases for the paper"
+    },
+    {
+      "source": "Astronomical Image Processing System",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_method",
+      "description": "Data set used for initial comparison"
+    },
+    {
+      "source": "Common Astronomy Software Applications",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "uses_method",
+      "description": "Data set included for comparison in the engineering release"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper utilizes the Astronomical Image Processing System for data validation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The paper utilizes the Haystack Observatory Postprocessing System as the primary scientific pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "The paper utilizes Common Astronomy Software Applications for validation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_dataset",
+      "description": "The paper uses flux density estimates from Atacama Large Millimeter/submillimeter Array observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Inability to jointly fit source parameters along with gains",
+      "type": "has_limitation",
+      "description": "Calibration of systematics is limited by inability to jointly fit source parameters and gains."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Stokes I",
+      "type": "uses_metric",
+      "description": "The release provides calibrated total intensity products."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Scientific data product covering this astronomical object."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Scientific data product covering this astronomical object."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "closure phase",
+      "type": "uses_method",
+      "description": "Used as a derivative data product robust against station-based gain errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "log closure amplitude",
+      "type": "uses_method",
+      "description": "Used to cancel gain factors in visibility amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "polarimetric leakage calibration",
+      "type": "has_limitation",
+      "description": "The issue of polarimetric leakage calibration and correction is not addressed."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "SR1",
+      "type": "uses_dataset",
+      "description": "The paper uses the SR1 data set."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_dataset",
+      "description": "The paper uses the HOPS data set."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Stokes I Signal-to-Noise Ratio",
+      "type": "uses_metric",
+      "description": "The paper uses Stokes I Signal-to-Noise Ratio for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 observational data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses 3C 279 observational data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The pipeline used for aggregate baseline coverage analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The source observed in the 2017 campaign."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The source observed in the 2017 campaign."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "log closure amplitude",
+      "type": "uses_metric",
+      "description": "Used to describe data features and calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "closure phase",
+      "type": "uses_metric",
+      "description": "Used for network calibration and uncertainty characterization."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "thermal visibility error",
+      "type": "uses_metric",
+      "description": "Used to calculate uncertainties in closure quantities."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The number of closure quantities derived from SR1 visibilities is highly redundant.",
+      "type": "finds",
+      "description": "States that the maximal set of closure quantities is highly redundant."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Selection of a non-redundant data set is not unique and is non-trivial.",
+      "type": "has_limitation",
+      "description": "The process of selecting a minimal data subset is non-trivial."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Messier 87",
+      "type": "uses_dataset",
+      "description": "The study analyzes data from Messier 87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The study analyzes data from 3C 279."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atmospheric Phase Corrections",
+      "type": "uses_method",
+      "description": "Pipelines utilize atmospheric phase corrections."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Amplitude Calibration",
+      "type": "uses_method",
+      "description": "The study utilizes amplitude calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Network Calibration",
+      "type": "uses_method",
+      "description": "The study utilizes network calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Signal-to-Noise Ratio",
+      "type": "uses_metric",
+      "description": "Signal-to-noise ratio is calculated for baseline lengths."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Correlated Flux Density",
+      "type": "uses_metric",
+      "description": "Correlated flux density is measured for Messier 87 and 3C 279."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Messier 87",
+      "type": "finds",
+      "description": "Messier 87 exhibits visibility nulls at 3.4 Giga-lambda and 8.3 Giga-lambda."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS pipeline",
+      "type": "uses_method",
+      "description": "The paper uses the HOPS pipeline for data processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses observational data of M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses observational data of 3C 279"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87 source is compact with spatial scale under 50 microarcseconds",
+      "type": "finds",
+      "description": "The study determined the spatial scale of M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87 exhibits modest source evolution between two observation night pairs",
+      "type": "finds",
+      "description": "The study observed time variability in M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Reduced efficiency of James Clerk Maxwell Telescope or Large Millimeter Telescope",
+      "type": "has_limitation",
+      "description": "Telescope pointing issues or surface instability affected data quality"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "eat library",
+      "type": "uses_method",
+      "description": "The paper uses the eat library for data validation tests."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_dataset",
+      "description": "The paper uses HOPS data for correlated flux density analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Finding: Closure phases show night-to-night variability near visibility amplitude nulls.",
+      "type": "finds",
+      "description": "The paper reports closure phase variability related to visibility amplitude nulls."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Limitation: Outliers in correlated flux density due to reduced Large Millimeter Telescope or James Clerk Maxwell Telescope performance.",
+      "type": "has_limitation",
+      "description": "The paper acknowledges performance issues affecting flux density measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The paper uses the Haystack Observatory Postprocessing System for data processing."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Finding: No false fringes or corrupted measurements exist above the detection threshold.",
+      "type": "finds",
+      "description": "The paper concludes there are no false fringes or corrupted measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Finding: Thermal error is essential for VLBI uncertainties and noise debiasing.",
+      "type": "finds",
+      "description": "The paper identifies the importance of thermal error in uncertainty calculations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Correlation coefficients",
+      "type": "uses_metric",
+      "description": "The paper uses correlation coefficients as a metric."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Three sigma outliers",
+      "type": "uses_metric",
+      "description": "The paper uses three sigma outliers for distribution analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Thermal error",
+      "type": "uses_metric",
+      "description": "The paper uses thermal error as a metric for Very Long Baseline Interferometry uncertainties."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_method",
+      "description": "The paper evaluates thermal uncertainty using the HOPS pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CASA",
+      "type": "uses_method",
+      "description": "The paper evaluates thermal uncertainty using the CASA pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "AIPS",
+      "type": "uses_method",
+      "description": "The paper evaluates thermal uncertainty using the AIPS pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS provides the most accurate accounting of thermal uncertainty",
+      "type": "finds",
+      "description": "The paper concludes HOPS is the most accurate pipeline for thermal uncertainty."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "AIPS pipeline requires a large scaling factor for final output",
+      "type": "has_limitation",
+      "description": "The AIPS pipeline needs manual scaling to correctly represent thermal uncertainty."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CASA reported weights lead to a 5 percent underestimation of thermal uncertainty",
+      "type": "has_limitation",
+      "description": "CASA pipeline exhibits a bias in its reported weight interpretation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Empirical uncertainty estimation is biased by intra-scan amplitude gain variation",
+      "type": "has_limitation",
+      "description": "High intra-scan amplitude variations inflate the empirical uncertainty estimator."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper is authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "The paper describes the use of the Common Astronomy Software Applications pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The paper describes the use of the Haystack Observatory Postprocessing System pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper utilizes data from the M87 black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper utilizes data from the 3C 279 quasar."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Signal-to-Noise Ratio",
+      "type": "uses_metric",
+      "description": "The paper uses Signal-to-Noise Ratio for evaluating data quality."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Imperfect phase correction leads to decoherence and non-closing amplitude errors.",
+      "type": "has_limitation",
+      "description": "The paper explicitly states that imperfect phase correction causes decoherence."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Relative difference between Right Circular Polarization and Left Circular Polarization feeds is stable.",
+      "type": "finds",
+      "description": "The analysis demonstrates the stability of Right Circular Polarization and Left Circular Polarization feeds."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "SR1",
+      "type": "uses_dataset",
+      "description": "The paper uses the SR1 data set for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_method",
+      "description": "The paper utilizes HOPS data products."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "median absolute deviation",
+      "type": "uses_metric",
+      "description": "The paper uses a modified median absolute deviation statistic for error quantification."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Coherent averaging over scans is admissible for the SR1 data set",
+      "type": "finds",
+      "description": "The paper finds that coherent averaging is acceptable for the specified data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Uncalibrated polarimetric leakage remains in the SR1 data set",
+      "type": "has_limitation",
+      "description": "Polarimetric leakage remains uncalibrated in the data set."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Low signal-to-noise ratio data below 7",
+      "type": "has_limitation",
+      "description": "The normal distribution approximation does not hold for low signal-to-noise ratio data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by The Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_method",
+      "description": "The paper uses the HOPS pipeline for data reduction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from 3C 279."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Finding",
+      "type": "finds",
+      "description": "Systematic uncertainties for 3C 279 strongly dominate over thermal scatter."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Limitation",
+      "type": "has_limitation",
+      "description": "Frequency-dependent polarimetric leakage may contribute to systematic errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses 3C 279 for systematic error analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 for systematic error analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "closure phase",
+      "type": "uses_metric",
+      "description": "The paper uses closure phase to quantify systematic errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "log closure amplitude",
+      "type": "uses_metric",
+      "description": "The paper uses log closure amplitude for error budget assessment."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_method",
+      "description": "The paper uses HOPS as a data reduction pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CASA",
+      "type": "uses_method",
+      "description": "The paper uses CASA as a data reduction pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Polarimetric leakage explains 3C 279 systematic errors in trivial closure phases.",
+      "type": "finds",
+      "description": "Findings regarding 3C 279 systematic errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Intra-site baselines are susceptible to contamination from large-scale structure.",
+      "type": "has_limitation",
+      "description": "Limitation concerning intra-site baselines and large-scale structure contamination."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS",
+      "type": "uses_method",
+      "description": "The paper utilizes the HOPS pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CASA",
+      "type": "uses_method",
+      "description": "The paper utilizes the CASA pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "AIPS",
+      "type": "uses_method",
+      "description": "The paper utilizes the AIPS pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 observational data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses 3C 279 observational data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "HOPS and CASA pipelines are the most consistent for M87 data",
+      "type": "finds",
+      "description": "The paper identifies the consistency level between pipelines."
+    },
+    {
+      "source": "AIPS",
+      "target": "AIPS pipeline struggles with low signal-to-noise data",
+      "type": "has_limitation",
+      "description": "The AIPS pipeline has difficulty constraining fringe solutions in low signal-to-noise data."
+    },
+    {
+      "source": "HOPS",
+      "target": "visibilities reduced by separate pipelines share the same thermal noise realization",
+      "type": "has_limitation",
+      "description": "Data are not independent variables due to shared thermal noise."
+    },
+    {
+      "source": "CASA",
+      "target": "visibilities reduced by separate pipelines share the same thermal noise realization",
+      "type": "has_limitation",
+      "description": "Data are not independent variables due to shared thermal noise."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "Paper uses Haystack Observatory Postprocessing System for data analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "Paper uses Common Astronomy Software Applications for data analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "Paper uses Astronomical Image Processing System for data analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Paper utilizes data from the M87 target."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Closure quantities are robust independent of station-based gains.",
+      "type": "finds",
+      "description": "The study demonstrates robustness of closure quantities."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "AIPS data exhibits a bias toward zero closure phase due to point-source modeling.",
+      "type": "has_limitation",
+      "description": "The authors identify a bias in the Astronomical Image Processing System data."
+    },
+    {
+      "source": "Haystack Observatory Postprocessing System",
+      "target": "Common Astronomy Software Applications",
+      "type": "compares",
+      "description": "Pipeline comparison between Haystack Observatory Postprocessing System and Common Astronomy Software Applications."
+    },
+    {
+      "source": "Astronomical Image Processing System",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "compares",
+      "description": "Pipeline comparison between Astronomical Image Processing System and Haystack Observatory Postprocessing System."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "Used as the primary scientific data set pipeline"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "Used as a secondary calibration environment"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "Used as a modern environment for radio interferometer calibration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Science Release 1",
+      "type": "uses_dataset",
+      "description": "Describes the first science release of calibrated data products"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Primary science target for the campaign"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Sgr A*",
+      "type": "uses_dataset",
+      "description": "Horizon-scale imaging target"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Secondary science target"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Closure phases",
+      "type": "uses_metric",
+      "description": "Used to estimate residual non-closing systematic errors"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Engineering Release 5",
+      "type": "uses_dataset",
+      "description": "Included the Common Astronomy Software Applications pipeline"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "finds",
+      "description": "Pipelines show a high degree of general consistency"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "has_limitation",
+      "description": "Expanded network created unique analysis challenges due to heterogeneous nature"
+    },
+    {
+      "source": "Astronomical Image Processing System",
+      "target": "Very Long Baseline Array",
+      "type": "builds_on",
+      "description": "Standard calibration environment for data from major facilities"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "written_by",
+      "description": "The Event Horizon Telescope Collaboration wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "Used as the primary data processing pipeline."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "Used as a comparison pipeline for cross-validation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "Used as a comparison pipeline for cross-validation."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "SR1",
+      "type": "uses_dataset",
+      "description": "The study utilized the SR1 data set."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "Analysis performed on the M87 data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "Analysis performed on the 3C 279 data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Closure phases",
+      "type": "uses_metric",
+      "description": "Used to validate pipeline consistency."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Closure amplitudes",
+      "type": "uses_metric",
+      "description": "Used to validate pipeline consistency."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Visibility error",
+      "type": "uses_metric",
+      "description": "Used for inter-pipeline consistency measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Residual non-closing systematic errors",
+      "type": "finds",
+      "description": "Residual non-closing systematic errors remain smaller than Stokes I thermal uncertainties for M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atmospheric water vapor",
+      "type": "has_limitation",
+      "description": "Atmospheric water vapor creates challenges for flux density calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Pointing and surface accuracy",
+      "type": "has_limitation",
+      "description": "Difficulties maintaining pointing and surface accuracy at EHT frequencies."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Absolute flux density calibration",
+      "type": "has_limitation",
+      "description": "Absolute flux density calibration is challenging due to opacity and instrumental factors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper processes and calibrates the M87 data set."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "visibility amplitude",
+      "type": "uses_metric",
+      "description": "The paper uses visibility amplitude to characterize source structure."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "closure phase",
+      "type": "uses_metric",
+      "description": "The paper uses closure phase to detect intrinsic source evolution."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "M87 data set shows non-Gaussian structure and non-zero closure phases",
+      "type": "finds",
+      "description": "The study reports non-Gaussian structure and non-zero closure phases in M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "intrinsic source variability",
+      "type": "has_limitation",
+      "description": "Intrinsic source variability complicates calibration for low-elevation targets."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "increased amplitude gain variability",
+      "type": "has_limitation",
+      "description": "Increased amplitude gain variability requires additional calibration efforts."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was authored by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "The paper uses the Haystack Observatory Postprocessing System for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "The paper uses the Common Astronomy Software Applications pipeline for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "The paper uses the Astronomical Image Processing System pipeline for fringe-fitting."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "2017 observations",
+      "type": "uses_dataset",
+      "description": "The paper analyzes data from the 2017 observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "The 2017 observations deliver data of unprecedented scientific quality.",
+      "type": "finds",
+      "description": "The authors report on the high quality of the 2017 data."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Vulnerability to poor weather and loss of sensitive central anchor stations.",
+      "type": "has_limitation",
+      "description": "The array faces limitations regarding weather robustness and station loss."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope 2017 data set",
+      "type": "uses_dataset",
+      "description": "The paper uses the 2017 data set for scientific discoveries."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "imaging",
+      "type": "uses_method",
+      "description": "The paper utilizes imaging for scientific discovery."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "model fitting",
+      "type": "uses_method",
+      "description": "The paper utilizes model fitting for scientific discovery."
+    },
+    {
+      "source": "Eric W. Greisen",
+      "target": "Astronomical Image Processing System",
+      "type": "proposes_method",
+      "description": "Extended the capabilities of the software package"
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Processing Calibration",
+      "type": "written_by",
+      "description": "The authors of the paper"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "Used to handle wide-bandwidth data"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "Upgraded for VLBI data processing"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_dataset",
+      "description": "Used specific ALMA observation data"
+    },
+    {
+      "source": "European Southern Observatory",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "affiliated_with",
+      "description": "Partnership member of ALMA"
+    },
+    {
+      "source": "National Science Foundation",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "affiliated_with",
+      "description": "Partnership member of ALMA"
+    },
+    {
+      "source": "National Institutes of Natural Sciences of Japan",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "affiliated_with",
+      "description": "Partnership member of ALMA"
+    },
+    {
+      "source": "National Research Council",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "affiliated_with",
+      "description": "Partnership member of ALMA"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "European Southern Observatory",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "Associated Universities, Incorporated",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "Joint ALMA Observatory",
+      "target": "National Astronomical Observatory of Japan",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "National Radio Astronomy Observatory",
+      "target": "National Science Foundation",
+      "type": "affiliated_with",
+      "description": "facility of"
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "Max-Planck-Institut für Radioastronomie",
+      "type": "affiliated_with",
+      "description": "collaboration member"
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "European Southern Observatory",
+      "type": "affiliated_with",
+      "description": "collaboration member"
+    },
+    {
+      "source": "Atacama Pathfinder Experiment",
+      "target": "Onsala Space Observatory",
+      "type": "affiliated_with",
+      "description": "collaboration member"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Smithsonian Astrophysical Observatory",
+      "type": "affiliated_with",
+      "description": "joint project partner"
+    },
+    {
+      "source": "Submillimeter Array",
+      "target": "Academia Sinica Institute of Astronomy and Astrophysics",
+      "type": "affiliated_with",
+      "description": "joint project partner"
+    },
+    {
+      "source": "James Clerk Maxwell Telescope",
+      "target": "East Asian Observatory",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "Large Millimeter Telescope",
+      "target": "Instituto Nacional de Astrofísica, Óptica, y Electrónica",
+      "type": "affiliated_with",
+      "description": "joint effort partner"
+    },
+    {
+      "source": "Large Millimeter Telescope",
+      "target": "University of Massachusetts at Amherst",
+      "type": "affiliated_with",
+      "description": "joint effort partner"
+    },
+    {
+      "source": "Submillimeter Telescope",
+      "target": "Arizona Radio Observatory",
+      "type": "affiliated_with",
+      "description": "operated by"
+    },
+    {
+      "source": "Arizona Radio Observatory",
+      "target": "Steward Observatory",
+      "type": "affiliated_with",
+      "description": "part of"
+    },
+    {
+      "source": "Steward Observatory",
+      "target": "University of Arizona",
+      "type": "affiliated_with",
+      "description": "part of"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "A. Deller",
+      "type": "written_by",
+      "description": "Paper written by A. Deller"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "W. Brisken",
+      "type": "written_by",
+      "description": "Paper written by W. Brisken"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Distributed FX",
+      "type": "uses_method",
+      "description": "Paper uses Distributed FX software"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "Paper uses Event Horizon Telescope facilities"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "Paper uses Atacama Large Millimeter/submillimeter Array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Atacama Pathfinder Experiment",
+      "type": "uses_method",
+      "description": "Paper uses Atacama Pathfinder Experiment"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Institut de Radioastronomie Millimetrique 30 meter telescope",
+      "type": "uses_method",
+      "description": "Paper uses Institut de Radioastronomie Millimetrique 30 meter telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "James Clerk Maxwell Telescope",
+      "type": "uses_method",
+      "description": "Paper uses James Clerk Maxwell Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Large Millimeter Telescope",
+      "type": "uses_method",
+      "description": "Paper uses Large Millimeter Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Submillimeter Array",
+      "type": "uses_method",
+      "description": "Paper uses Submillimeter Array"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Arizona Radio Observatory Submillimeter Telescope",
+      "type": "uses_method",
+      "description": "Paper uses Arizona Radio Observatory Submillimeter Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "South Pole Telescope",
+      "type": "uses_method",
+      "description": "Paper uses South Pole Telescope"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "CALC",
+      "type": "uses_method",
+      "description": "Paper uses CALC"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "PolConvert",
+      "type": "uses_method",
+      "description": "Paper uses PolConvert"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Haystack Observatory Postprocessing System",
+      "type": "uses_method",
+      "description": "Paper uses Haystack Observatory Postprocessing System"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Common Astronomy Software Applications",
+      "type": "uses_method",
+      "description": "Paper uses Common Astronomy Software Applications"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astronomical Image Processing System",
+      "type": "uses_method",
+      "description": "Paper uses Astronomical Image Processing System"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "ParselTongue",
+      "type": "uses_method",
+      "description": "Paper uses ParselTongue"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "GNU Parallel",
+      "type": "uses_method",
+      "description": "Paper uses GNU Parallel"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "GILDAS",
+      "type": "uses_method",
+      "description": "Paper uses GILDAS"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "Paper uses eht-imaging"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Numpy",
+      "type": "uses_method",
+      "description": "Paper uses Numpy"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Scipy",
+      "type": "uses_method",
+      "description": "Paper uses Scipy"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Pandas",
+      "type": "uses_method",
+      "description": "Paper uses Pandas"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Astropy",
+      "type": "uses_method",
+      "description": "Paper uses Astropy"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Jupyter",
+      "type": "uses_method",
+      "description": "Paper uses Jupyter"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Processing Calibration",
+      "target": "Matplotlib",
+      "type": "uses_method",
+      "description": "Paper uses Matplotlib"
+    }
+  ]
+}

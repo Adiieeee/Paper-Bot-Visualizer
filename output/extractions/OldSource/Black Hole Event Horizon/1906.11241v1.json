@@ -1,0 +1,717 @@
+{
+  "file_path": "papers\\1906.11241v1.pdf",
+  "file_name": "1906.11241v1.pdf",
+  "title": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+  "year": "2019",
+  "total_pages": 52,
+  "total_chunks": 10,
+  "failed_chunks": 0,
+  "entities": [
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "regularized maximum likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "M87 images show a persistent ring with a diameter of 40 micro-arcseconds",
+      "type": "Finding"
+    },
+    {
+      "name": "Ring diameter and asymmetry are stable across different imaging techniques",
+      "type": "Finding"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Method"
+    },
+    {
+      "name": "General relativistic magnetohydrodynamic simulations",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Schwarzschild radius",
+      "type": "Metric"
+    },
+    {
+      "name": "The Event Horizon Telescope can potentially resolve general relativistic effects of the black hole.",
+      "type": "Finding"
+    },
+    {
+      "name": "Doppler-boosted emission from rotating material creates image brightness asymmetry.",
+      "type": "Finding"
+    },
+    {
+      "name": "Ground-based Very Long Baseline Interferometry requires microarcsecond resolution at wavelengths of 1 mm.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "Atacama Large Millimeter/submillimeter Array",
+      "type": "Institution"
+    },
+    {
+      "name": "Event Horizon Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "3C 279",
+      "type": "Dataset"
+    },
+    {
+      "name": "interferometric imaging",
+      "type": "Method"
+    },
+    {
+      "name": "Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "FWHM",
+      "type": "Metric"
+    },
+    {
+      "name": "compact flux density",
+      "type": "Metric"
+    },
+    {
+      "name": "Reconstructed images consistently showed a bright ring with azimuthal brightness asymmetry.",
+      "type": "Finding"
+    },
+    {
+      "name": "Early experiments could not synthesize an image of M87.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "van Cittert–Zernike theorem",
+      "type": "Method"
+    },
+    {
+      "name": "thermal noise",
+      "type": "Limitation"
+    },
+    {
+      "name": "station-dependent errors",
+      "type": "Limitation"
+    },
+    {
+      "name": "baseline-dependent errors",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "South Pole Telescope",
+      "type": "Institution"
+    },
+    {
+      "name": "closure quantities",
+      "type": "Method"
+    },
+    {
+      "name": "complex visibility",
+      "type": "Method"
+    },
+    {
+      "name": "M87",
+      "type": "Dataset"
+    },
+    {
+      "name": "South Pole Telescope is not visible to M87",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "mean squared standardized residual",
+      "type": "Metric"
+    },
+    {
+      "name": "thermal noise",
+      "type": "Metric"
+    },
+    {
+      "name": "closure quantities",
+      "type": "Method"
+    },
+    {
+      "name": "The chi-squared quantity does not formally correspond to a reduced chi-squared.",
+      "type": "Finding"
+    },
+    {
+      "name": "The chi-squared interpretation lacks correction for the effective number of image degrees of freedom.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Data processing procedures such as self-calibration can impact results.",
+      "type": "Limitation"
+    },
+    {
+      "name": "Approximations neglect cross-talk, bandpass non-factorizability, and station-dependent temporal fluctuations.",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "Closure phase",
+      "type": "Method"
+    },
+    {
+      "name": "Closure amplitudes",
+      "type": "Method"
+    },
+    {
+      "name": "Millimeter Very Long Baseline Interferometry",
+      "type": "Method"
+    },
+    {
+      "name": "Closure phase statistics",
+      "type": "Metric"
+    },
+    {
+      "name": "Closure phase errors are well approximated as Gaussian at high signal-to-noise ratio",
+      "type": "Finding"
+    },
+    {
+      "name": "Phase stability is challenging for millimeter Very Long Baseline Interferometry",
+      "type": "Limitation"
+    },
+    {
+      "name": "Closure amplitude distribution is highly non-Gaussian when measurements have low signal-to-noise ratio",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "log closure amplitude",
+      "type": "Metric"
+    },
+    {
+      "name": "image positivity",
+      "type": "Method"
+    },
+    {
+      "name": "restricted field of view",
+      "type": "Method"
+    },
+    {
+      "name": "inverse modeling",
+      "type": "Method"
+    },
+    {
+      "name": "forward modeling",
+      "type": "Method"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "regularized maximum likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "maximum entropy method",
+      "type": "Method"
+    },
+    {
+      "name": "self-calibration",
+      "type": "Method"
+    },
+    {
+      "name": "Interferometer incompletely samples visibility domain",
+      "type": "Limitation"
+    },
+    {
+      "name": "Reconstructed images are not unique",
+      "type": "Limitation"
+    },
+    {
+      "name": "Closure quantities are not independent",
+      "type": "Limitation"
+    },
+    {
+      "name": "Uncertainties on closure quantities are only approximately Gaussian",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "The Event Horizon Telescope Collaboration",
+      "type": "Author"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "DIFMAP",
+      "type": "Method"
+    },
+    {
+      "name": "Forward Modeling",
+      "type": "Method"
+    },
+    {
+      "name": "Regularized Maximum Likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "Absolute phase information",
+      "type": "Limitation"
+    },
+    {
+      "name": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "Paper"
+    },
+    {
+      "name": "Regularized Maximum Likelihood",
+      "type": "Method"
+    },
+    {
+      "name": "CLEAN",
+      "type": "Method"
+    },
+    {
+      "name": "eht-imaging",
+      "type": "Method"
+    },
+    {
+      "name": "SMILI",
+      "type": "Method"
+    },
+    {
+      "name": "Regularized Maximum Likelihood methods achieve a modest degree of super resolution.",
+      "type": "Finding"
+    },
+    {
+      "name": "Regularized Maximum Likelihood methods require the solution to a complex nonlinear optimization problem.",
+      "type": "Limitation"
+    }
+  ],
+  "relationships": [
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The study utilized the CLEAN imaging method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "regularized maximum likelihood",
+      "type": "uses_method",
+      "description": "The study utilized the regularized maximum likelihood imaging method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The study performed imaging observations of M87."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "M87 images show a persistent ring with a diameter of 40 micro-arcseconds",
+      "type": "finds",
+      "description": "The paper reports the discovery of a ring structure around the black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Ring diameter and asymmetry are stable across different imaging techniques",
+      "type": "finds",
+      "description": "The study finds the observed features are robust regardless of the imaging method used."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "The study utilizes the Event Horizon Telescope array."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "General relativistic magnetohydrodynamic simulations",
+      "type": "uses_method",
+      "description": "The study employs General relativistic magnetohydrodynamic simulations for physical modeling."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "The Event Horizon Telescope can potentially resolve general relativistic effects of the black hole.",
+      "type": "finds",
+      "description": "The study finds the telescope can resolve general relativistic effects."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Doppler-boosted emission from rotating material creates image brightness asymmetry.",
+      "type": "finds",
+      "description": "The study finds that Doppler-boosted emission causes brightness asymmetry."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Ground-based Very Long Baseline Interferometry requires microarcsecond resolution at wavelengths of 1 mm.",
+      "type": "has_limitation",
+      "description": "The study identifies resolution and wavelength requirements for ground-based imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Event Horizon Telescope",
+      "type": "uses_method",
+      "description": "The paper uses the Event Horizon Telescope for observations."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper uses M87 as the primary observation target."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "3C 279",
+      "type": "uses_dataset",
+      "description": "The paper uses 3C 279 for validation tests."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Atacama Large Millimeter/submillimeter Array",
+      "type": "uses_method",
+      "description": "The paper uses the Atacama Large Millimeter/submillimeter Array to increase sensitivity."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "interferometric imaging",
+      "type": "uses_method",
+      "description": "The paper utilizes interferometric imaging techniques."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Very Long Baseline Interferometry",
+      "type": "uses_method",
+      "description": "The paper uses Very Long Baseline Interferometry imaging for analysis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Reconstructed images consistently showed a bright ring with azimuthal brightness asymmetry.",
+      "type": "finds",
+      "description": "The study confirms the presence of a ring around the supermassive black hole."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Early experiments could not synthesize an image of M87.",
+      "type": "has_limitation",
+      "description": "Early experiments were limited by baseline coverage preventing image synthesis."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "van Cittert–Zernike theorem",
+      "type": "uses_method",
+      "description": "The paper uses the theorem to relate visibility to brightness distribution."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "thermal noise",
+      "type": "has_limitation",
+      "description": "Measured visibilities are contaminated by thermal noise."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "station-dependent errors",
+      "type": "has_limitation",
+      "description": "Measured visibilities are contaminated by station-dependent errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "baseline-dependent errors",
+      "type": "has_limitation",
+      "description": "Measured visibilities are contaminated by baseline-dependent errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "Paper authored by The Event Horizon Telescope Collaboration"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "closure quantities",
+      "type": "uses_method",
+      "description": "The paper uses closure quantities to construct data products"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "complex visibility",
+      "type": "uses_method",
+      "description": "The paper uses complex visibility as the fundamental interferometric data product"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "M87",
+      "type": "uses_dataset",
+      "description": "The paper analyzes M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "South Pole Telescope is not visible to M87",
+      "type": "has_limitation",
+      "description": "The South Pole Telescope cannot observe M87"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "mean squared standardized residual",
+      "type": "uses_metric",
+      "description": "Used to quantify agreement between a trial image and measured visibilities."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "closure quantities",
+      "type": "uses_method",
+      "description": "Constructed to be insensitive to systematic station-based gain errors."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "The chi-squared quantity does not formally correspond to a reduced chi-squared.",
+      "type": "finds",
+      "description": "Identified the formal status of the visibility chi-squared statistic."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "The chi-squared interpretation lacks correction for the effective number of image degrees of freedom.",
+      "type": "has_limitation",
+      "description": "Explicitly stated that interpretation requires caution due to lack of degrees of freedom correction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Data processing procedures such as self-calibration can impact results.",
+      "type": "has_limitation",
+      "description": "Results can be sensitive to data processing procedures."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Approximations neglect cross-talk, bandpass non-factorizability, and station-dependent temporal fluctuations.",
+      "type": "has_limitation",
+      "description": "Equation used for systematic errors is an approximation neglecting specific complex physical effects."
+    },
+    {
+      "source": "The Event Horizon Telescope Collaboration",
+      "target": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "type": "written_by",
+      "description": "The authors wrote the paper."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Closure phase",
+      "type": "uses_method",
+      "description": "The paper describes closure phase as a measurement method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Closure amplitudes",
+      "type": "uses_method",
+      "description": "The paper describes closure amplitudes for visibility amplitudes."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Closure phase statistics",
+      "type": "uses_metric",
+      "description": "The paper uses these statistics to quantify image-data agreement."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Closure phase errors are well approximated as Gaussian at high signal-to-noise ratio",
+      "type": "finds",
+      "description": "The paper notes closure phase error behavior at specific signal-to-noise ratios."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Phase stability is challenging for millimeter Very Long Baseline Interferometry",
+      "type": "has_limitation",
+      "description": "The paper identifies phase stability as a challenge for the method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Closure amplitude distribution is highly non-Gaussian when measurements have low signal-to-noise ratio",
+      "type": "has_limitation",
+      "description": "The paper notes non-Gaussian noise statistics for low signal-to-noise ratio measurements."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "log closure amplitude",
+      "type": "uses_metric",
+      "description": "Used for analysis of closure amplitudes"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "Employed for inverse modeling"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "regularized maximum likelihood",
+      "type": "uses_method",
+      "description": "Employed as a forward modeling method"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "maximum entropy method",
+      "type": "uses_method",
+      "description": "Example of a regularized maximum likelihood method"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "self-calibration",
+      "type": "uses_method",
+      "description": "Used in conjunction with CLEAN to solve for station gains"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Interferometer incompletely samples visibility domain",
+      "type": "has_limitation",
+      "description": "Leads to the ill-posed inverse problem of imaging"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Reconstructed images are not unique",
+      "type": "has_limitation",
+      "description": "Reconstruction requires external assumptions or constraints"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Closure quantities are not independent",
+      "type": "has_limitation",
+      "description": "Statistically relevant limitation for closure quantities"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Uncertainties on closure quantities are only approximately Gaussian",
+      "type": "has_limitation",
+      "description": "Affects the statistical interpretation of closure quantities"
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "The Event Horizon Telescope Collaboration",
+      "type": "written_by",
+      "description": "The paper was written by the Event Horizon Telescope Collaboration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper utilizes the CLEAN imaging method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "DIFMAP",
+      "type": "uses_method",
+      "description": "The paper uses DIFMAP software for CLEAN imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Forward Modeling",
+      "type": "uses_method",
+      "description": "The paper utilizes forward modeling approaches for imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Regularized Maximum Likelihood",
+      "type": "uses_method",
+      "description": "The paper uses Regularized Maximum Likelihood methods for imaging."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Absolute phase information",
+      "type": "has_limitation",
+      "description": "Lack of absolute phase information requires multiple iterations of CLEAN and self-calibration."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Regularized Maximum Likelihood",
+      "type": "uses_method",
+      "description": "The paper utilizes Regularized Maximum Likelihood methods for image reconstruction."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "CLEAN",
+      "type": "uses_method",
+      "description": "The paper discusses CLEAN as an alternative imaging method."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "eht-imaging",
+      "type": "uses_method",
+      "description": "The paper uses the eht-imaging software library for reconstructions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "SMILI",
+      "type": "uses_method",
+      "description": "The paper uses the SMILI software library for reconstructions."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Regularized Maximum Likelihood methods achieve a modest degree of super resolution.",
+      "type": "finds",
+      "description": "The paper identifies that Regularized Maximum Likelihood achieves super resolution."
+    },
+    {
+      "source": "First Event Horizon Telescope Results. Imaging Central Supermassive",
+      "target": "Regularized Maximum Likelihood methods require the solution to a complex nonlinear optimization problem.",
+      "type": "has_limitation",
+      "description": "The paper notes the complexity of the nonlinear optimization problem in Regularized Maximum Likelihood."
+    }
+  ]
+}
