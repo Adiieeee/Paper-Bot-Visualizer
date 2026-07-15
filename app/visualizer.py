@@ -236,6 +236,18 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
             <span>{entity_type} <span class="count">({count})</span></span>
         </div>"""
 
+    edge_counts: dict[str, int] = {}
+    for _, _, attrs in graph.edges(data=True):
+        t = attrs.get("type", "Unknown")
+        edge_counts[t] = edge_counts.get(t, 0) + 1
+
+    edge_options = ""
+    # Sort edges by count descending
+    for edge_type, count in sorted(edge_counts.items(), key=lambda x: x[1], reverse=True):
+        if count > 0:
+            label = edge_type.replace("_", " ").title()
+            edge_options += f'<option value="{edge_type}">{label} ({count})</option>'
+
     stats_html = (
         f"{graph.number_of_nodes()} nodes &nbsp;•&nbsp; "
         f"{graph.number_of_edges()} edges"
@@ -727,6 +739,20 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     </div>
   </details>
 
+  <details class="rp-section" id="details-edge-filter">
+    <summary class="rp-summary">
+      <span class="rp-summary-icon">🔍</span> Edge Filters
+    </summary>
+    <div class="rp-content">
+      <label style="font-size:12px; color:#aaa;">Highlight Relasi Spesifik:</label>
+      <select id="edge-type-select" style="width: 100%; margin-top: 8px; padding: 8px; background: rgba(15,15,26,0.85); color: #e0e0e0; border: 1px solid rgba(255,255,255,0.2); border-radius: 6px; font-size: 13px; outline: none; cursor: pointer;">
+        <option value="all">-- Tampilkan Semua --</option>
+        {edge_options}
+      </select>
+      <div id="edge-filter-desc" style="display:none; margin-top: 10px; font-size: 11px; color: #a0c4ff; line-height: 1.4; padding: 8px; background: rgba(160,196,255,0.1); border-left: 3px solid #a0c4ff; border-radius: 0 4px 4px 0;"></div>
+    </div>
+  </details>
+
   <details class="rp-section" id="details-multihop">
     <summary class="rp-summary">
       <span class="rp-summary-icon">🔗</span> Path Discovery
@@ -1191,6 +1217,85 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       }});
   }}
 
+  // Edge Filter Logic
+  var edgeSelect = document.getElementById('edge-type-select');
+  if (edgeSelect) {{
+      var edgeDescriptions = {{
+          'written_by': '<b>[Paper ➔ Author]</b><br>Menunjukkan penulis dari sebuah paper.',
+          'affiliated_with': '<b>[Author ➔ Institution]</b><br>Menunjukkan institusi tempat penulis bernaung.',
+          'uses_method': '<b>[Paper ➔ Method]</b><br>Menunjukkan bahwa paper tersebut menggunakan metode atau algoritma ini.',
+          'proposes_method': '<b>[Paper ➔ Method]</b><br>Menunjukkan bahwa paper tersebut menciptakan metode ini perdana.',
+          'uses_dataset': '<b>[Paper ➔ Dataset]</b><br>Menunjukkan bahwa paper mengevaluasi modelnya di dataset ini.',
+          'uses_metric': '<b>[Paper ➔ Metric]</b><br>Menunjukkan bahwa paper menggunakan metrik ini untuk tolak ukur.',
+          'finds': '<b>[Paper ➔ Finding]</b><br>Menunjukkan hasil temuan, kesimpulan, atau klaim dari paper.',
+          'has_limitation': '<b>[Method/Dataset ➔ Limitation]</b><br>Menunjukkan batasan atau kelemahan (kegagalan) yang diakui.',
+          'criticizes': '<b>[Paper ➔ Method/Metric]</b><br>Menunjukkan paper memberikan kritik tajam atau menemukan kecacatan fatal pada entitas tersebut.',
+          'builds_on': '<b>[Method ➔ Method]</b><br>Menunjukkan metode ini adalah perbaikan/pengembangan dari metode lain.',
+          'compares': '<b>[Method/Paper ➔ Method]</b><br>Menunjukkan perbandingan performa atau efisiensi (A vs B).',
+          'same_author': '<b>[Paper ➔ Paper]</b><br>Menunjukkan dua paper ini memiliki penulis yang sama (Cross-research).'
+      }};
+      
+      edgeSelect.addEventListener('change', function(e) {{
+          var selectedType = e.target.value;
+          
+          var descBox = document.getElementById('edge-filter-desc');
+          if (descBox) {{
+              if (selectedType === 'all') {{
+                  descBox.style.display = 'none';
+              }} else {{
+                  descBox.innerHTML = edgeDescriptions[selectedType] || 'Menampilkan relasi ' + selectedType;
+                  descBox.style.display = 'block';
+              }}
+          }}
+          
+          var allEdgesData = edges.get();
+          var edgeUpdates = [];
+          var activeNodes = new Set();
+          
+          for (var j = 0; j < allEdgesData.length; j++) {{
+              var edge = allEdgesData[j];
+              if (selectedType === 'all' || edge.rel_type === selectedType) {{
+                  edgeUpdates.push({{id: edge.id, color: {{ opacity: 1.0 }}, hidden: false}});
+                  if (selectedType !== 'all') {{
+                      activeNodes.add(edge.from);
+                      activeNodes.add(edge.to);
+                  }}
+              }} else {{
+                  edgeUpdates.push({{id: edge.id, color: {{ opacity: 0.03 }}, hidden: false}});
+              }}
+          }}
+          edges.update(edgeUpdates);
+
+          var allNodesData = nodes.get();
+          var nodeUpdates = [];
+          for (var i = 0; i < allNodesData.length; i++) {{
+              var node = allNodesData[i];
+              if (!node.original_bg) node.original_bg = node.color ? node.color.background : '#888';
+              if (!node.original_border) node.original_border = node.color ? node.color.border : '#666';
+
+              if (selectedType === 'all' || activeNodes.has(node.id)) {{
+                  nodeUpdates.push({{
+                      id: node.id, 
+                      color: {{ background: node.original_bg, border: node.original_border }},
+                      font: {{ color: "#e0e0e0" }},
+                      shadow: false
+                  }});
+              }} else {{
+                  nodeUpdates.push({{
+                      id: node.id, 
+                      color: {{ 
+                          background: hexToRgba(node.original_bg, 0.15), 
+                          border: hexToRgba(node.original_border, 0.15) 
+                      }},
+                      font: {{ color: "rgba(224,224,224,0.15)" }},
+                      shadow: false
+                  }});
+              }}
+          }}
+          nodes.update(nodeUpdates);
+      }});
+  }}
+
   document.addEventListener('click', function(e) {{
       var container = document.getElementById('search-container');
       if (container && !container.contains(e.target)) {{
@@ -1433,6 +1538,31 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       edges.update(edgeUpdates);
       
       network.fit({{nodes: pathIds, animation: {{duration: 800}}}});
+  }}
+
+  // Handle double click on empty canvas to reset all filters
+  if (typeof network !== 'undefined') {{
+      network.on("doubleClick", function(params) {{
+          if (params.nodes.length === 0 && params.edges.length === 0) {{
+              // Reset Edge Filter
+              var edgeSelect = document.getElementById('edge-type-select');
+              if (edgeSelect && edgeSelect.value !== 'all') {{
+                  edgeSelect.value = 'all';
+                  var evt = document.createEvent("HTMLEvents");
+                  evt.initEvent("change", false, true);
+                  edgeSelect.dispatchEvent(evt);
+              }}
+              
+              // Reset Search Node
+              var clearBtn = document.getElementById('clear-search');
+              if (clearBtn && clearBtn.style.display !== 'none') {{
+                  clearBtn.click();
+              }}
+              
+              // Reset Legend Highlight
+              resetHighlight();
+          }}
+      }});
   }}
 
 </script>
