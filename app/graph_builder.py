@@ -138,8 +138,21 @@ def build_graph(all_extractions: list[dict]) -> nx.Graph:
 
     print(f"  Total entitas mentah: {len(raw_entities)}")
 
+    # Extract all raw names for LLM resolution (Method, Dataset, Metric)
+    raw_names = []
+    for ent in raw_entities:
+        t = ent.get("type", "Unknown")
+        name = ent.get("name", "").strip()
+        if name and t in ["Method", "Dataset", "Metric"]:
+            raw_names.append(name)
+            
+    # Resolve aliases with LLM Entity Linking
+    from app.entity_resolver import build_entity_aliases
+    cache_path = os.path.join(os.getcwd(), "output", "extractions", "entity_aliases.json")
+    llm_aliases = build_entity_aliases(raw_names, cache_path=cache_path)
+
     # Deduplikasi entitas
-    canonical_entities, entity_map = _deduplicate_entities(raw_entities)
+    canonical_entities, entity_map = _deduplicate_entities(raw_entities, llm_aliases)
     print(f"  Setelah dedup: {len(canonical_entities)} entitas unik")
 
     # Tambahkan node ke graph
@@ -309,47 +322,67 @@ def _canonical_pair(a: str, b: str) -> tuple[str, str]:
 
 def _deduplicate_entities(
     entities: list[dict],
+    llm_aliases: dict[str, str] = None
 ) -> tuple[list[dict], dict[str, str]]:
     """
-    Deduplikasi entitas menggunakan dua strategi:
-    1. Ekspansi akronim dari COMMON_ACRONYMS
-    2. String similarity per tipe (SequenceMatcher ≥ threshold)
+    Deduplikasi entitas menggunakan LLM Entity Linking untuk tipe tertentu,
+    dan fallback string/substring matching untuk Author dan tipe lainnya.
 
     Returns:
         (canonical_entities, entity_map)
         entity_map: normalized_name → canonical_name
     """
-    # Langkah 1: Ekspansi akronim
-    expanded_entities: list[dict] = []
-    for ent in entities:
-        name = (ent.get("name") or "").strip()
-        if not name:
-            continue
-        expanded_name = _expand_acronym(name)
-        expanded_entities.append({**ent, "name": expanded_name, "_original": name})
+    if llm_aliases is None:
+        llm_aliases = {}
+        
+    canonical_entities: list[dict] = []
+    entity_map: dict[str, str] = {}  # normalized → canonical_name
+    
+    # Buat dictionary lookup yang case-insensitive dari hasil LLM
+    lower_aliases = {k.lower(): v for k, v in llm_aliases.items()}
 
-    # Langkah 2: Group by type, lalu dedup dalam tiap group
+    # Group by type
     by_type: dict[str, list[dict]] = {}
-    for ent in expanded_entities:
+    for ent in entities:
         t = ent.get("type", "Unknown")
         by_type.setdefault(t, []).append(ent)
 
-    canonical_entities: list[dict] = []
-    entity_map: dict[str, str] = {}  # normalized → canonical_name
-
     for entity_type, group in by_type.items():
-        type_canonical: list[dict] = []  # canonical entities untuk tipe ini
+        type_canonical: list[dict] = []
 
         for ent in group:
-            name = ent["name"]
+            name = (ent.get("name") or "").strip()
+            if not name:
+                continue
+                
             norm = _normalize(name)
 
-            # Jika sudah di-map sebelumnya, skip
             if norm in entity_map:
                 continue
 
-            # Cari apakah ada canonical yang mirip
             merged = False
+            
+            # 1. Cek di LLM Aliases (Prioritas Utama untuk tipe terkait)
+            if entity_type in ["Method", "Dataset", "Metric"]:
+                if name.lower() in lower_aliases:
+                    canonical_name = lower_aliases[name.lower()]
+                    entity_map[norm] = canonical_name
+                    
+                    # Cari apakah canonical_name sudah ada di type_canonical
+                    found = False
+                    for canon in type_canonical:
+                        if canon["name"].lower() == canonical_name.lower():
+                            found = True
+                            break
+                            
+                    if not found:
+                        ent["name"] = canonical_name
+                        type_canonical.append(ent)
+                        
+                    merged = True
+                    continue
+
+            # 2. Fallback untuk Author atau entitas yang tidak ada di LLM
             for canon in type_canonical:
                 canon_name = canon["name"]
                 canon_norm = _normalize(canon_name)
@@ -357,32 +390,10 @@ def _deduplicate_entities(
                 # Exact match
                 if canon_norm == norm:
                     entity_map[norm] = canon_name
-                    # Juga map nama asli sebelum expand
-                    if ent.get("_original"):
-                        entity_map[_normalize(ent["_original"])] = canon_name
                     merged = True
                     break
 
-                # Similarity check
-                ratio = SequenceMatcher(None, canon_norm, norm).ratio()
-                if ratio >= ENTITY_SIMILARITY_THRESHOLD:
-                    # Pertahankan nama yang lebih deskriptif (lebih panjang)
-                    if len(name) > len(canon_name):
-                        old_canon = canon_name
-                        canon["name"] = name
-                        # Update semua mapping yang menuju old_canon
-                        for k in list(entity_map):
-                            if entity_map[k] == old_canon:
-                                entity_map[k] = name
-                        canon_name = name
-
-                    entity_map[norm] = canon_name
-                    if ent.get("_original"):
-                        entity_map[_normalize(ent["_original"])] = canon_name
-                    merged = True
-                    break
-
-                # Substring check for Authors (e.g. "Ibrahim" in "Lujain Ibrahim")
+                # Substring check for Authors
                 if entity_type == "Author":
                     if len(canon_norm) > 4 and len(norm) > 4:
                         if canon_norm in norm or norm in canon_norm:
@@ -394,17 +405,12 @@ def _deduplicate_entities(
                                     if entity_map[k] == old_canon:
                                         entity_map[k] = name
                                 canon_name = name
-
                             entity_map[norm] = canon_name
-                            if ent.get("_original"):
-                                entity_map[_normalize(ent["_original"])] = canon_name
                             merged = True
                             break
 
             if not merged:
                 entity_map[norm] = name
-                if ent.get("_original"):
-                    entity_map[_normalize(ent["_original"])] = name
                 type_canonical.append(ent)
 
         canonical_entities.extend(type_canonical)
