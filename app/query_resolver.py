@@ -66,21 +66,36 @@ def resolve_query(query: str, aliases_cache_path: str = "output/extractions/enti
         return [], []
         
     alias_dict = {}
+    checked_entities = []
     if os.path.exists(aliases_cache_path):
         try:
             with open(aliases_cache_path, "r", encoding="utf-8") as f:
-                alias_dict = json.load(f)
+                data = json.load(f)
+                if isinstance(data, dict) and "aliases" in data and "checked_entities" in data:
+                    alias_dict = data["aliases"]
+                    checked_entities = data["checked_entities"]
+                elif isinstance(data, dict):
+                    alias_dict = data
+                    checked_entities = list(set(alias_dict.keys()) | set(alias_dict.values()))
         except Exception as e:
             logger.error(f"Gagal memuat alias dict dari {aliases_cache_path}: {e}")
             
     matched_nodes = []
     not_found = []
     
+    # Kumpulkan semua valid node IDs (canonical names yang ada di checked_entities + values dari alias)
+    # Gunakan lowercase map agar pencarian cepat
+    valid_canonicals_lower = {c.lower(): c for c in checked_entities}
+    for v in alias_dict.values():
+        valid_canonicals_lower[v.lower()] = v
+        
     for query_ent in extracted_entities:
-        # 1. Exact match (case insensitive) ke keys di alias dict
+        q_lower = query_ent.lower()
+        
+        # 1. Exact match ke keys di alias dict (Prioritas Utama)
         exact_match = None
         for alias, canonical in alias_dict.items():
-            if alias.lower() == query_ent.lower():
+            if alias.lower() == q_lower:
                 exact_match = canonical
                 break
                 
@@ -88,11 +103,25 @@ def resolve_query(query: str, aliases_cache_path: str = "output/extractions/enti
             matched_nodes.append(exact_match)
             continue
             
-        # 2. Fuzzy match fallback
+        # 2. Exact match ke Canonical Nodes langsung
+        if q_lower in valid_canonicals_lower:
+            matched_nodes.append(valid_canonicals_lower[q_lower])
+            continue
+            
+        # 3. Fuzzy match fallback
         best_match = None
         best_score = 0
+        
+        # Cek fuzzy terhadap aliases
         for alias, canonical in alias_dict.items():
-            score = SequenceMatcher(None, alias.lower(), query_ent.lower()).ratio()
+            score = SequenceMatcher(None, alias.lower(), q_lower).ratio()
+            if score > best_score:
+                best_score = score
+                best_match = canonical
+                
+        # Cek fuzzy terhadap canonicals
+        for c_lower, canonical in valid_canonicals_lower.items():
+            score = SequenceMatcher(None, c_lower, q_lower).ratio()
             if score > best_score:
                 best_score = score
                 best_match = canonical
