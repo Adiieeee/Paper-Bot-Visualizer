@@ -6,3 +6,5 @@ google-generativeai
 networkx
 pyvis
 python-dotenv
+fastapi
+uvicorn

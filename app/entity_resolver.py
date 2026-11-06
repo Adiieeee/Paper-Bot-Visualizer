@@ -18,7 +18,8 @@ For each entity in the "New Entities Chunk", check if it is a duplicate, synonym
 If it is a duplicate, output a JSON mapping: {{"New Entity": "Matched Entity from Master List"}}.
 If it is NOT a duplicate of anything in the Master List, DO NOT include it in the JSON output.
 DO NOT group entities that are distinct versions, variants, or opposite concepts (e.g., 'ResNet-44' vs 'ResNet-56' are distinct).
-
+CRITICAL 1: JANGAN gabungkan entitas yang mengandung angka, metrik, atau nomor versi yang berbeda (misal: 'Top-1' vs 'Top-5', 'CIFAR-10' vs 'CIFAR-100', 'ResNet-44' vs 'ResNet-56') meskipun mereka berada dalam kategori yang sama. Mereka adalah entitas yang BERBEDA secara semantik.
+CRITICAL 2: JANGAN petakan entitas spesifik ke kategori yang lebih umum (Hypernymy). Contoh: JANGAN petakan 'Top-1 Error' atau 'Top-5 Error' ke 'Classification error'. HANYA gabungkan jika keduanya adalah sinonim yang 100% sama maknanya (seperti 'ConvNet' dan 'Convolutional Neural Network').
 Master List of Seen Entities:
 {master_list}
 
@@ -140,8 +141,10 @@ def build_entity_aliases(raw_entities: List[str], cache_path: str = "output/extr
     chunk_size = 20
     chunks = [new_entities[i:i+chunk_size] for i in range(0, len(new_entities), chunk_size)]
     
+    print(f"  [API] Memulai proses Entity Linking ke LLM untuk {len(new_entities)} entitas baru ({len(chunks)} chunks)...")
     for i, chunk in enumerate(chunks):
         logger.info(f"Processing LLM chunk {i+1}/{len(chunks)}...")
+        print(f"    -> Memproses chunk {i+1}/{len(chunks)}...")
         matches = _run_llm(master_list, chunk)
         
         if matches:
@@ -149,7 +152,9 @@ def build_entity_aliases(raw_entities: List[str], cache_path: str = "output/extr
                 if new_ent in chunk:
                     # Match to the canonical version in master_list (case insensitive lookup)
                     final_target = matched_ent
-                    while final_target in aliases:
+                    visited = set()
+                    while final_target in aliases and final_target not in visited:
+                        visited.add(final_target)
                         final_target = aliases[final_target]
                     aliases[new_ent] = final_target
                     

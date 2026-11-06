@@ -30,7 +30,7 @@ def answer_question(query: str, graph: nx.Graph, aliases_cache_path: str = "outp
     End-to-end pipeline untuk menjawab pertanyaan menggunakan GraphRAG.
     """
     # 1. Resolve entity dari pertanyaan
-    matched_nodes, unmapped = resolve_query(query, aliases_cache_path)
+    matched_nodes, unmapped = resolve_query(query, aliases_cache_path, graph=graph)
     
     if not matched_nodes:
         return "Maaf, saya tidak menemukan entitas yang relevan dengan pertanyaan Anda di dalam graf dokumen ini."

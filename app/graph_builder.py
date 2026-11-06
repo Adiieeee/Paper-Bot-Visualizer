@@ -139,12 +139,17 @@ def build_graph(all_extractions: list[dict]) -> nx.Graph:
     print(f"  Total entitas mentah: {len(raw_entities)}")
 
     # Extract all raw names for LLM resolution (Method, Dataset, Metric)
+    # Gunakan set untuk menyimpan versi normalized agar variasi casing ter-collapse otomatis
     raw_names = []
+    seen_normalized = set()
     for ent in raw_entities:
         t = ent.get("type", "Unknown")
         name = ent.get("name", "").strip()
         if name and t in ["Method", "Dataset", "Metric"]:
-            raw_names.append(name)
+            norm = _normalize(name)
+            if norm not in seen_normalized:
+                seen_normalized.add(norm)
+                raw_names.append(name)  # Tetap kirim casing aslinya agar LLM bisa memilih/mempertahankan huruf besar yang benar
             
     # Resolve aliases with LLM Entity Linking
     from app.entity_resolver import build_entity_aliases
@@ -339,7 +344,7 @@ def _deduplicate_entities(
     entity_map: dict[str, str] = {}  # normalized → canonical_name
     
     # Buat dictionary lookup yang case-insensitive dari hasil LLM
-    lower_aliases = {k.lower(): v for k, v in llm_aliases.items()}
+    lower_aliases = {_normalize(k): v for k, v in llm_aliases.items()}
 
     # Group by type
     by_type: dict[str, list[dict]] = {}
@@ -364,8 +369,8 @@ def _deduplicate_entities(
             
             # 1. Cek di LLM Aliases (Prioritas Utama untuk tipe terkait)
             if entity_type in ["Method", "Dataset", "Metric"]:
-                if name.lower() in lower_aliases:
-                    canonical_name = lower_aliases[name.lower()]
+                if norm in lower_aliases:
+                    canonical_name = lower_aliases[norm]
                     entity_map[norm] = canonical_name
                     
                     # Cari apakah canonical_name sudah ada di type_canonical

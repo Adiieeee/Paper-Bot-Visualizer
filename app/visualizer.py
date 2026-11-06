@@ -60,6 +60,7 @@ def visualize(graph: nx.Graph, output_path: str = "output/graph.html") -> None:
         notebook=False,
         select_menu=False,
         filter_menu=False,
+        cdn_resources="in_line",
     )
 
     # Hitung frekuensi tipe node untuk hirarki ukuran
@@ -525,13 +526,13 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     box-shadow: 0 8px 30px rgba(0,0,0,0.7);
     backdrop-filter: blur(10px);
     z-index: 9998;
-    transition: left 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+    transition: left 0.3s cubic-bezier(0.25, 0.8, 0.25, 1), max-height 0.3s ease;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: #e0e0e0;
     pointer-events: auto;
     display: flex;
     flex-direction: column;
-    max-height: calc(100vh - 100px);
+    max-height: calc(100vh - 480px);
   }}
   #info-panel.open {{
     left: 20px;
@@ -574,6 +575,8 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     padding: 15px 20px 20px 20px;
     overflow-y: auto;
     font-size: 12px;
+    flex: 1;
+    min-height: 0;
   }}
   .info-group {{ margin-bottom: 16px; }}
   .info-group:last-child {{ margin-bottom: 0; }}
@@ -780,6 +783,27 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
     <strong style="color:#a0c4ff;">Metric:</strong> Tolak ukur atau standar perhitungan untuk mengevaluasi.<br>
     <strong style="color:#a0c4ff;">Finding:</strong> Kesimpulan, hasil utama, atau penemuan.<br>
     <strong style="color:#a0c4ff;">Limitation:</strong> Kelemahan, batasan, atau kekurangan.
+</div>
+
+<!-- CHATBOT UI -->
+<div id="chatbot-container" style="position:fixed; bottom:20px; left:20px; width:340px; background:rgba(15,15,26,0.95); border:1px solid rgba(255,255,255,0.15); border-radius:12px; box-shadow:0 8px 30px rgba(0,0,0,0.7); backdrop-filter:blur(10px); z-index:9999; display:flex; flex-direction:column; overflow:hidden; font-family:'Segoe UI', Tahoma, sans-serif; transition: height 0.3s; pointer-events:auto;">
+    <div id="chat-header" style="background:rgba(255,255,255,0.05); padding:12px 16px; border-bottom:1px solid rgba(255,255,255,0.1); cursor:pointer; display:flex; justify-content:space-between; align-items:center;">
+        <div style="color:#a0c4ff; font-weight:bold; font-size:14px; display:flex; align-items:center; gap:8px;">
+            <div style="width:8px; height:8px; background:#2ECC71; border-radius:50%; box-shadow:0 0 5px #2ECC71;"></div> GraphRAG Chat
+        </div>
+        <button id="chat-toggle" style="background:none; border:none; color:#888; cursor:pointer;">▼</button>
+    </div>
+    <div id="chat-body" style="height:350px; display:flex; flex-direction:column;">
+        <div id="chat-messages" style="flex:1; padding:12px; overflow-y:auto; display:flex; flex-direction:column; gap:12px; font-size:13px; color:#e0e0e0;">
+            <div style="background:rgba(255,255,255,0.05); padding:10px 12px; border-radius:8px; border-bottom-left-radius:0; max-width:85%; align-self:flex-start; line-height:1.4;">
+                Halo! Tanyakan apa saja seputar paper di dalam graf ini.
+            </div>
+        </div>
+        <div style="padding:12px; border-top:1px solid rgba(255,255,255,0.1); display:flex; gap:8px;">
+            <input type="text" id="chat-input" placeholder="Ketik pertanyaan..." style="flex:1; background:rgba(0,0,0,0.3); border:1px solid #444; border-radius:6px; padding:8px 12px; color:#fff; font-size:13px; outline:none;" autocomplete="off">
+            <button id="chat-send" style="background:#4A90D9; color:#fff; border:none; border-radius:6px; padding:0 12px; cursor:pointer; font-weight:bold; transition:background 0.2s;">&gt;</button>
+        </div>
+    </div>
 </div>
 
 <script>
@@ -1565,7 +1589,101 @@ def _inject_ui(html: str, graph: nx.Graph) -> str:
       }});
   }}
 
+  // --- CHATBOT JAVASCRIPT ---
+  var chatContainer = document.getElementById('chatbot-container');
+  if (chatContainer) {{
+      var chatHeader = document.getElementById('chat-header');
+      var chatBody = document.getElementById('chat-body');
+      var chatToggle = document.getElementById('chat-toggle');
+      var chatInput = document.getElementById('chat-input');
+      var chatSend = document.getElementById('chat-send');
+      var chatMessages = document.getElementById('chat-messages');
+
+      chatHeader.addEventListener('click', function() {{
+          var infoPanel = document.getElementById('info-panel');
+          if (chatBody.style.display === 'none') {{
+              chatBody.style.display = 'flex';
+              chatToggle.innerText = '▼';
+              if (infoPanel) infoPanel.style.maxHeight = 'calc(100vh - 480px)';
+          }} else {{
+              chatBody.style.display = 'none';
+              chatToggle.innerText = '▲';
+              if (infoPanel) infoPanel.style.maxHeight = 'calc(100vh - 100px)';
+          }}
+      }});
+
+      function appendMessage(text, isUser) {{
+          var msgDiv = document.createElement('div');
+          msgDiv.style.padding = '10px 12px';
+          msgDiv.style.borderRadius = '8px';
+          msgDiv.style.maxWidth = '85%';
+          msgDiv.style.lineHeight = '1.4';
+          
+          if (isUser) {{
+              msgDiv.style.background = 'rgba(74, 144, 217, 0.2)';
+              msgDiv.style.border = '1px solid rgba(74, 144, 217, 0.4)';
+              msgDiv.style.borderBottomRightRadius = '0';
+              msgDiv.style.alignSelf = 'flex-end';
+          }} else {{
+              msgDiv.style.background = 'rgba(255, 255, 255, 0.05)';
+              msgDiv.style.borderBottomLeftRadius = '0';
+              msgDiv.style.alignSelf = 'flex-start';
+              // Simple markdown parsing
+              text = text.replace(/\\*\\*(.*?)\\*\\*/g, '<b>$1</b>');
+              text = text.replace(/\\*(.*?)\\*/g, '<i>$1</i>');
+              text = text.replace(/\\n/g, '<br>');
+          }}
+          
+          msgDiv.innerHTML = text;
+          chatMessages.appendChild(msgDiv);
+          chatMessages.scrollTop = chatMessages.scrollHeight;
+          return msgDiv;
+      }}
+
+      async function sendMessage() {{
+          var text = chatInput.value.trim();
+          if (!text) return;
+          
+          appendMessage(text, true);
+          chatInput.value = '';
+          chatInput.disabled = true;
+          chatSend.disabled = true;
+          
+          var loadingMsg = appendMessage("...", false);
+          
+          try {{
+              var response = await fetch('/api/chat', {{
+                  method: 'POST',
+                  headers: {{ 'Content-Type': 'application/json' }},
+                  body: JSON.stringify({{ query: text }})
+              }});
+              
+              chatMessages.removeChild(loadingMsg);
+              
+              if (response.ok) {{
+                  var data = await response.json();
+                  appendMessage(data.answer, false);
+              }} else {{
+                  appendMessage("⚠️ Error: Backend server tidak merespons. Pastikan menjalankan visualisasi lewat 'python server.py'.", false);
+              }}
+          }} catch (err) {{
+              chatMessages.removeChild(loadingMsg);
+              appendMessage("⚠️ Error: Gagal menghubungi server. Pastikan menjalankan lewat 'python server.py'.", false);
+          }}
+          
+          chatInput.disabled = false;
+          chatSend.disabled = false;
+          chatInput.focus();
+      }}
+
+      chatSend.addEventListener('click', sendMessage);
+      chatInput.addEventListener('keypress', function(e) {{
+          if (e.key === 'Enter') sendMessage();
+      }});
+  }}
 </script>
+
+
 """
 
     return html.replace("</body>", injected + "\n</body>")
